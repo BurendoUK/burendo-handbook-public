@@ -29,7 +29,7 @@ We use the following tools to ensure developers adhere to coding standards acros
 * [ESLint](https://eslint.org/) for ensuring code quality across our team.
 * [Prowler](https://github.com/prowler-cloud/prowler) for ensuring compliance of architectural standards within AWS.
 
-For more information, see the [coding standards guide.](Procedures/procedures-home#coding-standards)
+For more information, see the [coding standards guide.](../Procedures/procedures-home#coding-standards)
 
 ### Dependency Management
 
