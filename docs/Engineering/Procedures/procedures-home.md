@@ -31,7 +31,7 @@ We will be running automated tests against all PRs to ensure that they will not 
 * Preview environment deployment
 * Static Code Analysis
 
-Please see the [tooling](Tooling/tool-home.md "Tooling") section for more information on the tools that we use to test our code.
+Please see the [tooling](../Tooling/tool-home.md "Tooling") section for more information on the tools that we use to test our code.
 
 ### Coding Standards
 
