@@ -24,7 +24,7 @@ Once someone has begun to review your PR, you should expect to see emoji's on yo
 
 If questions are raised, it is on you to respond in a timely fashion.  Refer to tickets or documentation when required, commit code suggestions or make the appropriate changes.  Once done inform the reviewer of any answers/changes and await further feedback or approval.
 
-### Merges ![merged](./images/merge.png)
+### Merges
 
 It is preferred that the reviewer will get the PR to a state where either feedback is required, or a merge can go ahead, by marking it appropriately.  It is the responsibility of the person raising the PR to merge it, unless requested otherwise.
 
@@ -38,7 +38,7 @@ In Slack the reviewer should mark the Slack post with the relative emoji as seen
 | :question: | Question |
 | :white_check_mark: | Approved |
 | :x: | Blocked (GIVE A REASON) |
-| ![merged](./images/merge.png) | Merged |
+| A merge icon | Merged |
 
 ### Questions :question:
 
