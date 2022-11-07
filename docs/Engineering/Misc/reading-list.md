@@ -51,7 +51,7 @@ A curated list of resources and recommended reading we at Burendo really like an
     - [Accelerate](https://itrevolution.com/book/accelerate/) Accelerate measures software delivery performance—and what drives it—using four years of groundbreaking research and rigorous statistical methods. A MUST READ for modern software development.
 
 - **Lean Software Development**
-    - [Lean Software Development](https://www.amazon.co.uk/Lean-Software-Development-Agile-Toolkit/dp/0321150783/ref=asc_df_0321150783/?tag=googshopuk-21&linkCode=df0&hvadid=310913487979&hvpos=&hvnetw=g&hvrand=13326960267889677280&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046678&hvtargid=pla-449267975030&psc=1&th=1&psc=1) A foundational classic which provides underpinning lean thinking to software delivery. Read before applying scrum or kanban.
+    - [Lean Software Development](https://www.amazon.co.uk/Lean-Software-Development-Agile-Toolkit/dp/0321150783/ref=asc_df_0321150783/?tag=googshopuk-21&linkCode=df0&hvadid=310913487979&hvpos=&hvnetw=g&hvrand=13326960267889677280&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046678&hvtargid=pla-449267975030&psc=1&th=1&psc=1) A foundational classic which provides underpinning lean thinking to software delivery. Read before applying Scrum or Kanban.
 
 ### Computer science
 
@@ -59,12 +59,12 @@ Common books about CS, without a strong reference to a particular language. How 
 
 
 - **Clean Code** by Robert C. Martin
-    - A nice practical how to guide: writing maintainable and readable code, practicing TDD, turning bad code into good code. Vivid and easy to read language.
+    - A nice practical how to guide: writing maintainable and readable code, practising TDD, turning bad code into good code. Vivid and easy to read language.
 
 
     
-### Leadership & managment
+### Leadership & management
 
 - **Extreme Ownership: How U.S. Navy SEALs Lead and Win** by Jocko Willink and Leif Babin
-    - Interesting take on how to aproach leadership and make winning a habit.
+    - Interesting take on how to approach leadership and make winning a habit.
     - Each topic contains theoretical intro, real world example from the military world and a real world example from business.
