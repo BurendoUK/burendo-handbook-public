@@ -1,4 +1,4 @@
-# Awesome Burendoers
+# RTFM
 
 A curated list of resources and recommended reading we at Burendo really like and which are aligned with our philosophy and vision.
 
