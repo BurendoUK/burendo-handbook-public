@@ -2,6 +2,8 @@
 
 A Practice curated list of resources and recommended reading we at Burendo really like and which are aligned with our philosophy and vision.
 
+Practice members should feel free to submit suggestions via PR, including a _submitted by_ line in the entry.
+
 ## Articles
 
 
