@@ -11,6 +11,9 @@ Practice members should feel free to submit suggestions via PR, including a _sub
 
 
 ## Blogs
+
+**Why T-Shaped People?** by Jason Yip - Submitted by Chris Scott-Thomas
+    - [This blog](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) captures what it means to be a consultant, from any angle, not just Engineering.
    
 
 ## Newsletters
