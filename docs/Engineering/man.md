@@ -4,16 +4,16 @@ sidebar_position: 2
 
 # Engineering Manifesto
 
-As Burendo Engineers, we should always consider the 4 tenants of Burendo Consultancy when operating internally, or externally with a client:
+As Burendo Engineers, we should always consider the 4 tenets of Burendo Consultancy when operating internally, or externally with a client:
 
 * Open
 * Transparent
 * Repeatable
 * Observable
 
-These tenants ensure we are applying the Burendo values and they guarantee we always deliver the same quality of work in all things by approaching, creating and delivering engineering work with a unified mindset.  This also means we can have high confidence in picking up unfamiliar work, creating new work, onboarding to new teams, and handing over work to others.
+These tenets ensure we are applying the Burendo values and they guarantee we always deliver the same quality of work in all things by approaching, creating and delivering engineering work with a unified mindset.  This also means we can have high confidence in picking up unfamiliar work, creating new work, onboarding to new teams, and handing over work to others.
 
-While these tenants are not written in stone, or lend themselves to any specific technology, they are the guidelines that all work should follow.
+While these tenets are not written in stone, or lend themselves to any specific technology, they are the guidelines that all work should follow.
 
 ## Open
 
