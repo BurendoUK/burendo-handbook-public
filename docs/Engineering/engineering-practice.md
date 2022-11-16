@@ -26,20 +26,20 @@ We are a community of Burendoers with a common interest in engineering; whether 
 - Repeatable
 - Observable
 
-For more details see our [Engineering Manifesto](Ways%20of%20working/man.md)
+For more details see our [Engineering Manifesto](man.md)
 
 ### Regular Meetings  
 
-All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar [here](https://outlook.office365.com/owa/engineering@Burendo.com/groupsubscription.ashx?action=join&source=Exchange&guid=44c18dc4-3a85-4c4d-9c33-19f21b1e9f7f)
+All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the [#cop-engineering](https://burendo.slack.com/archives/C03QE1AKHPG) channel on Slack.
+
 - Weekly catch up.
   - Held every Monday at 1100.
   - Stand up style format, followed by topics of discussion for upcoming work.
-  - [Join online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGYyM2JlMDItY2QxYS00ZTM5LThiZjgtMmEzMTI5MTQ1OTg3%40thread.v2/0?context=%7b%22Tid%22%3a%22e05752f8-ce37-48b9-8949-35719c09751f%22%2c%22Oid%22%3a%22b237f467-aae3-4b01-a6f2-5ad0a52b4523%22%7d)
+
 - Monthly COP meetup.
   - Held on the 3rd Thursday of every month at 1500.
   - Open forum format, with space for an agenda if required
   - We all attend in person where possible
-  - [Join online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2VlYzcxOTgtNWEyNy00OGNiLThkOTgtMDI3MGY4OTgwYTFi%40thread.v2/0?context=%7b%22Tid%22%3a%22e05752f8-ce37-48b9-8949-35719c09751f%22%2c%22Oid%22%3a%22b237f467-aae3-4b01-a6f2-5ad0a52b4523%22%7d) or attend in-person at the Burendo Offices in Leeds.
 
 
 ### Slack
