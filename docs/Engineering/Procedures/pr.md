@@ -38,7 +38,7 @@ In Slack the reviewer should mark the Slack post with the relative emoji as seen
 | :question: | Question |
 | :white_check_mark: | Approved |
 | :x: | Blocked (GIVE A REASON) |
-| A merge icon | Merged |
+| ![merged](images/merge.png) | Merged |
 
 ### Questions :question:
 
