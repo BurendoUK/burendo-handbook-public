@@ -60,19 +60,31 @@ The _*Deploy*_ concept addresses factors like;
 
 ## The Six Stages
 
-Describe the six stages.  A short blurb on each stage at a high level
+The following six stages make up the cyclical process most people are familiar with, building off the foundational concepts covered above.  We are able to confidently identify _what_ we want to do within each stage, without getting into the how.  The how, as explained above in the [Core concept](#core), will be heavily influenced by many factors and will inevitably look quite different between implementations.
 
 ### Inception
 
+[The beninging](https://www.youtube.com/watch?v=vacJSHN4ZmY).  The traditional front door.  Generally there are two main drivers at this stage, work driven by business value and work driven by improvements on previous work.  
+
 ### Prioritise
+
+It's important at this stage to engage with stakeholders and truly understand the value to the business when making decisions.  This is a two way street, as improvements may trump new work, especially when considering security and customer effecting defects.
 
 ### Design
 
+How or what are we going to do? The feedback and engagement both upward and downward becomes much more important from this stage.  Although the implementers, may well be engaged in earlier stages, this is really where those executing the design may start to influence the outcomes in earnest.
+
 ### Implement
+
+[Do it!](https://www.youtube.com/watch?v=K4eScf6TMaM) The execution phase.  Here's where we begin to see the fruits of our labour.  One of the most important [cycles within a cycle](#cycles-within-cycles) starts here.  
 
 ### Release
 
+This is where consumers of our efforts begin to feel the value.  The consumers can both be business oriented and customer oriented consumers.  We preferably release fast, small changes applied via automated processes.
+
 ### Maintain
+
+One of the largest challenges to overcome, is to observe and understand your system well enough you can foresee issues before your consumers do. This is one of the primary focuses of the maintain stage.  Through this we are able to incept work through the improvement channel, and the cycle begins anew!
 
 ## Cycles within cycles
 
