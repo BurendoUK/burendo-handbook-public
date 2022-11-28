@@ -88,8 +88,8 @@ One of the largest challenges to overcome, is to observe and understand your sys
 
 ## Cycles within cycles
 
-The SDLC is not just a linear process.  Describe loop backs like build/test/review.
+The SDLC is not just a linear process.  There are times when cycles within the cycle appears.  One of the most important to understand is during the [Develop](#develop) stage.  Where many traditional SDLCs separate out the build and test stages, we have combined this into a single stage.  This is because we believe that building, testing and reviewing all happens in this single stage, and feeds back on itself many times before being able to deploy.
 
 ## The grey line
 
-Some stages sit in more than one area.  Explain this reasoning.
+It's worth noting that the _Implement_ and _Release_ stages, are both pictured straddling the line between their adjacent foundational concepts.  This is because the tasks undertaken in both stages naturally cover both foundational concepts, or can cause feedback loops to pass into to the previous stage and potentially cause a rework of efforts in the previous stage. 
