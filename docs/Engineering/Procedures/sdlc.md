@@ -9,7 +9,7 @@ sidebar_position: 3
 
 ## What is role of the SDLC?
 
-The SDLC presents a consistent and standardised, yet flexible framework that helps users define activities and deliverables(work).  Using this framework we can build a picture, that can be understood at all levels, of how work can be taken from inception to implementation and beyond.  Once in place and its concepts are used by all, it creates higher velocity of output, increased trust between all parties involved and more creative freedom within the bounds set by the framework.
+The SDLC presents a consistent and standardised, yet flexible framework that helps users define activities and deliverables (work).  Using this framework we can build a picture, that can be understood at all levels, of how work can be taken from inception to implementation and beyond.  Once in place and its concepts are used by all, it creates higher velocity of output, increased trust between all parties involved and more creative freedom within the bounds set by the framework.
 
 ## The four D's
 
