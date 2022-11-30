@@ -9,9 +9,9 @@ sidebar_position: 3
 
 ## What is role of the SDLC?
 
-The SDLC presents a consistent and standardised, yet flexible framework that helps users define activities and deliverables(work).  Using this framework we can build a picture, that can be understood at all levels, of how work can be taken from inception to implementation and beyond.  Once in place and its concepts are used by all, it creates higher velocity of output, increased trust between all parties involved and more creative freedom within the bounds set by the framework.
+The SDLC represents a consistent and standardised, yet flexible framework that helps users define activities and deliverables(work).  Using this framework we can build a picture, that can be understood at all levels, of how work can be taken from inception to implementation and beyond.  Once in place and its concepts are used by all, it creates higher velocity of output, increased trust between all parties involved and more creative freedom within the bounds set by the framework.
 
-## The four D's
+## The Four Ds
 
 We believe the four D's create the foundational concepts that underpin the SDLC.  These foundational concepts will remain consistent, even if the concepts placed over the top of them change and evolve over time.
 
@@ -86,10 +86,10 @@ This is where consumers of our efforts begin to feel the value.  The consumers c
 
 One of the largest challenges to overcome, is to observe and understand your system well enough you can foresee issues before your consumers do. This is one of the primary focuses of the maintain stage.  Through this we are able to incept work through the improvement channel, and the cycle begins anew!
 
-## Cycles within cycles
+## Cycles Within Cycles
 
 The SDLC is not just a linear process.  There are times when cycles within the cycle appears.  One of the most important to understand is during the [Develop](#develop) stage.  Where many traditional SDLCs separate out the build and test stages, we have combined this into a single stage.  This is because we believe that building, testing and reviewing all happens in this single stage, and feeds back on itself many times before being able to deploy.
 
-## The grey line
+## The Grey Line
 
 It's worth noting that the _Implement_ and _Release_ stages, are both pictured straddling the line between their adjacent foundational concepts.  This is because the tasks undertaken in both stages naturally cover both foundational concepts, or can cause feedback loops to pass into to the previous stage and potentially cause a rework of efforts in the previous stage. 
