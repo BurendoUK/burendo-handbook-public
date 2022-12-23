@@ -27,7 +27,7 @@ We believe every engineer should have a fundamental understanding of development
 - Fundamental coding experience in Python, Java, C# or another widely used language
 - Experience in front end development with a language such as JavaScript, TypeScript, ReactJS or AngularJS
 - Experience with database technologies of some flavour
-- Proven ability to write infrastructure-as-code with Terraform or an equivalent technology
+- Fundamental understand of infrastructure-as-code with Terraform or an equivalent technology
 - Experience working with CI/CD pipelines
 - Understanding of and working experience with source control, particularly Git
 
