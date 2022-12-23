@@ -11,7 +11,7 @@ As a Senior Test Engineer at Burendo, you will work with clients to help guide t
 
 These are the most important things to us, we can teach skills, but behaviours are much harder to teach.
 
-- An analytical and questioning mind, rather than taking things at face value
+- A systematic and questioning mind, rather than taking things at face value
 - Able to be pragmatic when needed
 - A complete focus on quality at all levels in the software development life cycle
 - A great communicator who can have conversations with both technical and non-technical people
