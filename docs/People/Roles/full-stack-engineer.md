@@ -26,7 +26,7 @@ At least one of:
 - Experience working within cloud environments, such as AWS, Azure or Google Cloud Platform.
 - Fundamental coding experience in Python, Java, C#, JavaScript, TypeScript or another widely used language.
 - Experience in front end development frameworks such as ReactJS, AngularJS or Vue.
-- Fundamental understand of infrastructure-as-code with Terraform or an equivalent technology
+- Fundamental understanding of infrastructure-as-code with Terraform or an equivalent technology
 
 Any of:
 - A good understanding of and experience working with agile methodologies
