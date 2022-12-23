@@ -7,7 +7,7 @@ Great engineers come from many different backgrounds and are specialists in many
 
 ## Essential behaviours:
 
-These are the most important things to us, we can teach skills, but behaviours are much harder to teach.
+These are the things we value most at Burendo, we can teach skills, but our behaviours forge the culture we strive for.
 
 - A passion for engineering and a desire to keep learning
 - A focus on writing clear, concise code that is easy to maintain

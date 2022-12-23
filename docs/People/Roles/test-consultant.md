@@ -9,7 +9,7 @@ As a Senior Test Engineer at Burendo, you will work with clients to help guide t
 
 ## Essential behaviours:
 
-These are the most important things to us, we can teach skills, but behaviours are much harder to teach.
+These are the things we value most at Burendo, we can teach skills, but our behaviours forge the culture we strive for.
 
 - A systematic and questioning mind, rather than taking things at face value
 - Able to be pragmatic when needed
