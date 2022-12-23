@@ -36,6 +36,7 @@ We believe every engineer should have a fundamental understanding of development
 These are the little bit extra, cherry-on-top skills that will help you stand out. Still give us a shout if you haven’t currently got these skills though!
 
 - Experience with no-SQL technologies such as MongoDB
+- Experience of building CI/CD pipelines with tools such as GitHub Actions, GitLabCI, Jenkins or Azure DevOps
 - Experience working in the public sector and healthcare industry
 - Experience working in a technology or consulting company
 - Involvement in community building via blogs, online sites, meetups or other means
