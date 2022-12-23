@@ -20,7 +20,7 @@ These are the most important things to us, we can teach skills, but behaviours a
 
 ## Essential skills
 
-You’ll need some skills to help you pick the role up quickly, but it’s not a long list.
+We believe every engineer should have a fundamental understanding of development, infrastructure and testing and therefore you’ll need at least some of these skills to help you pick the role up quickly. It’s not a long list, in no particular order, and like Meatloaf said _"Two out of three ain't bad."_ 
 
 - Experience working within cloud environments, in particular AWS
 - A good understanding of and experience working with agile methodologies
@@ -38,6 +38,5 @@ These are the little bit extra, cherry-on-top skills that will help you stand ou
 - Experience with no-SQL technologies such as MongoDB
 - Experience working in the public sector and healthcare industry
 - Experience working in a technology or consulting company
-- Experience working with and building CI/CD pipelines
-- Involvement in the wider engineering community via blogs, online sites, meetups or other means
+- Involvement in community building via blogs, online sites, meetups or other means
 - Experience working with design professionals in the UX/UI space
