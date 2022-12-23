@@ -22,14 +22,17 @@ These are the most important things to us, we can teach skills, but behaviours a
 
 We believe every engineer should have a fundamental understanding of development, infrastructure and testing and therefore you’ll need at least some of these skills to help you pick the role up quickly. It’s not a long list, in no particular order, and like Meatloaf said _"Two out of three ain't bad."_ 
 
-- Experience working within cloud environments, in particular AWS
-- A good understanding of and experience working with agile methodologies
-- Fundamental coding experience in Python, Java, C# or another widely used language
-- Experience in front end development with a language such as JavaScript, TypeScript, ReactJS or AngularJS
-- Experience with database technologies of some flavour
+At least one of:
+- Experience working within cloud environments, such as AWS, Azure or Google Cloud Platform.
+- Fundamental coding experience in Python, Java, C#, JavaScript, TypeScript or another widely used language.
+- Experience in front end development frameworks such as ReactJS, AngularJS or Vue.
 - Fundamental understand of infrastructure-as-code with Terraform or an equivalent technology
+
+Any of:
+- A good understanding of and experience working with agile methodologies
 - Experience working with CI/CD pipelines
 - Understanding of and working experience with source control, particularly Git
+- Experience with database technologies of some flavour
 
 ## Desirable skills
 

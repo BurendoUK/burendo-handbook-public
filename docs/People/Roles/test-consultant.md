@@ -23,16 +23,19 @@ These are the most important things to us, we can teach skills, but behaviours a
 
 We believe every engineer should have a fundamental understanding of development, infrastructure and testing and therefore you’ll need at least some of these skills to help you pick the role up quickly. It’s not a long list, in no particular order, and like Meatloaf said _"Two out of three ain't bad."_ 
 
-- A thorough understanding of being a tester in an agile environment
-- Experience creating test strategies and collaborating with people to achieve this
-- An ability to use automation in the appropriate places
+At least one of:
+- An understanding of the testing pyramid
+- An understanding in the use of automation in the appropriate places
+- Experience of API testing using tools such as Postman or JMeter
 - Exposure to CI/CD pipelines and experience of continuous testing
-- Ability to understand and debug code using IDEs such as Visual Studio or IntelliJ
-- Experienced in API testing using tools such as Postman or JMeter
-- An understanding of behavioural driven development (BDD) and its benefits and drawbacks
-- Experience of source code management
 - An understanding of and ability to influence non-functional requirements
-- Experience in 3 Amigos sessions
+- Experience creating test strategies and collaborating with people to achieve this
+
+Any of:
+- An understanding of behavioural driven development (BDD) and its benefits and drawbacks
+- Ability to understand and debug code using IDEs such as Visual Studio or IntelliJ
+- Experience of source code management
+- A thorough understanding of being a tester in an agile environment
 - Experience working within cloud environments, in particular AWS
 
 ## Desirable skills
