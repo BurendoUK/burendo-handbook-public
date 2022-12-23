@@ -21,7 +21,7 @@ These are the most important things to us, we can teach skills, but behaviours a
 
 ## Essential skills
 
-You’ll need some skills to help you pick the role up quickly, but it’s not a long list.
+We believe every engineer should have a fundamental understanding of development, infrastructure and testing and therefore you’ll need at least some of these skills to help you pick the role up quickly. It’s not a long list, in no particular order, and like Meatloaf said _"Two out of three ain't bad."_ 
 
 - A thorough understanding of being a tester in an agile environment
 - Experience creating test strategies and collaborating with people to achieve this
@@ -40,8 +40,8 @@ You’ll need some skills to help you pick the role up quickly, but it’s not a
 These are the little bit extra, cherry-on-top skills that will help you stand out. Still give us a shout if you haven’t currently got these skills though!
 
 - Experience working with both SQL and no-SQL databases
-- Experience of code analysis tools such as SonarQube
-- Experience of building CI/CD pipelines with tools such as GitLabCI, Jenkins or Azure DevOps
+- Experience of code analysis tools such as Checkmarx, X-Ray or Sonarqube
+- Experience of building CI/CD pipelines with tools such as GitHub Actions, GitLabCI, Jenkins or Azure DevOps
 - Experience working with performance test tools such as Locust or JMeter
 - Working knowledge of infrastructure-as-code technologies such as Terraform
 - Experience working with UI automation tools such as Selenium or Cypress
