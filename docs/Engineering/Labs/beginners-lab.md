@@ -13,7 +13,7 @@ They are designed to educate people on a small section of knowledge at a time. T
 All the labs we've created for AWS are available on this handbook and in the [burendo-aws-labs](https://github.com/BurendoUK/burendo-aws-labs) repo.
 
 Available labs:
-[WordPress via AWS Console](https://handbook.burendo.com/Engineering/Labs/wordpress-via-console/)
+- [WordPress via AWS Console](https://handbook.burendo.com/Engineering/Labs/wordpress-via-console/)
 
 ## Getting started
 All labs come with an instruction set that should be all encompassing. Any issues, please raise via GitHub issue feature.
