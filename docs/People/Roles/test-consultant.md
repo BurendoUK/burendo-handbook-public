@@ -9,9 +9,9 @@ As a Senior Test Engineer at Burendo, you will work with clients to help guide t
 
 ## Essential behaviours:
 
-These are the most important things to us, we can teach skills, but behaviours are much harder to teach.
+These are the things we value most at Burendo, we can teach skills, but our behaviours forge the culture we strive for.
 
-- An analytical and questioning mind, rather than taking things at face value
+- A systematic and questioning mind, rather than taking things at face value
 - Able to be pragmatic when needed
 - A complete focus on quality at all levels in the software development life cycle
 - A great communicator who can have conversations with both technical and non-technical people
@@ -21,18 +21,21 @@ These are the most important things to us, we can teach skills, but behaviours a
 
 ## Essential skills
 
-You’ll need some skills to help you pick the role up quickly, but it’s not a long list.
+We believe every engineer should have a fundamental understanding of development, infrastructure and testing and therefore you’ll need at least some of these skills to help you pick the role up quickly. It’s not a long list, in no particular order, and like Meatloaf said _"Two out of three ain't bad."_ 
 
-- A thorough understanding of being a tester in an agile environment
-- Experience creating test strategies and collaborating with people to achieve this
-- An ability to use automation in the appropriate places
+At least one of:
+- An understanding of the testing pyramid
+- An understanding in the use of automation in the appropriate places
+- Experience of API testing using tools such as Postman or JMeter
 - Exposure to CI/CD pipelines and experience of continuous testing
-- Ability to understand and debug code using IDEs such as Visual Studio or IntelliJ
-- Experienced in API testing using tools such as Postman or JMeter
-- An understanding of behavioural driven development (BDD) and its benefits and drawbacks
-- Experience of source code management
 - An understanding of and ability to influence non-functional requirements
-- Experience in 3 Amigos sessions
+- Experience creating test strategies and collaborating with people to achieve this
+
+Any of:
+- An understanding of behavioural driven development (BDD) and its benefits and drawbacks
+- Ability to understand and debug code using IDEs such as Visual Studio or IntelliJ
+- Experience of source code management
+- A thorough understanding of being a tester in an agile environment
 - Experience working within cloud environments, in particular AWS
 
 ## Desirable skills
@@ -40,8 +43,8 @@ You’ll need some skills to help you pick the role up quickly, but it’s not a
 These are the little bit extra, cherry-on-top skills that will help you stand out. Still give us a shout if you haven’t currently got these skills though!
 
 - Experience working with both SQL and no-SQL databases
-- Experience of code analysis tools such as SonarQube
-- Experience of building CI/CD pipelines with tools such as GitLabCI, Jenkins or Azure DevOps
+- Experience of code analysis tools such as Checkmarx, X-Ray or Sonarqube
+- Experience of building CI/CD pipelines with tools such as GitHub Actions, GitLabCI, Jenkins or Azure DevOps
 - Experience working with performance test tools such as Locust or JMeter
 - Working knowledge of infrastructure-as-code technologies such as Terraform
 - Experience working with UI automation tools such as Selenium or Cypress
