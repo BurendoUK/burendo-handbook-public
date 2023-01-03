@@ -94,3 +94,12 @@ Now that you have changes in a branch off of `main`, you can open a pull request
 1. Click Create pull request.
 
 Your collaborators can now review your edits and make suggestions.
+
+
+### Merging
+
+Once your collaborators have reviewed your edits and approved of your changes - you will be able to merge your pull request.
+Merging a pull request is the final action you need to do on GitHub.
+
+Once you have merged your pull request, an automatic job will be fired to trigger the [merge pipeline](https://github.com/BurendoUK/burendo-handbook-infrastructure/blob/main/.github/workflows/tf-merge.yml) in [BurendoUK/burendo-handbook-infrastructure](https://github.com/BurendoUK/burendo-handbook-infrastructure) repo.
+After a few minutes the handbook will have updated to reflect your new changes.
