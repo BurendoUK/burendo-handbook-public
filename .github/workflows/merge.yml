@@ -6,7 +6,6 @@ on:
     paths:
       - "**/*.tf"
       - ".github/workflows/**"
-  pull_request:
 
 jobs:
   trigger-build:
@@ -27,4 +26,4 @@ jobs:
             -d '{"event_type":"content-updated"}'
         working-directory: .
         env:
-          GITHUB_TOKEN: ${{ secrets.GHA_WEBHOOK_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GHA_TOKEN }}
