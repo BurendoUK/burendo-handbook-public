@@ -16,7 +16,7 @@ This facilitates the freedom of learning without having to have the additional k
 
 ## Recognising where we can help further
 
-In a recent run through the [WordPress via AWS Console]() lab, many individuals hadn't used SSH before. People using MacOS were using the terminal and executing the commands against their host machine. We could create a bitesize information video on what is SSH, how it is used and how to connect to server using it.
+In a recent run through the [WordPress via AWS Console](https://handbook.burendo.com/Engineering/Labs/wordpress-via-console/) lab, many individuals hadn't used SSH before. People using MacOS were using the terminal and executing the commands against their host machine. We could create a bitesize information video on what is SSH, how it is used and how to connect to server using it.
 
 Alternatively, we could roll an AMI for these events which has AWS SSM agent on, so that the guests doesn't use SSH and can follow a simpler connection journey.
 
