@@ -40,4 +40,4 @@ The [#cop-product](https://burendo.slack.com/archives/C041R3MSD6V) channel on Sl
 - Our work is traditionally captured and managed in JIRA tickets.  
 - Through JIRA, we manage our backlog of work, as well as current work in flight.  
 - We tend to work in a Kanban style, as most work is undertaken ad-hoc.  Short time boxes, such as sprints, would not suit our ability to deliver.
-  - [Product Practice](https://burendo.atlassian.net/jira/software/c/projects/EP/boards/48) board.
+  - [Product Practice](https://burendo.atlassian.net/jira/software/projects/PCA/boards/82) board.
