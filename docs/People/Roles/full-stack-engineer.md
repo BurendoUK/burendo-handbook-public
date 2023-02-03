@@ -20,7 +20,7 @@ These are the things we value most at Burendo, we can teach skills, but our beha
 
 ## Essential skills
 
-We believe every engineer should have a fundamental understanding of development, infrastructure and testing and therefore you’ll need at least some of these skills to help you pick the role up quickly. It’s not a long list, in no particular order, and like Meatloaf said _"Two out of three ain't bad."_ 
+We believe every engineer should have a fundamental understanding of development, infrastructure and testing and therefore you’ll need at least some of these skills to help you pick the role up quickly. It’s not a long list, in no particular order, and like Meatloaf said _"Two out of three ain't bad."_  Burendo are invested in the growth of our consultants, and provide a healthy self development budget you can use to grow in the areas mentioned below, or any other of your choosing!
 
 At least one of:
 - Experience working within cloud environments, such as AWS, Azure or Google Cloud Platform.
