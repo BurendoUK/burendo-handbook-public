@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-## Agile Delivery Lead
+# Agile Delivery Lead
 
 ### Description
 Burendo are a Leeds based, Agile consultancy specialising in supporting large and SME organisations improve their Agile adoption and delivery processes. Our clients span multiple industries and countries, and our consultants and coaches use a blend of tools and techniques obtained through their previous practical experience to help teams improve our client’s delivery capability.
