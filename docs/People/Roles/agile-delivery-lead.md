@@ -16,23 +16,22 @@ Our Burendo employees are currently working remotely. In the future we will oper
 These are some of the things we are looking for in candidates... Don’t worry, the checklist is short. If you think you’d be a great fit for us, let us know - we’d much rather have a chat with you to see how you’d fit in!
 
 - Alignment to Agile values
-- Experience of owning and driving delivery
-- Ability to lead and facilitate Agile planning and delivery management best practices
-- Experience of driving DevOps behaviours and principles
-- Experience of Facilitating day to day Agile events
-- Experience of close collaboration with Product Owners and their stakeholders
+- Experience of owning and driving delivery of technology products and/or systems
+- Experience of close collaboration with Product Owners and stakeholders
+- Ability to provide clarity to stakeholders through in-depth knowledge and visibility on progress
+- Ability to facilitate development team activities and implement Agile delivery best practices within teams
+- Drive continuous improvement of team practices, techniques and approaches to support delivery
+- Ability to drive DevOps behaviours and principles
 - Ability to talk tech with Product delivery teams
 - Experience of exploring and implementing broader organisational change
-- Ability to facilitate Development Team Activities
-- Drive continuous improvement of team practices, techniques and approaches to support delivery
 
 ### The Nice-to-haves
 
 These aren’t essentials and we aren’t going to turn you away if you don’t have any of them, however let’s be honest… if you have these they will help you stand out from the crowd.
 
-- Experience in working in multiple industries or sectors
-- Experience in a Technology or Consultancy Company
-- Experience of working in both Public and Private sectors
+- Experience of working in multiple industries
+- Experience of working in a technology systems or product development consultancy
+- Experience of working in both public and private sectors
 
 ### Benefits
 - Access to Burendo communities of practice, interest and BAD toolkit events
