@@ -9,7 +9,7 @@ Welcome to the  **Burendo Handbook**.
 
 ## What is it?
 
-The Burendo Handbook is a place where we, as Burendoers, share our approaches, ways of working, templates, procedures and tooling.  It's built by Burendoers and reflects how we work together to support our customers.  It aligns to our core values:
+The Burendo Handbook is a place where we, as Burendoers, share our approaches, ways of working, templates, procedures and tooling.  It's built by Burendoers and reflects how we work together to support our customers.  The Handbook aligns to our core values:
 
 * A pragmatic attitude to delivery
 * Make great things happen
@@ -19,3 +19,7 @@ The Burendo Handbook is a place where we, as Burendoers, share our approaches, w
 For more information, please see: https://www.burendo.com/burendo-values/
 
 If you want to know how we approach something within Burendo, it'll likely be within these pages.  Please use the search functionality (top right) to help find what you're looking for, or feel free to browse the pages by category on the left!
+
+## How do I contribute to it
+
+The **Burendo Handbook** is built from an open source repository based in GitHub.  Anyone can contribute, the repository can be found here: https://github.com/BurendoUK/burendo-handbook-public
