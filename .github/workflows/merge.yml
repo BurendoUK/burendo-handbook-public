@@ -5,6 +5,7 @@ on:
       - main
     paths:
       - "docs/**"
+      - "blog/**"
 
 jobs:
   trigger-build:
