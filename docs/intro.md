@@ -16,4 +16,4 @@ If you want to know how we do something within Burendo, it'll likely be within t
 
 This is not the staff handbook, as referred to in your employee contracts.  Please use our internal HR tool, contact your line manager or the People team for assistance.
 
-This is not our website. Our website is [here](http://www.burendo.com) and details who are, what we can do for clients and our services we provice. Please do visit it to take a look!
+This is not our website. Our website is [here](http://www.burendo.com) and details who are, what we can do for clients and our services we provide. Please do visit it to take a look!
