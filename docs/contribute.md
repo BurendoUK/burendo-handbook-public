@@ -1,6 +1,5 @@
 ---
 sidebar_position: 4
-slug: /
 pagination_next: null
 pagination_prev: null
 ---
