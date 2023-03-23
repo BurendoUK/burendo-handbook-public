@@ -55,13 +55,13 @@ To make changes, you need to open the [public](https://github.com/BurendoUK/bure
 
 The first thing to do is to create a `branch` for making your changes on. To do this, click the highlighted button from the repository in the browser:
 
-![Root of branch with main button highlighted](../images/Contribution/Main-button.png)
+![Root of branch with main button highlighted](images/Contribution/Main-button.png)
 
 If you have previously created a branch and you are coming back to complete your changes, type the name here and click the branch to select it.
 
 If you haven't yet created a branch for this contribution, then type the name here you want and click "create branch". A suggested naming convention for the branch is `name-purpose` so for example for this guide I created a test branch like this:
 
-![Test branch creation](../images/Contribution/Test-branch-creation.png)
+![Test branch creation](images/Contribution/Test-branch-creation.png)
 
 Once you have created or selected your branch, you will see it selected in the drop down. You can now make all your contributions.
 
@@ -70,11 +70,11 @@ Once you have created or selected your branch, you will see it selected in the d
 
 To create a new document, first enter the `docs` folder in the folder structure:
 
-![Docs folder](../images/Contribution/Docs-folder.png)
+![Docs folder](images/Contribution/Docs-folder.png)
 
 The docs you see here match the docs in the [live handbook](https://handbook.burendo.com/). You will see the folder structure matches the sidebar automatically. Once in the docs folder, click the "Add file" drop down top right and select "Create new file". You will get a page similar to this:
 
-![Create new file](../images/Contribution/Create-new-document.png)
+![Create new file](images/Contribution/Create-new-document.png)
 
 Enter the new file name at the top - the name doesn't matter too much, so just make it logical and ensure it is all lowercas and **ensure the file name ends in `.md`**. You can't create new folders directly, so if you want your file in a new folder add it as part of the file name - for example, `subfolder/file.md`.
 
@@ -85,7 +85,7 @@ You may now write your new document - see the section [on markdown and submittin
 
 To open a document for edit, again enter the `docs` folder in the folder structure, find the file you wish to edit (remember the file structure == the menu structure in the Handbook) and click on it to open it. You will see the file open to edit, like below when I have opened the `intro.md` file:
 
-![Edit file](../images/Contribution/Edit-file.png)
+![Edit file](images/Contribution/Edit-file.png)
 
 You may now edit the document so click the pencil icon to edit the document and then see the section [on markdown and submitting changes](#write-your-document-and-submit-changes).
 
@@ -98,11 +98,11 @@ One of the areas people struggle with in Markdown is tables - one way is to use 
 
 Click the "Preview" button on the edit page to view what your page will look like when published, which gives you a view similar to this for the intro page:
 
-![Intro document preview](../images/Contribution/Intro-preview.png)
+![Intro document preview](images/Contribution/Intro-preview.png)
 
 Once you have made all the changes you wish to in your new or existing document, you can submit them as completed. This doesn't make them live yet so don't worry! In the "Commit changes" dialog, simply fill in the first box with a summary of the changes and then add a description. Leave the `Commit directly to the xxxxx branch.` option selected and click "Commit changes"! For instance here is my commit message for my changes to `intro.md`:
 
-![Commit message filled in](../images/Contribution/Commit-message.png)
+![Commit message filled in](images/Contribution/Commit-message.png)
 
 You may create more pages and/or edit more existing pages as you wish to for this contribution. Just ensure that on each one, you commit changes when done! You may also go back to your pages you have already created and edited and update them again if needed. The process is exactly the same as above.
 
@@ -113,15 +113,15 @@ When you have finished your contribution, you need to [submit it for review](#su
 
 If your contribution is a blog, then the process is very similar to documents, but slightly different. To create a new blog, first enter the `blogs` folder in the folder structure:
 
-![Root of blog folder](../images/Contribution/Blog-folder.png)
+![Root of blog folder](images/Contribution/Blog-folder.png)
 
 You will then need to edit the `authors.yml` file. Click the file to edit it, which will show similar to below:
 
-![Authors file open](../images/Contribution/Authors-file.png)
+![Authors file open](images/Contribution/Authors-file.png)
 
 Click the pencil icon to edit the file to show the below:
 
-![Authors file open for edit](../images/Contribution/Authors-file-edit.png)
+![Authors file open for edit](images/Contribution/Authors-file-edit.png)
 
 You don't need to worry about the language or syntax here because all you need to do is copy and paste a block (i.e. copy and paste the `sburton` block with everything below is that is **indented**). Then change `sburton` on the pasted block to your initial and surname in lowercase and edit the details for the new block to match your details.
 
@@ -131,7 +131,7 @@ Now you will create your blog. This is the easiest way to do this:
 
 - Open the last blog that is in the folder (i.e. the last one that starts with a date as a file name) to show something similar to below:
 
-![Last blog file open](../images/Contribution/Last-blog-file.png)
+![Last blog file open](images/Contribution/Last-blog-file.png)
 
 - Click "Raw" to open the file in its raw data form
 - Copy the test at the top inbetween the lines with `---` on
@@ -139,7 +139,7 @@ Now you will create your blog. This is the easiest way to do this:
 - Go back to the `blog` folder
 - Click "Add file" and select "Create new file" from the drop down to show a screen similar to below:
 
-![New blog file](../images/Contribution/New-blog.png)
+![New blog file](images/Contribution/New-blog.png)
 
 - Enter a file name with the following format: `YYYY-MM-DD-Name-of-blog.md`
 - Write your blog - see the section [on markdown and submitting changes](#write-your-document-and-submit-changes)
@@ -151,19 +151,19 @@ When you have finished your contribution, you need to [submit it for review](#su
 
 Now that all your changes are done, you can submit them for review! To do this, go to the route folder - the easiest way is to click on `burendo-handbook-public` on the breadcrumbs which appear on all pages like this:
 
-![Breadcrumbs example](../images/Contribution/Breadcrumbs.png)
+![Breadcrumbs example](images/Contribution/Breadcrumbs.png)
 
 From here, you will see a page similar to below. Note the new green button at the top right:
 
-![Branch ready to submit changes](../images/Contribution/Ready-to-submit.png)
+![Branch ready to submit changes](images/Contribution/Ready-to-submit.png)
 
 Click the big green button that says `Compare & pull request` and you will be taken to a screen similar to this:
 
-![New pull request page](../images/Contribution/New-pull-request.png)
+![New pull request page](images/Contribution/New-pull-request.png)
 
 If you have only changed one file it's likely everything is filled in for you, like I have here. If not, then enter a title for the contribution, summing it up is the first text box and then describe all the changes in the bigger text box. When happy click on `Create pull request` to show a screen similar to below:
 
-![New pull request created](../images/Contribution/Pull-request-created.png)
+![New pull request created](images/Contribution/Pull-request-created.png)
 
 Now all you need to do is copy the URL to this page, go to the `#cop-engineering` channel in slack and post a message similar to below:
 
