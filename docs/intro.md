@@ -1,6 +1,8 @@
 ---
 sidebar_position: 1
 slug: /
+pagination_next: null
+pagination_prev: null
 ---
 
 # The Burendo Handbook
