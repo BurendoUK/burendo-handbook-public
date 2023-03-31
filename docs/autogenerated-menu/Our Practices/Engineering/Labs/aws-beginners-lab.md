@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Beginners Labs
+# AWS Beginners Labs
 We want to encourage, educate and engage with budding engineers - one way to do this is to run beginners labs.
 These sessions aren't limited just for beginners - we can use the pre-made sessions to educate and up skill our own and client engineers.
 
@@ -14,6 +14,7 @@ All the labs we've created for AWS are available on this handbook and in the [bu
 
 Available labs:
 - [WordPress via AWS Console](https://handbook.burendo.com/Engineering/Labs/wordpress-via-console/)
+- [WordPress via Infrastructure as Code](https://handbook.burendo.com/Engineering/Labs/wordpress-via-iac/)
 
 ## Getting started
 All labs come with an instruction set that should be all encompassing. Any issues, please raise via GitHub issue feature.
