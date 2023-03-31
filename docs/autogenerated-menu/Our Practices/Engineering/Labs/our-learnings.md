@@ -8,7 +8,7 @@ We want to be transparent about our learnings, so that anyone looking to build a
 
 ## Recognising where we can help further
 
-In a recent run through the [WordPress via AWS Console](https://handbook.burendo.com/Engineering/Labs/wordpress-via-console/) lab, many individuals hadn't used SSH before. People using MacOS were using the terminal and executing the commands against their host machine. We could create a bitesize information video on what is SSH, how it is used and how to connect to server using it.
+In a recent run through the [WordPress via AWS Console](https://github.com/BurendoUK/burendo-aws-labs/tree/main/Labs/wordpress-via-console) lab, many individuals hadn't used SSH before. People using MacOS were using the terminal and executing the commands against their host machine. We could create a bitesize information video on what is SSH, how it is used and how to connect to server using it.
 
 Alternatively, we could roll an AMI for these events which has AWS SSM agent on, so that the guests doesn't use SSH and can follow a simpler connection journey.
 
@@ -18,7 +18,7 @@ Investing in the material prior the event will be worth it. We have the ability 
 
 ## Reducing the differences between operating systems
 
-When developing the [WordPress via Infrastructure as Code](https://handbook.burendo.com/Engineering/Labs/wordpress-via-iac/) lab, we attempted to reduce the differences in instructions across operating systems - to make it easier to teach but also to debug.
+When developing the [WordPress via Infrastructure as Code](https://github.com/BurendoUK/burendo-aws-labs/tree/main/Labs/wordpress-via-iac) lab, we attempted to reduce the differences in instructions across operating systems - to make it easier to teach but also to debug.
 As a result, we've developed a CLI 'toolbox' Docker container - aptly named the [Lab container](https://github.com/BurendoUK/burendo-aws-labs/blob/main/Labs/LABS-CONTAINER.md). This container has installed all the tools someone would require to conduct any of the labs we create.
 
 ## Distribution
