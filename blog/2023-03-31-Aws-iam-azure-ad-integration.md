@@ -10,6 +10,8 @@ tags: [Cloud, AWS, Azure, IAM, SAML]
 
 When it comes to User Management and authentication into multiple systems, it's good practice to have a single source of truth, and this applies even for authentication into public clouds. In this blog post we will cover how to integrate Azure AD and AWS IAM Identity Center, so that you can have a central mechanism of managing user accounts.
 
+<!--truncate-->
+
 ### Pre-requisites
 
 In order to try this out, you will need:
