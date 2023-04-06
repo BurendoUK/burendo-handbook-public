@@ -1,7 +1,7 @@
 ---
 title: Azure AD and AWS IAM Identity Centre Integration
 description: How to integrate Azure AD and IAM Identity Centre
-slug: cloud-burendo-handbook
+slug: azure-ad-aws-iam-identity-centre-integration
 authors: bbayes
 tags: [Cloud, AWS, Azure, IAM, SAML]
 ---
