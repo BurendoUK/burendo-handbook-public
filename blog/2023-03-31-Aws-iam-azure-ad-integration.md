@@ -1,6 +1,6 @@
 ---
-title: Azure AD and AWS IAM Identity Center Integration
-description: How to integrate Azure AD and IAM Identity Center
+title: Azure AD and AWS IAM Identity Centre Integration
+description: How to integrate Azure AD and IAM Identity Centre
 slug: cloud-burendo-handbook
 authors: bbayes
 tags: [Cloud, AWS, Azure, IAM, SAML]
@@ -8,7 +8,7 @@ tags: [Cloud, AWS, Azure, IAM, SAML]
 
 # AWS IAM and Azure AD Integration
 
-When it comes to User Management and authentication into multiple systems, it's good practice to have a single source of truth, and this applies even for authentication into public clouds. In this blog post we will cover how to integrate Azure AD and AWS IAM Identity Center, so that you can have a central mechanism of managing user accounts.
+When it comes to User Management and authentication into multiple systems, it's good practice to have a single source of truth, and this applies even for authentication into public clouds. In this blog post we will cover how to integrate Azure AD and AWS IAM Identity Centre, so that you can have a central mechanism of managing user accounts.
 
 <!--truncate-->
 
@@ -17,15 +17,15 @@ When it comes to User Management and authentication into multiple systems, it's 
 In order to try this out, you will need:
 
 1. An Azure AD subscription, you can sign-up for a free account [here](https://azure.microsoft.com/en-gb/free/)
-2. AWS IAM Identity Center enabled subscription, you can read more about what AWS IAM Idenitty Center is [here](https://aws.amazon.com/iam/identity-center/)
+2. AWS IAM Identity Centre enabled subscription, you can read more about what AWS IAM Identity Centre is [here](https://aws.amazon.com/iam/identity-center/)
 
 ## Enabling the Integration in AWS Part 1
 
-Before we can tell Azure about various values it will need in order for the integration to work, we will need to configure IAM Identity Center first.
+Before we can tell Azure about various values it will need in order for the integration to work, we will need to configure IAM Identity Centre first.
 
-### Configuring the Identity Source in AWS IAM Identity Center
+### Configuring the Identity Source in AWS IAM Identity Centre
 
-1. From the AWS Management Console, go to the IAM Identity Center, where you will be presented with the Dashboard:
+1. From the AWS Management Console, go to the IAM Identity Centre, where you will be presented with the Dashboard:
    ![iam-dashboard](images/2023-03-31-aws-iam-azure-ad-integration/iam-dashboard.png)
 
 1. We're going to configure the identity source so that AWS knows that we will be centrally managing user access from Azure, so select 'Choose your identity source';
@@ -38,7 +38,7 @@ Before we can tell Azure about various values it will need in order for the inte
 
 ## Enabling the Integration in Azure Part 1
 
-While there are multiple steps to this, most of the process is handled by an [Enterpise Application](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/add-application-portal), which we will add to Azure AD.
+While there are multiple steps to this, most of the process is handled by an [Enterprise Application](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/add-application-portal), which we will add to Azure AD.
 
 ### Adding the Enterprise Application to Azure AD
 
@@ -46,7 +46,7 @@ While there are multiple steps to this, most of the process is handled by an [En
 
    ![browse-azure-ad-gallery](images/2023-03-31-aws-iam-azure-ad-integration/browse-azure-ad-gallery.png)
 
-1. Type AWS IAM Identity Center in the search box:
+1. Type AWS IAM Identity Centre in the search box:
 
    ![type-aws-iam-identity-center](images/2023-03-31-aws-iam-azure-ad-integration/type-aws-iam-identity-center.png)
 
@@ -102,12 +102,12 @@ While there are multiple steps to this, most of the process is handled by an [En
 
 ### Create an Azure AD User
 
-1. From Azure Active Direcory, create a new User and make a note of their username i.e. `azure-aws-test@your-domain.com`
-1. We want to assign this User to the AWS IAM Identity Center Enterprise Application:
+1. From Azure Active Directory, create a new User and make a note of their username i.e. `azure-aws-test@your-domain.com`
+1. We want to assign this User to the AWS IAM Identity Centre Enterprise Application:
 
    1. Go to the Enterprise Applications in Azure;
 
-   1. Select the AWS IAM Identity Center application, then click Users and Groups:
+   1. Select the AWS IAM Identity Centre application, then click Users and Groups:
 
       ![ea-users-and-groups](images/2023-03-31-aws-iam-azure-ad-integration/ea-users-and-groups.png)
 
@@ -117,9 +117,9 @@ While there are multiple steps to this, most of the process is handled by an [En
 
 ### Create an AWS User
 
-1. From the AWS IAM Identity Center console create a new User with the same details as the Azure user
+1. From the AWS IAM Identity Centre console create a new User with the same details as the Azure user
 
-   > :warning: Ensure the username for AWS IAM Identity Center and Azure AD are the same.
+   > :warning: Ensure the username for AWS IAM Identity Centre and Azure AD are the same.
 
 ### Test the Sign-in URL
 
@@ -144,5 +144,5 @@ If we wanted to take this process one step further, and automate the integration
 | Term     | Meaning                                                                                                                                                                                                                                                                                              |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **SAML** | **Security Assertion Markup Language**: which basically means that it enables you to access multiple web applications using one set of login credentials. It works by passing authentication information in a prescribed format between two parties i.e. an identity provider and a web application. |
-| **IAM**  | **Identity Access Management**: ensures that the right people and job roles in your organisation can access the apps they need to do their jobs.                                                                                                                                                     |
+| **IAM**  | **Identity Access Management**: ensures that the right people and job roles in your organization can access the apps they need to do their jobs.                                                                                                                                                     |
 | **IdP**  | **Identity Provider**: stores and manages user account identities.                                                                                                                                                                                                                                   |
