@@ -3,13 +3,13 @@ sidebar_position: 1
 ---
 # The Engineering Practice
 
-This section contains all the details on the Engineering Community of Practice(CoP), links to the tools, ways or working and processes we have created or we use.
+This section contains all the details on the Engineering Practice, links to the tools, ways of working and processes we have created and actively consume/use.
 
 ## Practice Details
 
 ### Who we are  
 
-We are a community of Burendoers with a common interest in engineering; whether through practical application, theory, or an interest in how engineering works with other practices within the business.
+We are Burendoers with a common interest in engineering; whether through practical application, theory, or an interest in how engineering works with other practices within the business.
 
 ### Practice Goals  
 
@@ -30,13 +30,9 @@ For more details see our [Engineering Manifesto](man.md)
 
 ### Regular Meetings  
 
-All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the [#cop-engineering](https://burendo.slack.com/archives/C03QE1AKHPG) channel on Slack.
+All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the [#practice-engineering](https://burendo.slack.com/archives/C03QE1AKHPG) channel on Slack.
 
-- Weekly catch up.
-  - Held every Monday at 1100.
-  - Stand up style format, followed by topics of discussion for upcoming work.
-
-- Monthly COP meetup.
+- Monthly meetup.
   - Held on the 3rd Thursday of every month at 1500.
   - Open forum format, with space for an agenda if required
   - We all attend in person where possible
@@ -44,7 +40,7 @@ All our meetings are captured in the practice calendar. As a Burendoer, you can 
 
 ### Slack
 
-The [#cop-engineering](https://burendo.slack.com/archives/C03QE1AKHPG) channel on Slack is our main platform for communication, outside of any face to face meetings.  This will be the place to share and get the latest information or ask questions and get the most prompt response.
+The [#practice-engineering](https://burendo.slack.com/archives/C03QE1AKHPG) channel on Slack is our main platform for communication, outside of any face to face meetings.  This will be the place to share and get the latest information or ask questions and get the most prompt response.
 
 ### Work backlog (JIRA)  
 
