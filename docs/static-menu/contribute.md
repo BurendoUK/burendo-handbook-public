@@ -25,9 +25,9 @@ If you have not done this already you need to create yourself a GitHub account. 
 
 In order to get access to add public content:
 
-1. Go to Burendo slack and join the `#cop-engineering` channel
+1. Go to Burendo slack and join the `#practice-engineering` channel
 1. Put a shout out with a `@here` for access to contribute to the **public** section of the Handbook and include your GitHub username
-1. One of the engineering CoP will pick this up and let you know when done
+1. One of the engineering practice will pick this up and let you know when done
 1. You will get an email invitation to the email associated with your GitHub user - make sure to accept this invitation
 
 > *Note*: Once you have access to contribute to the public content, it stays with you while at Burendo, you do **not** need to request public contributor access every time
@@ -37,11 +37,11 @@ In order to get access to add public content:
 
 Contributions to the private content needs temporary access granted - the reason for this is that it costs to give access for private repositories. In many ways the process is the same for the contributor though:
 
-1. Go to Burendo slack and join the `#cop-engineering` channel
+1. Go to Burendo slack and join the `#practice-engineering` channel
 1. Put a shout out with a `@here` for access to contribute to the **private** section of the Handbook and include your GitHub username
-1. One of the engineering CoP will pick this uip and let you know when done
+1. One of the engineering practice will pick this uip and let you know when done
 1. You will get an email invitation to the email associated with your GitHub user - make sure to accept this invitation
-1. **Importantly**, when you are finished contributing and your contribution is live in the published Handbook, you must put another shout out with a `@here` on `#cop-engineering` with your GitHub username stating you no longer need access
+1. **Importantly**, when you are finished contributing and your contribution is live in the published Handbook, you must put another shout out with a `@here` on `#practice-engineering` with your GitHub username stating you no longer need access
 
 
 ## Making changes
@@ -165,12 +165,12 @@ If you have only changed one file it's likely everything is filled in for you, l
 
 ![New pull request created](images/contribution/Pull-request-created.png)
 
-Now all you need to do is copy the URL to this page, go to the `#cop-engineering` channel in slack and post a message similar to below:
+Now all you need to do is copy the URL to this page, go to the `#practice-engineering` channel in slack and post a message similar to below:
 
 > `@here [URL] -> [Summary of contribution]`
 
-Someone from the CoP will pick up the pull request and review it. The review process is not covered here because the CoP member who picks it up will work with you on this and have calls and screen shares where necessary. Often the review process needs no changes and your contribution is complete! When the review is complete, the CoP member will merge your pull request and it will be live about 5 minutes later.
+Someone from the practice will pick up the pull request and review it. The review process is not covered here because the practice member who picks it up will work with you on this and have calls and screen shares where necessary. Often the review process needs no changes and your contribution is complete! When the review is complete, the practice member will merge your pull request and it will be live about 5 minutes later.
 
 ## After your contribution
 
-Now you can spread the word and encourage others to contribute! If this guide needs updating please either make another contribution to update it or contact the engineering CoP and let them know which bit was wrong or the areas you found most difficult to use. Your feedback is important in making this Handbook as easy to contribute to as possible.
+Now you can spread the word and encourage others to contribute! If this guide needs updating please either make another contribution to update it or contact the engineering practice and let them know which bit was wrong or the areas you found most difficult to use. Your feedback is important in making this Handbook as easy to contribute to as possible.
