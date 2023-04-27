@@ -70,13 +70,19 @@ Once you have created or selected your branch, you will see it selected in the d
 
 To create a new document, first enter the `docs` folder in the folder structure:
 
-![Docs folder](images/contribution/Docs-folder.png)
+![Docs folder highlighted](images/contribution/Docs-highlighted.png)
+
+You will then see the docs folder opened, which will look something like the below image but folders may be different as content changes over time:
+
+![Docs folder open](images/contribution/Docs-folder.png)
 
 The docs you see here match the docs in the [live handbook](https://handbook.burendo.com/). You will see the folder structure matches the sidebar automatically. Once in the docs folder, click the "Add file" drop down top right and select "Create new file". You will get a page similar to this:
 
 ![Create new file](images/contribution/Create-new-document.png)
 
-Enter the new file name at the top - the name doesn't matter too much, so just make it logical and ensure it is all lowercas and **ensure the file name ends in `.md`**. You can't create new folders directly, so if you want your file in a new folder add it as part of the file name - for example, `subfolder/file.md`.
+Enter the new file name at the top - the name doesn't matter too much, so just make it logical and ensure it is all lowercase and **ensure the file name ends in `.md`**. You can't create new folders directly, so if you want your file in a new folder add it as part of the file name - for example, `Sub Folder/file.md`.
+
+**NOTE**: If you add a new folder, then the folder name will be the **name used on the sidebar menu** therefore, although the filename should be lowercase, the folder name should be capitalised as you would expect to see it in the menu.
 
 You may now write your new document - see the section [on markdown and submitting changes](#write-your-document-and-submit-changes)
 
@@ -89,6 +95,13 @@ To open a document for edit, again enter the `docs` folder in the folder structu
 
 You may now edit the document so click the pencil icon to edit the document and then see the section [on markdown and submitting changes](#write-your-document-and-submit-changes).
 
+## Document title
+
+All new documents should start with the below text:
+
+> `# Title of Document`
+
+The text that comes after the hash and space will be the text used **in the sidebar menu** for your document, so it is important it is sensible and capitalised. All existing pages should have this already (use them as examples if needed).
 
 ## Write your document and submit changes
 
