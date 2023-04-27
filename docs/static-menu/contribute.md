@@ -18,7 +18,7 @@ The rest of this guide will concentrate on **contributions from inside Burendo**
 
 ## Create a GitHub account
 
-If you have not done this already you need to create yourself a GitHub account. In order to do this go to [GitHub's website](https://github.com/), click *"Sign Up"* and create a new account. We would recommend turning on 2FA for the account.
+If you have not done this already you need to create yourself a GitHub account. In order to do this go to [GitHub's website](https://github.com/), click *"Sign Up"* and create a new account. You will need to use 2FA for the account and can set up now or will be prompted to later.
 
 
 ### Request access for public content
