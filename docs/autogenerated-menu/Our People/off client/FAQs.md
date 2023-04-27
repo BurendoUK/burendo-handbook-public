@@ -1,6 +1,6 @@
 How do I charge my time? 
 
-You'll need to use Non-Billable Perms, which has lot's of suboptions to cover 121s, Personal Development, and any activities you are doing to support Communitees of Interest. For anything you're working on that doesn't fit into an existing category, use 'Tribal Activities'
+You'll need to use Non-Billable Perms, which has lot's of suboptions to cover 121s, Personal Development, and any activities you are doing to support Communities of Interest. For anything you're working on that doesn't fit into an existing category, use 'Tribal Activities'
 
 
 I don't know what to do?
