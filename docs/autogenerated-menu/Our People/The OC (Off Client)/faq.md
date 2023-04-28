@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 ---
+# FAQ
 
 ## How do I charge my time? 
 
