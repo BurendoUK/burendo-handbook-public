@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: "GitHub API Trigger"
-        id: api-trigger
+      - name: "Trigger public infrastructure build"
+        id: api-trigger-public
         run: |
           curl \
             -X POST \
@@ -24,6 +24,20 @@ jobs:
             -H "X-GitHub-Api-Version: 2022-11-28" \
             https://api.github.com/repos/burendouk/burendo-handbook-infrastructure/dispatches \
             -d '{"event_type":"content-updated"}'
+        working-directory: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GHA_TOKEN }}
+
+      - name: "Trigger private infrastructure build"
+        id: api-trigger-private
+        run: |
+          curl \
+            -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN"\
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/burendouk/burendo-handbook-infrastructure/dispatches \
+            -d '{"event_type":"content-updated-private"}'
         working-directory: .
         env:
           GITHUB_TOKEN: ${{ secrets.GHA_TOKEN }}
