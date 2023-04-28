@@ -84,6 +84,8 @@ Enter the new file name at the top - the name doesn't matter too much, so just m
 
 **NOTE**: If you add a new folder, then the folder name will be the **name used on the sidebar menu** therefore, although the filename should be lowercase, the folder name should be capitalised as you would expect to see it in the menu.
 
+**NOTE**: You should not use the following characters in folder or file names: `?`, `[`, `]`, `(` or `)`.
+
 You may now write your new document - see the section [on markdown and submitting changes](#write-your-document-and-submit-changes)
 
 
@@ -102,6 +104,8 @@ All new documents should start with the below text:
 > `# Title of Document`
 
 The text that comes after the hash and space will be the text used **in the sidebar menu** for your document, so it is important it is sensible and capitalised. All existing pages should have this already (use them as examples if needed).
+
+**NOTE**: You should not use the following characters in the title: `?`, `[`, `]`, `(` or `)`.
 
 ## Write your document and submit changes
 
