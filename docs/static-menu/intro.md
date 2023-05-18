@@ -41,3 +41,6 @@ We can use our Practices as an example of what information we put in each place:
 
 * **SharePoint** -> Outputs from the Practices, which might be various types of documents.
 
+## Is this the staff handbook?
+
+Nope, this is not the staff handbook - the one referred to in your employee contracts.  Please use our internal People tool, contact your line manager or the People team for assistance.
