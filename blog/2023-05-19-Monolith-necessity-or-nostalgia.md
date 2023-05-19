@@ -129,8 +129,6 @@ Ultimately you must consider the pros vs. cons of the infrastructure and what it
 Hopefully the points highlighted here, which were covered (some briefly) in the panel discussion on Wednesday, offer food for thought when you think about the architectural structure of both your application and infrastructure.
 Additional, you should be able to form an opinion, based on my opinion that there is a linear scale between monolith <-> micro-service and we should stop thinking of them being so clean cut.
 
-Monoliths are here to stay, their shape may be much different from that of the early '90s applications but they are necessary in some circumstances.
-
-My opinion, monoliths are a necessity, or a necessary evil. They should be modernised as much as possible in the form of modularisation, separation of concerns and shrinking the overall scope and size.
+My opinion, monoliths are a necessity, or a necessary evil. Their shape may be much different from that of the early '90s applications but we've all still got work to do. They require modernisation as much as possible in the form of modularisation, separation of concerns and shrinking the overall scope and size. These efforts will move the applications more towards the centre line of the linear scale and begin to reduce the impact of the cons and even gain some pros usually enjoyed by micro-services.
 
 I would always advocate to consider micro-services and Serverless first and foremost.
