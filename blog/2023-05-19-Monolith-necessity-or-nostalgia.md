@@ -18,7 +18,7 @@ Allow me to cover a few of the headline points and express my opinion, in words,
 
 Within the tech industry there are many acronyms and terms banded around with the assumption that the receiving audience knows what it means. Monolith is one such term where everyone 'kind of' knows what it means but it can look and feel slightly differently to everyone.
 
-In the yester years when everyone practiced waterfall, monolithic applications were often the result of the engineering team's efforts. Now, they aren't too much different. Monoliths often have a single codebase, where all functionality, dependencies and modules are stored. Additionally, the modules are interdependent and therefore can't be deployed independently.
+Previously, when everyone practiced waterfall, monolithic applications were often the result of the engineering team's efforts. Now, they aren't too much different. Monoliths often have a single codebase, where all functionality, dependencies and modules are stored. Additionally, the modules are interdependent and therefore can't be deployed independently.
 
 So thinking back to that time, or if you are like me and were still in nappies, think back to the tales your parents told you of the software in that era.
 
