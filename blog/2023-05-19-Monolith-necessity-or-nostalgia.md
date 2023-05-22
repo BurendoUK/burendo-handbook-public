@@ -7,7 +7,6 @@ tags: [engineering, Cloud, AWS]
 ---
 
 # Monoliths in the 21st Century
-_Approximately 5 minutes reading time._
 
 Allow me to set the scene, on Wed 17th May at the [DTX expo](https://dtxevents.io/manchester/en/page/dtx-manchester), I was a panel member discussing the place and presence of monolithic applications within systems, now and going forward.
 There was a lot of interesting points raised by the other panel members and myself, regarding the huge momentum shift towards serverless micro-services and whether or not monoliths should be sentenced to /dev/null.
