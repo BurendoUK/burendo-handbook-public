@@ -13,6 +13,8 @@ There was a lot of interesting points raised by the other panel members and myse
 
 Allow me to cover a few of the headline points and express my opinion, in words, as to why I feel we are looking at the original question slightly incorrectly.
 
+<!--truncate-->
+
 ## What is a monolith?
 
 Within the tech industry there are many acronyms and terms banded around with the assumption that the receiving audience knows what it means. Monolith is one such term where everyone 'kind of' knows what it means but it can look and feel slightly differently to everyone.
