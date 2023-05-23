@@ -21,7 +21,7 @@ The Handbook is an important piece of who we are in Burendo and fits in around o
 
 Our website can be found [here](http://www.burendo.com) and details who we are, what we can do for clients and our services we provide. We would encourage you to take a look to learn about our offerings as a company. As our Handbook is focussed on our culture and our values there will be a small amount of crossover as our values are important everywhere however our website is more focussed on our services and offerings as a company compared to the "voice of the Burendoer" view of the Handbook.
 
-### Confluence
+### Confluence
 
 Our Confluence is accessible to Burendoers only and focuses on internal policies and quick changing information. It's a tool that will be accessed and used daily within Burendo and it can be found [here](https://burendo.atlassian.net/wiki/home). There is some crossover with the Handbook; for example, we might talk about things on the Handbook as they are important to us and we want to share them with the world, but then have more detail on Confluence for the day-to-day usage of Burendoers.
 
