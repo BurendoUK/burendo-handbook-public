@@ -113,7 +113,7 @@ As the Prime Video team recognised, by consolidating already 'small' tasks toget
 They may have moved away from being 'fully' micro-services, but by no means have they created a monolith like we know from history. They've moved ever so slightly left on the scale, towards a macro-service to reduce the effect of the cons. of micro-service and serverless architecture.
 They have retained many pros that micro-services offered them originally, as they could remain 'serverless'.
 
-## A Monolith can be Serverless
+## A Monolith can be Serverless
 
 One common misconception is that a monolithic application can only be deployed on infrastructure classified as 'serverful'. That is, you deploy it to a traditional server and must maintain that server or fleet and are unable
 to benefit from the many advantages Serverless infrastructure offers. This isn't the case.
