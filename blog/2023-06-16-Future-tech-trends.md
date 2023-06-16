@@ -1,0 +1,43 @@
+---
+title: Future tech trends
+description: Future trends for the technology industry and how they might affect consultancy.
+slug: future-tech-trends
+authors: sburton
+tags: [trends, technology, predictions, consultancy]
+---
+
+I recently attended AWS Summit 2023 in London with a couple of my colleagues and one of the main themes was looking at what the future tech trends will be. It got me thinking of the key ones that would be most affecting in the world of consultancy.
+
+<!--truncate-->
+
+## Cost optimisation and control
+
+Given this was AWS summit, the context here is very much within the cloud, however it can be expanded to any type of hosting whether that's private, public or hybrid cloud and especially on-prem. Keeping control of costs is key - the first thing a company needs to do though is understand their existing costs and that's not as easy as it seems. Understanding where the costs and going for your existing hosting solution isn't too bad, but trying to relate that back to the value you are getting for those costs is hard. Here at Burendo, we already work with clients to look at the value streams for their business and try to unlock the bottlenecks, the cost pinch points and the amount of resources involved in delivering value.
+
+This often leads to clients wanting to optimise those costs, which in turn leads on to cloud migration conversations. The cloud is not always the right solution for a client, however cost savings is one of the most common scenarios we get asked to advise on. To work out the right solution it's vital to work out how what you will be migrating to the cloud, how you will perform the migration and an overview of what the solution in the cloud will end up looking like. This allows us to work with you to model your costs using tools such as AWS or Azure's pricing calculator. Costs are only one possible benefit for migrating to the cloud of course and I'll explore those in details in a future blog.
+
+When you are in the cloud there are myriad ways to optimise your costs and understanding of cloud architecture is a common reason costs can spiral out of control. You can use the Cost Explorer tools the big 3 have (AWS, Azure, GCP) to work out where your money is currently being spent - grouping the costs by region, service, account and more. This gives you the areas to focus your effort on first and often gives you some quick wins to reduce costs. Once you've got this information there are lots of ways to optimise those costs from smaller changes such as right sizing, using newer generation hardware and reviewing your purchasing models through to potentially larger changes like changing architectures and moving up the "as-a-service" stack. Within Burendo, we are used to working with our clients to help them identify, prioritise and make these changes.
+
+## AI/ML
+
+Artificial Intelligence (AI) is very much in the news now, but it's very much not new and has been around for a long time, including being embraced by the cloud. It seems we are reaching a tipping point though where the proliferation of tools and technology for AI has met the availability and affordability of compute services able to run them. This has meant a lot more options for clients to explore the benefits that AI might bring them.
+
+AI brings with it a lot of hype, but one of the best uses I can foresee for our clients is automating tasks that are mundane or time consuming. Taking the heavy lifting out of jobs so that people are freed up to do the jobs that they couldn't do before. Generative AI is a perfect example of an AI technology that will allow this to happen. If you don't know what it is, I'd highly recommend [this Google blog](https://blog.google/inside-google/googlers/ask-a-techspert/what-is-generative-ai/). We're already using it internally in Burendo to generate our meeting notes, to help us quickly spin up documentation and generate certain materials that might otherwise take a very long time to create. Other usages we've considered are using it to help with tone of voice, summarising long documents or articles (the classic 'tl;dr'), generating boiler plate code and classifying and sorting content. These are examples of the kinds of activities that I see our clients farming out to Generative AI tools to provide the people who would have done them space to work on other things and to innovate in a way that only humans currently can.
+
+Machine Learning (ML) services in the cloud such as Amazon Sagemaker will allow our clients to create and train models quickly and efficiently in a way that they wouldn't easily have been able to do before. Retail, healthcare and finance are examples of industries where we work with clients who will be able to use these services to rapidly deploy new models that give them insights on their customers, let them predict future trends and recommend new avenues of value they can release. Extension services such as Sagemaker Clarify will allow them to detect and remove as much bias as possible from the models, which will be key to getting valid and fair insights.
+
+## Multicloud
+
+The last one I'm going to explore for this blog is the multicloud option, which I'm seeing is more and more common within the market. We'll often hear of or see particular bodies or organisations recommending this as a way forward, but it can be much more complicated than sticking to a single cloud provider.
+
+Each provider is better at certain things than others. For instance I would say that AWS is generally the most flexible due to its size and the sheer number of services it has, whereas Azure is probably slightly better at integrating in a hybrid cloud (they push this a lot) and GCP probably has a more mature big data and ML capability. These are generalisations, but the point is that each provider does have strengths and weaknesses and it's important to research these and understand how they would affect you and your business when/if migrating to the cloud.
+
+Due to the strengths and weaknesses of each provider, many organisations and looking at combining providers in order to use the strengths from each and avoid the perceived weaknesses at the same time. In theory this is an attractive prospect. However, it's hard to do in practice. To do this effectively you'd need to products that are independently deployable, isolated and have a clearly defined purpose which allows you to place the products in the provider that is most suited to them. Some companies are in this position but I many are not and it's an issue if not because transferring data across providers and managing permissions sets to do this is difficult and requires you to have people in your business skilled in all the relevant providers. Often you are charged for data transfer so taking data out of the provider's backbone network might cost you more. It's also not always cost-effective due to economies of scale. AWS, for instance, provide savings plans and tiered pricing models that mean the more you use, the more you save. Azure and GCP have similar schemes in place, so spreading the load across multiple providers is likely to cost you money in this scenario.
+
+Another reason I hear often for multicloud setups is that clients do not want to be locked in to a vendor (this is often a reason given for not using native services when on the cloud, but that's another conversation). Realistically, you won't avoid vendor lock-in by using multiple providers... if anything you are likely to be locked in to multiple vendors instead! You can protect somewhat against this by creating interfaces to abstract from cloud services, but if it adds complexity to your product you have to ask if it's worth it and what the likelihood of changing cloud provider is. Even if you did, you'd still need to change that layer and that's not an easy job in itself. Each provider is constantly updating and changing and has a high rate of change - using multiple providers means keeping up with this, especially when it comes to security updates. You'd need to ensure you and following each provider closely to understand the latest developments and take advantages of new services. That's a whole lot of research to do.
+
+## Conclusion
+
+These are just a few of the trending tech that I can foresee making a big difference to our clients in 2023. There are of course others such as sustainability within computing, emerging security threats and even things like quantum computing - although I think we are a long way from that being something we can make use of.
+
+Lastly, yes, I deliberately haven't talked about the metaverse...
