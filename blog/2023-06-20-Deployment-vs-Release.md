@@ -12,6 +12,7 @@ The purpose of a deployment is to validate performance under real-world conditio
 
 OK so that's deployments, what about releases? A release is where functionality e.g., a new feature or an upgraded version of an API, is made available to its users. This is all around _when_ the new functionality is presented to the users. The timing and execution of a release is the most important consideration, commonly balancing the needs of the business e.g., getting new feature out that generates revenue, and the expectations of the users e.g., uptime.  It serves to evolve the product, meet user expectations, measure user response for future development refinement, and mitigate risk by controlling the timing and manner of delivery.
 
+### Deployment types
 The common expectation is a successful deployment is followed immediately by a release, and while this can happen, you might want to deploy a new version without releasing it to your users. There are many ways this can be done, remembering this can be dependant on what you are deploying and the underlying infrastructure of your environment(s):
 
 **Rolling Deployment**: Where the new version is gradually deployed across all instances. As the new version is being deployed, the old versions continue to operate, reducing the chances of system downtime.
