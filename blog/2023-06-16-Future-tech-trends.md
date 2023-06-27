@@ -3,7 +3,7 @@ title: Future tech trends
 description: Future trends for the technology industry and how they might affect consultancy.
 slug: future-tech-trends
 authors: sburton
-tags: [Trends, Technology, Predictions, Consultancy, Engineering]
+tags: [trends, technology, predictions, consultancy, engineering]
 ---
 
 I recently attended AWS Summit 2023 in London with a couple of my colleagues and one of the main themes was looking at what the future tech trends will be. It got me thinking of the key ones that would be most affecting in the world of consultancy.
