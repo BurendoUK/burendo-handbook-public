@@ -23,7 +23,7 @@ To have great practice in everything we do
 
 ### Regular Meetings  
 
-All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the [#cop-delivery](https://burendo.slack.com/archives/C040XSYFNUX) channel on Slack.
+All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the `#practice-product-and-delivery` channel on Slack.
 
 - Monthly COP drop-in
   - Held on the last Friday of every month at 12pm
@@ -33,4 +33,4 @@ All our meetings are captured in the practice calendar. As a Burendoer, you can 
 
 ### Slack
 
-The [#cop-delivery](https://burendo.slack.com/archives/C040XSYFNUX) channel on Slack is our main platform for communication, outside of any face to face meetings.  This will be the place to share and get the latest information or ask questions.
+The `#practice-product-and-delivery` channel on Slack is our main platform for communication, outside of any face to face meetings.  This will be the place to share and get the latest information or ask questions.

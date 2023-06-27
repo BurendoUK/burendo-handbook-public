@@ -3,7 +3,7 @@ title: Azure AD and AWS IAM Identity Centre Integration
 description: How to integrate Azure AD and IAM Identity Centre
 slug: azure-ad-aws-iam-identity-centre-integration
 authors: bbayes
-tags: [Cloud, AWS, Azure, IAM, SAML]
+tags: [cloud, aws, azure, iam, saml, engineering]
 ---
 
 # AWS IAM and Azure AD Integration
