@@ -3,7 +3,7 @@ title: Monoliths in the 21st Century - Necessity or Nostalgia?
 description: A summary of my thoughts, from the DTX panel.
 slug: monolith-necessity-or-nostalgia
 authors: cavery
-tags: [engineering, Cloud, AWS, serverless, microservices, monolith, monoliths]
+tags: [engineering, Cloud, AWS, serverless, microservices, monolith, monoliths, engineering]
 ---
 
 # Monoliths in the 21st Century

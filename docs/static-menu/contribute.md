@@ -109,7 +109,7 @@ The text that comes after the hash and space will be the text used **in the side
 
 ## Write your document and submit changes
 
-Documents are written in a language called "Markdown". Markdown is quite simply and not much different from writing in Confluence or similar. This guide doesn't deal with Markdown directly as there are many guides on the internet and [this](https://www.markdownguide.org/cheat-sheet/) is a handy cheat sheet I use a lot.
+Documents are written in a language called "Markdown". Markdown is quite simply and not much different from writing in a wiki or similar. This guide doesn't deal with Markdown directly as there are many guides on the internet and [this](https://www.markdownguide.org/cheat-sheet/) is a handy cheat sheet I use a lot.
 
 One of the areas people struggle with in Markdown is tables - one way is to use a handy [markdown table generator](https://www.tablesgenerator.com/markdown_tables) where you can create your table visually and then copy the Markdown code to clipboard and paste it in to your page.
 
