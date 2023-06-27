@@ -27,7 +27,7 @@ There are a number of key roles that exist when being user-centred; this is by n
 
 ### Regular Meetings  
 
-All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the `#cop-ucd` channel on Slack.
+All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the `#practice-product-and-delivery` channel on Slack.
 
 - Monthly COP meetup.
   - Held on the first week of every month.
