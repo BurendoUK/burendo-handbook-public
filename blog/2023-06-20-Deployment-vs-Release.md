@@ -3,7 +3,7 @@ title: Understanding Deployment and Release
 description: An analysis of methods that will help improve your deployments and releases.
 slug: understanding-deployment-and-release
 authors: cscottthomas
-tags: [deployment, release, feature-flags, engineering]
+tags: [Deployment, Release, Feature-Flags, Engineering]
 ---
 
 # Understanding Deployment and Release
