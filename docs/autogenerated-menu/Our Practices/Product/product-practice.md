@@ -33,7 +33,7 @@ All our meetings are captured in the practice calendar. As a Burendoer, you can 
 
 ### Slack
 
-The `#cop-product` channel on Slack is our main platform for communication, outside of any face to face meetings.  This will be the place to share and get the latest information or ask questions and get the most prompt response.
+The `#practice-product-and-delivery` channel on Slack is our main platform for communication, outside of any face to face meetings.  This will be the place to share and get the latest information or ask questions and get the most prompt response.
 
 ### Work backlog (JIRA)  
 
