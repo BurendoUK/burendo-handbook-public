@@ -23,7 +23,7 @@ For more details see our [Product Values](prod-wow.md)
 
 ### Regular Meetings  
 
-All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the `#cop-product` channel on Slack.
+All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the `#practice-product-and-delivery` channel on Slack.
 
 - Monthly COP meetup.
   - Held on the 3rd Thursday of every month at 1500.
@@ -33,7 +33,7 @@ All our meetings are captured in the practice calendar. As a Burendoer, you can 
 
 ### Slack
 
-The `#cop-product` channel on Slack is our main platform for communication, outside of any face to face meetings.  This will be the place to share and get the latest information or ask questions and get the most prompt response.
+The `#practice-product-and-delivery` channel on Slack is our main platform for communication, outside of any face to face meetings.  This will be the place to share and get the latest information or ask questions and get the most prompt response.
 
 ### Work backlog (JIRA)  
 
