@@ -1,3 +1,0 @@
-# Practices
-
-At Burendo...
