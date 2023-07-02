@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# The Engineering Practice
+# The Cloud & Engineering Practice
 
 This section contains all the details on the Engineering Practice, links to the tools, ways of working and processes we have created and actively consume/use.
 
@@ -27,6 +27,7 @@ We are Burendoers with a common interest in engineering; whether through practic
 - Observable
 
 For more details see our [Engineering Manifesto](man.md)
+See also [Our shared Burendo values](https://www.burendo.com/burendo-values/).
 
 ### Regular Meetings  
 

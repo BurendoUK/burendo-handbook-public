@@ -1,36 +1,40 @@
 ---
 sidebar_position: 1
 ---
-# User Centred Design Practice
+# The Product & Delivery Practice
 
-This section contains all the details on the UCD Community of Practice(CoP), links to the tools, ways or working and processes we have created or we use.
+This section contains all the details on the Product & Delivery Community of Practice (CoP), links to the tools, ways or working and processes we have created or we use.
 
 ## Practice Details
 
 ### Who we are  
 
-We are a community of Burendoers with a common interest creating better experiences for people; whether through practical application, theory, or an interest in how ucd works with other practices within the business.
+We are a community of Burendoers with a common interest in product & delivery; whether through practical application, theory, or an interest in how product works with other practices within the business.
 
-### Key roles  
+### Practice Values
 
-There are a number of key roles that exist when being user-centred; this is by no means an exhaustive list, but hopefully illustrates some of the differences between them, and how they all link together.
+- No egos please
+- Champion each other
+- Be better than yesterday
+- Sorry, no
+- Don’t be a d*ck
 
-![Our team](images/nutshell.png)  
+See [Our Values](values.md) for more detail.
+See also [Our shared Burendo values](https://www.burendo.com/burendo-values/).
 
-![The future](images/future.png)  
+### What we focus on
 
-- [User Researcher](Roles/ur-ucd.md)
-- [Service Designer](Roles/sd-ucd.md)
-- [Interaction Designer](Roles/id-ucd.md)
-- [Accessibility Specialist](Roles/as-ucd.md)
-- [Content Designer](Roles/cd-ucd.md)  
+Our Product & Delivery Practice covers a wide set of skills and capabilities.  Here's some links to help share our diverse foundations:
+
+- [Delivery Foundations](del.md)
+- [User Centred Design (UCD)](ucd.md)
 
 ### Regular Meetings  
 
 All our meetings are captured in the practice calendar. As a Burendoer, you can join the calendar, or find links to the meetings following the bookmarked links from the `#practice-product-and-delivery` channel on Slack.
 
 - Monthly COP meetup.
-  - Held on the first week of every month.
+  - Held on the 3rd Thursday of every month at 1500.
   - Open forum format, with space for an agenda if required
   - We all attend in person where possible
 
