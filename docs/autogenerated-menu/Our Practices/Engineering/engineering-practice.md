@@ -43,10 +43,10 @@ All our meetings are captured in the practice calendar. As a Burendoer, you can 
 
 The `#practice-engineering` channel on Slack is our main platform for communication, outside of any face to face meetings.  This will be the place to share and get the latest information or ask questions and get the most prompt response.
 
-### Work backlog (JIRA)  
+### Work backlog 
 
-- Our work is traditionally captured and managed in JIRA tickets.  
-- Through JIRA, we manage our backlog of work, as well as current work in flight.  
+- Our work is traditionally captured and managed in tickets.  
+- Through our workload management tool, we manage our backlog of work, as well as current work in flight.  
 - We tend to work in a Kanban style, as most work is undertaken ad-hoc.  Short time boxes, such as sprints, would not suit our ability to deliver.
 
 ### Blogs

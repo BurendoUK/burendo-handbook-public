@@ -9,4 +9,4 @@ Anyone at Burendo can be a member of any Practice, they are open to all.  At Bur
 
 ## Practice Leads
 
-Each Practice is led by a group of Practice Leads, who specialise in a group of Skills, Tools, Products & Services.  The Practice Leads ensure that the CoP offers best value to each member, as well as Burendo.
+Each Practice is led by a group of Practice Leads, who specialise in a group of Skills, Tools, Products & Services. The Practice Leads ensure that the Practice offers best value to each member, as well as Burendo.
