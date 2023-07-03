@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Agile Delivery Lead
 
-### Description
+## Description
 Burendo are a Leeds based, Agile consultancy specialising in supporting large and SME organisations improve their Agile adoption and delivery processes. Our clients span multiple industries and countries, and our consultants and coaches use a blend of tools and techniques obtained through their previous practical experience to help teams improve our client’s delivery capability.
 
 We aren’t a big ‘shiny shoes’ consultancy and we don’t really want to be. We believe in the skills of our individuals and the strength of loose networks of specialists to deliver pragmatic solutions to our clients. Chances are you already work in an environment where skilled individuals link up to swarm over challenges… we simply promote it at a larger scale.
@@ -32,16 +32,3 @@ These aren’t essentials and we aren’t going to turn you away if you don’t 
 - Experience of working in multiple industries
 - Experience of working in a technology systems or product development consultancy
 - Experience of working in both public and private sectors
-
-### Benefits
-- Access to Burendo communities of practice, interest and BAD toolkit events
-- Matched Employer Contributed Pension (5%)
-- 25 days annual leave (plus bank holidays)
-- An additional day of paid leave for your birthday
-- Personal development budget of £1,000
-- Paid time off for life events
-- Access to an Employee Assistance Programme
-- Enhanced Company sick pay
-- Exciting calendar of Burendo social events and activities
-
-We are committed to promoting equal opportunities in employment. You and any job applicants will receive equal treatment regardless of age, disability, gender reassignment, marital or civil partner status, pregnancy or maternity, race, nationality, ethnic or national origin, religion or belief, sex or sexual orientation

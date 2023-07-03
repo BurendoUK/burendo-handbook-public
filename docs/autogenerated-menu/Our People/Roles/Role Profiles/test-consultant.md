@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 # Test Consultant
 
@@ -7,7 +7,7 @@ At Burendo, we believe testing is the responsibility of everyone, but we need Se
 
 As a Senior Test Engineer at Burendo, you will work with clients to help guide their testing strategy and help them focus on quality. You may be writing automated checks, participating or running 3 Amigos sessions, getting involved with tool selection and pipelines or other activities but your focus is on being an advocate for testing in the right way.
 
-## Essential behaviours:
+## Essential behaviours
 
 These are the things we value most at Burendo, we can teach skills, but our behaviours forge the culture we strive for.
 

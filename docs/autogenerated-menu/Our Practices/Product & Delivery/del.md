@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 # Delivery Foundations
 
-The [What is a Delivery Manager?](what-del.md) page will give you an overview of the role. But what about the core knowledge for successful delivery? These are some of the starting points and fundamental things to know:
+The [What is a Delivery Manager?](../../Our%20People/Roles/Role%20Profiles/agile-delivery-lead.md) page will give you an overview of the role. But what about the core knowledge for successful delivery? These are some of the starting points and fundamental things to know:
 
 ## Agile ways of working
 
