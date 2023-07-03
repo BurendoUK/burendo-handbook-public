@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# The Cloud & Engineering Practice
+# The Engineering Practice
 
 This section contains all the details on the Engineering Practice, links to the tools, ways of working and processes we have created and actively consume/use.
 
