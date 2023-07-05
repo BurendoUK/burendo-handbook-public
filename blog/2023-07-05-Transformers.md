@@ -1,10 +1,18 @@
-![alt text](image.jpg)
+---
+title: Making Transformers Digestible
+description: Understanding transformers in LLMs using McDonalds!
+slug: making-transformers-digestible
+authors: pglover
+tags: [ai, llm, large-language-models, transformers, engineering]
+---
 
 # Making Transformers Digestible: As Easy As Ordering at McDonald's
 
-![An example Transformer](transformer.png)
+If you're finding it hard to wrap your head around how Transformer models in natural language processing work, allow me to simplify it for you. Let's use an analogy we can all relate to—ordering food at McDonald's!
 
-If you're finding it hard to wrap your head around how Transformer models in natural language processing work, allow me to simplify it for you. Let's use an analogy we can all relate to—ordering food at McDonald's! :burger: :fries:
+![An example Transformer](images/2023-07-05-Transformers/transformer.png)
+
+<!--truncate-->
 
 ## Step 1: The Order - Encoder (Input Embedding and Positional Encoding)
 
@@ -34,4 +42,4 @@ In a Transformer model, there are multiple layers. It's like repeating the whole
 
 The Encoder processes the input (much like the kitchen staff preparing your order), the Decoder generates the output (like the quality-check and packaging process), and they communicate to ensure the final result is spot-on.
 
-Hopefully, this analogy will help make the concept of Transformer models a little more digestible! :smile: After all, who knew understanding AI could make you hungry? Bon appétit!
+Hopefully, this analogy will help make the concept of Transformer models a little more digestible! After all, who knew understanding AI could make you hungry? Bon appétit!
