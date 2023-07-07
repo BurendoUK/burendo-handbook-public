@@ -77,7 +77,7 @@ Now you will need to select the type of contribution you wish to make and follow
 
 1. [Create a new document](#create-a-new-document) - create a new page for the Handbook.
 1. [Edit an existing document](#edit-an-existing-document) - edit a page that currently exists in the Handbook.
-1. [Create a new blog](#create-a-new-blog)) - create a new blog entry on the Handbook.
+1. [Create a new blog](#create-a-new-blog) - create a new blog entry on the Handbook.
 
 &nbsp; <!-- Adds a new line  -->
 # Create a new document
