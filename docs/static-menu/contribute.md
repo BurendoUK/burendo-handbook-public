@@ -6,22 +6,31 @@ pagination_prev: null
 
 # Contributor guide
 
-One of the founding principles of [The Burendo Handbook](intro.md) is that it is open to anyone to contribute. We try to make the process as simple as possible to do this, while still keeping some form of quality control on the contributions.
+One of the founding principles of [The Burendo Handbook](intro.md) is that it is open to anyone to contribute. We try to make the process as simple as possible to do this, while still keeping some form of quality control on the contributions. We welcome contributions in certains areas from outside of Burendo. As the purpose of the Handbook is to be the voice of the Burendoers, most of the content comes from inside the company, however for any mistakes you spot, please feel free to fork the [public content repo](https://github.com/BurendoUK/burendo-handbook-public) and raise a Pull Request for us to review. The rest of this guide will concentrate on **contributions from inside Burendo**.
 
+This guide is structured as below:
 
-## Contributions from outside Burendo
+1. [Common actions](#common-actions) - the actions you need to perform to make _any_ changes
+1. [Specific actions](#specific-actions) - the actions you need to perform to add different types of changes (i.e. blog, new documents, editing documents)
+    - [Create a new document in a new folder](#create-a-new-document-in-a-new-folder) - create a new section in the main Handbook menu.
+    - [Create a new document in an existing folder](#create-a-new-document-in-an-existing-folder) - create a new page on the Handbook.
+    - [Edit an existing document](#edit-an-existing-document) - edit a page that currently exists in the Handbook.
+    - [Create a new blog](#create-a-new-blog) - create a new blog entry on the Handbook.
+1. [Write your contribution](#write-your-contribution-and-submit-changes) - add your contribution text using markdown syntax
+1. [Finalise your contribution](#finalise-your-contribution) - the actions you need to do to get your contribution live
 
-We welcome contributions in certains areas from outside of Burendo. As the purpose of the Handbook is to be the voice of the Burendoers, most of the content comes from inside the company, however for any mistakes you spot, please feel free to fork the [public content repo](https://github.com/BurendoUK/burendo-handbook-public) and raise a Pull Request for us to review.
+&nbsp; <!-- Adds a new line  -->
+# Common actions
 
-The rest of this guide will concentrate on **contributions from inside Burendo**.
+The below actions will need to be done in order to make any contributions to the Handbook. Some things are one-time only so if you have contributed before, you can skip these steps.
 
+&nbsp; <!-- Adds a new line  -->
+## Create a GitHub account (one-time)
 
-## Create a GitHub account
+If you have not done this before you need to create yourself a GitHub account. In order to do this go to [GitHub's website](https://github.com/), click *"Sign Up"* and create a new account. You will need to use 2FA for the account and can set up now or will be prompted to later.
 
-If you have not done this already you need to create yourself a GitHub account. In order to do this go to [GitHub's website](https://github.com/), click *"Sign Up"* and create a new account. You will need to use 2FA for the account and can set up now or will be prompted to later.
-
-
-### Request access for content changes
+&nbsp; <!-- Adds a new line  -->
+## Request access for content changes (one-time)
 
 In order to get access to add or edit content:
 
@@ -32,14 +41,12 @@ In order to get access to add or edit content:
 
 > *Note*: Once you have access to contribute to the public content, it stays with you while at Burendo, you do **not** need to request public contributor access every time
 
+&nbsp; <!-- Adds a new line  -->
+## Browse to code
 
-## Making changes
+Once you have access, you can make and submit your changes. If you are code-savvy, then feel free to do the below in code and clone the repositories, but the rest of this guide will use the browser to make the changes as that opens the Handbook up better to contributions from anyone in the business. To make changes any changes without using the code, you need to open the [content](https://github.com/BurendoUK/burendo-handbook-public) repository in your browser.
 
-Once you have access, you can make and submit your changes. If you are code-savvy, then feel free to do the below in code and clone the repositories, but this guide will use the browser to make the changes as that opens the Handbook up better to contributions from anyone in the business.
-
-To make changes, you need to open the [content](https://github.com/BurendoUK/burendo-handbook-public) repository in your browser, according to what you need to access.
-
-
+&nbsp; <!-- Adds a new line  -->
 ## Create a new branch
 
 The first thing to do is to create a `branch` for making your changes on. To do this, click the highlighted button from the repository in the browser:
@@ -54,8 +61,26 @@ If you haven't yet created a branch for this contribution, then type the name he
 
 Once you have created or selected your branch, you will see it selected in the drop down. You can now make all your contributions.
 
+&nbsp; <!-- Adds a new line  -->
+## The menu
 
-## Create a new document
+Before you start, it's important to understand how the menu works. The things to know about the sidebar menu in the Handbook are:
+
+- The menu is auto generated from the documents in the `docs` folders
+- The document's title is used for the menu item text _or_ the document's file name is no title is present (the guide shows you how to add a title)
+- Folders will create menu items which have sub-menu items that are the sub-folders or documents within that folder - i.e. _the folder hierarchy == the menu hierarchy_
+
+&nbsp; <!-- Adds a new line  -->
+# Specific actions
+
+Now you will need to select the type of contribution you wish to make and follow those instructions. You might be making multiple contributions in one go, in which case make all your contributions first, following the relevant instructions in this section and then go to [finalise your contribution](#finalise-your-contribution). The contribution types you can make are:
+
+1. [Create a new document](#create-a-new-document) - create a new page for the Handbook.
+1. [Edit an existing document](#edit-an-existing-document) - edit a page that currently exists in the Handbook.
+1. [Create a new blog](#create-a-new-blog) - create a new blog entry on the Handbook.
+
+&nbsp; <!-- Adds a new line  -->
+# Create a new document
 
 To create a new document, first enter the `docs` folder in the folder structure:
 
@@ -65,33 +90,42 @@ You will then see the docs folder opened which will reveal two menu folders:
 
 ![Menu folders](images/contribution/Menu-folders.png)
 
-If you are editing the home page or this contribution guide, you will need to enter the `static-menu` folder. For _all other changes_ and new docs, you will need the `autogenerated-menu` folder so click in here. The main sidebar menu structure for everything in this folder is automatically generated from the folders and files.
-
-When you have opened the autogenerated menu folder, it will look something like the below image but folders may be different as content changes over time:
+Then you will need the `autogenerated-menu` folder so click in here and it will look something like the below image but folders may be different as content changes over time:
 
 ![Docs folder open](images/contribution/Docs-folder.png)
 
-The docs you see here match the docs in the [live handbook](https://handbook.burendo.com/). You will see the folder structure matches the sidebar automatically. Once in the docs folder, click the "Add file" drop down top right and select "Create new file". You will get a page similar to this:
+The docs you see here match the docs in the [live handbook](https://handbook.burendo.com/). You will see the folder structure matches the sidebar automatically (with the exception of the home page and this contribution guide). Now select the options that matches what you want to do:
+
+1. [Create a new document in a new folder](#create-a-new-document-in-a-new-folder) - create a new section in the main Handbook menu with a new page under it.
+1. [Create a new document in an existing folder](#create-a-new-document-in-an-existing-folder) - create a new page on the Handbook.
+
+&nbsp; <!-- Adds a new line  -->
+## Create a new document in a new folder
+
+You don't add the sub-folder by itself, it is added in the same step as adding the new document, so once you in the relevant parent folder where you would like to add the sub-folder, click the `Add file` drop down top right and select `Create new file`. You will get a page similar to this:
 
 ![Create new file](images/contribution/Create-new-document.png)
 
-Enter the new file name at the top - the name doesn't matter too much, so just make it logical and ensure it is all lowercase and **ensure the file name ends in `.md`**. You can't create new folders directly, so if you want your file in a new folder add it as part of the file name - for example, `Sub Folder/file.md`.
-
-**NOTE**: If you add a new folder, then the folder name will be the **name used on the sidebar menu** therefore, although the filename should be lowercase, the folder name should be capitalised as you would expect to see it in the menu.
+Enter the new file name at the top - the name doesn't matter too much, so just make it logical and ensure it is **all lowercase and the file name ends in `.md`**. The file name should _include_ any sub-folders you wish to create - i.e. `Sub Folder 1/Sub Folder2/file.md` - the name of the sub folder will match the name of the menu item so be aware of capitalisation and spelling.
 
 **NOTE**: You should not use the following characters in folder or file names: `?`, `[`, `]`, `(` or `)`.
 
-You may now write your new document - see the section [on markdown and submitting changes](#write-your-document-and-submit-changes)
+You now need to add a [document title](#document-title).
 
+&nbsp; <!-- Adds a new line  -->
+## Create a new document in an existing folder
 
-## Open a document for edit
+Browse to the folder you wish to add the new document in (hint remember the folders match the menu, this will help you find the right folder) and then click the `Add file` drop down top right and select `Create new file`. You will get a page similar to this:
 
-To open a document for edit, again enter the `docs` folder in the folder structure, find the file you wish to edit (remember the file structure == the menu structure in the Handbook) and click on it to open it. You will see the file open to edit, like below when I have opened the `intro.md` file:
+![Create new file](images/contribution/Create-new-document.png)
 
-![Edit file](images/contribution/Edit-file.png)
+Enter the new file name at the top - the name doesn't matter too much, so just make it logical and ensure it is **all lowercase and the file name ends in `.md`** - i.e. `file.md`.
 
-You may now edit the document so click the pencil icon to edit the document and then see the section [on markdown and submitting changes](#write-your-document-and-submit-changes).
+**NOTE**: You should not use the following characters in folder or file names: `?`, `[`, `]`, `(` or `)`.
 
+You now need to add a [document title](#document-title).
+
+&nbsp; <!-- Adds a new line  -->
 ## Document title
 
 All new documents should start with the below text:
@@ -102,7 +136,83 @@ The text that comes after the hash and space will be the text used **in the side
 
 **NOTE**: You should not use the following characters in the title: `?`, `[`, `]`, `(` or `)`.
 
-## Write your document and submit changes
+You may now write your new document - see the section on [markdown and submitting changes](#write-your-contribution-and-submit-changes)
+
+&nbsp; <!-- Adds a new line  -->
+# Edit an existing document
+
+To open a document for edit, again enter the `docs` folder in the folder structure, find the file you wish to edit (remember the file structure == the menu structure in the Handbook) and click on it to open it. You will see the file open to edit, like below when I have opened the `intro.md` file:
+
+![Edit file](images/contribution/Edit-file.png)
+
+You may now edit the document so click the pencil icon to edit the document and then see the section [on markdown and submitting changes](#write-your-contribution-and-submit-changes).
+
+&nbsp; <!-- Adds a new line  -->
+# Create a new blog
+
+If your contribution is a blog, then the process is very similar to documents, but slightly different. To create a new blog, first enter the `blogs` folder in the folder structure:
+
+![Root of blog folder](images/contribution/Blog-folder.png)
+
+&nbsp; <!-- Adds a new line  -->
+## Add yourself as an author
+
+If this is your first blog in the Handbook, you will then need to add yourself as an author, which involves two steps:
+
+1. [Add your author picture](#add-author-picture)
+1. [Update the `authors` file](#edit-authors-file)
+
+&nbsp; <!-- Adds a new line  -->
+### Add author picture
+
+To add an author picture, find a head shot of yourself, name it `initialsurname.png` similar to `sburton.png`, then go to Slack in the `#practice-engineering` channel and post that you wish to add your author pic and one of the practice will pick this up for you.
+
+&nbsp; <!-- Adds a new line  -->
+### Edit authors file
+
+To edit the authors file, click the `authors.yml` file, which will show similar to below:
+
+![Authors file open](images/contribution/Authors-file.png)
+
+Click the pencil icon to edit the file to show the below:
+
+![Authors file open for edit](images/contribution/Authors-file-edit.png)
+
+You don't need to worry about the language or syntax here because all you need to do is copy and paste a block of the code (i.e. copy and paste the `sburton` block with everything below is that is **indented**). Then change `sburton` on the pasted block to your initial and surname in lowercase and **edit the details for the new block to match your details, including the image url to the author picture name***. The `sburton` block will look something like the below as an example of what to copy:
+
+```
+sburton:
+  name: Steven Burton
+  title: Head of Delivery at Burendo
+  url: https://www.testersfindaway.com
+  email: steven.burton@burendo.com
+  image_url: https://handbook.burendo.com/img/sburton.jpg
+```
+
+Once you have made the changes to this file, you can submit them as completed. This doesn't make them live yet so don't worry! In the `Commit changes` dialog, simply fill in the first box with a summary of the changes and then add a description. Leave the `Commit directly to the xxxxx branch.` option selected and click `Commit changes`!
+
+&nbsp; <!-- Adds a new line  -->
+## Write the blog
+
+Now you will create your actual blog. This is the easiest way to do this:
+
+- Open the last blog that is in the folder (i.e. the last one that starts with a date as a file name) to show something similar to below:
+
+![Last blog file open](images/contribution/Last-blog-file.png)
+
+1. Click `Raw` to open the file in its raw data form
+1. Copy the text at the top between the lines with `---` on
+1. Click back on the browser
+1. Go back to the `blog` folder
+1. Click `Add file` and select `Create new file` from the drop down to show a screen similar to below:
+
+![New blog file](images/contribution/New-blog.png)
+
+- Enter a file name with the following format: `YYYY-MM-DD-Name-of-blog.md`
+- Write your blog - see the section on [markdown and submitting changes](#write-your-contribution-and-submit-changes)
+
+&nbsp; <!-- Adds a new line  -->
+# Write your contribution and submit changes
 
 Documents are written in a language called "Markdown". Markdown is quite simply and not much different from writing in a wiki or similar. This guide doesn't deal with Markdown directly as there are many guides on the internet and [this](https://www.markdownguide.org/cheat-sheet/) is a handy cheat sheet I use a lot.
 
@@ -118,48 +228,10 @@ Once you have made all the changes you wish to in your new or existing document,
 
 You may create more pages and/or edit more existing pages as you wish to for this contribution. Just ensure that on each one, you commit changes when done! You may also go back to your pages you have already created and edited and update them again if needed. The process is exactly the same as above.
 
-When you have finished your contribution, you need to [submit it for review](#submit-your-changes-for-review).
+When you have finished your contribution and created and edited all the new documents and blogs you want to, you need to [finalise your contribution](#finalise-your-contribution).
 
-
-## Create a new blog
-
-If your contribution is a blog, then the process is very similar to documents, but slightly different. To create a new blog, first enter the `blogs` folder in the folder structure:
-
-![Root of blog folder](images/contribution/Blog-folder.png)
-
-You will then need to edit the `authors.yml` file. Click the file to edit it, which will show similar to below:
-
-![Authors file open](images/contribution/Authors-file.png)
-
-Click the pencil icon to edit the file to show the below:
-
-![Authors file open for edit](images/contribution/Authors-file-edit.png)
-
-You don't need to worry about the language or syntax here because all you need to do is copy and paste a block (i.e. copy and paste the `sburton` block with everything below is that is **indented**). Then change `sburton` on the pasted block to your initial and surname in lowercase and edit the details for the new block to match your details.
-
-Once you have made the changes to this file, you can submit them as completed. This doesn't make them live yet so don't worry! In the "Commit changes" dialog, simply fill in the first box with a summary of the changes and then add a description. Leave the `Commit directly to the xxxxx branch.` option selected and click "Commit changes"!
-
-Now you will create your blog. This is the easiest way to do this:
-
-- Open the last blog that is in the folder (i.e. the last one that starts with a date as a file name) to show something similar to below:
-
-![Last blog file open](images/contribution/Last-blog-file.png)
-
-- Click "Raw" to open the file in its raw data form
-- Copy the test at the top inbetween the lines with `---` on
-- Click back on the browser
-- Go back to the `blog` folder
-- Click "Add file" and select "Create new file" from the drop down to show a screen similar to below:
-
-![New blog file](images/contribution/New-blog.png)
-
-- Enter a file name with the following format: `YYYY-MM-DD-Name-of-blog.md`
-- Write your blog - see the section [on markdown and submitting changes](#write-your-document-and-submit-changes)
-
-When you have finished your contribution, you need to [submit it for review](#submit-your-changes-for-review).
-
-
-## Submit your changes for review
+&nbsp; <!-- Adds a new line  -->
+# Finalise your contribution
 
 Now that all your changes are done, you can submit them for review! To do this, go to the route folder - the easiest way is to click on `burendo-handbook-public` on the breadcrumbs which appear on all pages like this:
 
@@ -183,6 +255,7 @@ Now all you need to do is copy the URL to this page, go to the `#practice-engine
 
 Someone from the practice will pick up the pull request and review it. The review process is not covered here because the practice member who picks it up will work with you on this and have calls and screen shares where necessary. Often the review process needs no changes and your contribution is complete! When the review is complete, the practice member will merge your pull request and it will be live about 5 minutes later.
 
+&nbsp; <!-- Adds a new line  -->
 ## After your contribution
 
 Now you can spread the word and encourage others to contribute! If this guide needs updating please either make another contribution to update it or contact the engineering practice and let them know which bit was wrong or the areas you found most difficult to use. Your feedback is important in making this Handbook as easy to contribute to as possible.
