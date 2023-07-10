@@ -20,17 +20,17 @@ This guide is structured as below:
 1. [Finalise your contribution](#finalise-your-contribution) - the actions you need to do to get your contribution live
 
 &nbsp; <!-- Adds a new line  -->
-# Common actions
+## Common actions
 
 The below actions will need to be done in order to make any contributions to the Handbook. Some things are one-time only so if you have contributed before, you can skip these steps.
 
 &nbsp; <!-- Adds a new line  -->
-## Create a GitHub account (one-time)
+### Create a GitHub account (one-time)
 
 If you have not done this before you need to create yourself a GitHub account. In order to do this go to [GitHub's website](https://github.com/), click *"Sign Up"* and create a new account. You will need to use 2FA for the account and can set up now or will be prompted to later.
 
 &nbsp; <!-- Adds a new line  -->
-## Request access for content changes (one-time)
+### Request access for content changes (one-time)
 
 In order to get access to add or edit content:
 
@@ -42,12 +42,12 @@ In order to get access to add or edit content:
 > *Note*: Once you have access to contribute to the public content, it stays with you while at Burendo, you do **not** need to request public contributor access every time
 
 &nbsp; <!-- Adds a new line  -->
-## Browse to code
+### Browse to code
 
 Once you have access, you can make and submit your changes. If you are code-savvy, then feel free to do the below in code and clone the repositories, but the rest of this guide will use the browser to make the changes as that opens the Handbook up better to contributions from anyone in the business. To make changes any changes without using the code, you need to open the [content](https://github.com/BurendoUK/burendo-handbook-public) repository in your browser.
 
 &nbsp; <!-- Adds a new line  -->
-## Create a new branch
+### Create a new branch
 
 The first thing to do is to create a `branch` for making your changes on. To do this, click the highlighted button from the repository in the browser:
 
@@ -62,7 +62,7 @@ If you haven't yet created a branch for this contribution, then type the name he
 Once you have created or selected your branch, you will see it selected in the drop down. You can now make all your contributions.
 
 &nbsp; <!-- Adds a new line  -->
-## The menu
+### The menu
 
 Before you start, it's important to understand how the menu works. The things to know about the sidebar menu in the Handbook are:
 
@@ -71,7 +71,7 @@ Before you start, it's important to understand how the menu works. The things to
 - Folders will create menu items which have sub-menu items that are the sub-folders or documents within that folder - i.e. _the folder hierarchy == the menu hierarchy_
 
 &nbsp; <!-- Adds a new line  -->
-# Specific actions
+## Specific actions
 
 Now you will need to select the type of contribution you wish to make and follow those instructions. You might be making multiple contributions in one go, in which case make all your contributions first, following the relevant instructions in this section and then go to [finalise your contribution](#finalise-your-contribution). The contribution types you can make are:
 
@@ -80,7 +80,7 @@ Now you will need to select the type of contribution you wish to make and follow
 1. [Create a new blog](#create-a-new-blog) - create a new blog entry on the Handbook.
 
 &nbsp; <!-- Adds a new line  -->
-# Create a new document
+## Create a new document
 
 To create a new document, first enter the `docs` folder in the folder structure:
 
@@ -100,7 +100,7 @@ The docs you see here match the docs in the [live handbook](https://handbook.bur
 1. [Create a new document in an existing folder](#create-a-new-document-in-an-existing-folder) - create a new page on the Handbook.
 
 &nbsp; <!-- Adds a new line  -->
-## Create a new document in a new folder
+### Create a new document in a new folder
 
 You don't add the sub-folder by itself, it is added in the same step as adding the new document, so once you in the relevant parent folder where you would like to add the sub-folder, click the `Add file` drop down top right and select `Create new file`. You will get a page similar to this:
 
@@ -113,7 +113,7 @@ Enter the new file name at the top - the name doesn't matter too much, so just m
 You now need to add a [document title](#document-title).
 
 &nbsp; <!-- Adds a new line  -->
-## Create a new document in an existing folder
+### Create a new document in an existing folder
 
 Browse to the folder you wish to add the new document in (hint remember the folders match the menu, this will help you find the right folder) and then click the `Add file` drop down top right and select `Create new file`. You will get a page similar to this:
 
@@ -126,7 +126,7 @@ Enter the new file name at the top - the name doesn't matter too much, so just m
 You now need to add a [document title](#document-title).
 
 &nbsp; <!-- Adds a new line  -->
-## Document title
+### Document title
 
 All new documents should start with the below text:
 
@@ -139,7 +139,7 @@ The text that comes after the hash and space will be the text used **in the side
 You may now write your new document - see the section on [markdown and submitting changes](#write-your-contribution-and-submit-changes)
 
 &nbsp; <!-- Adds a new line  -->
-# Edit an existing document
+## Edit an existing document
 
 To open a document for edit, again enter the `docs` folder in the folder structure, find the file you wish to edit (remember the file structure == the menu structure in the Handbook) and click on it to open it. You will see the file open to edit, like below when I have opened the `intro.md` file:
 
@@ -148,14 +148,14 @@ To open a document for edit, again enter the `docs` folder in the folder structu
 You may now edit the document so click the pencil icon to edit the document and then see the section [on markdown and submitting changes](#write-your-contribution-and-submit-changes).
 
 &nbsp; <!-- Adds a new line  -->
-# Create a new blog
+## Create a new blog
 
 If your contribution is a blog, then the process is very similar to documents, but slightly different. To create a new blog, first enter the `blogs` folder in the folder structure:
 
 ![Root of blog folder](images/contribution/Blog-folder.png)
 
 &nbsp; <!-- Adds a new line  -->
-## Add yourself as an author
+### Add yourself as an author
 
 If this is your first blog in the Handbook, you will then need to add yourself as an author, which involves two steps:
 
@@ -163,12 +163,12 @@ If this is your first blog in the Handbook, you will then need to add yourself a
 1. [Update the `authors` file](#edit-authors-file)
 
 &nbsp; <!-- Adds a new line  -->
-### Add author picture
+#### Add author picture
 
 To add an author picture, find a head shot of yourself, name it `initialsurname.png` similar to `sburton.png`, then go to Slack in the `#practice-engineering` channel and post that you wish to add your author pic and one of the practice will pick this up for you.
 
 &nbsp; <!-- Adds a new line  -->
-### Edit authors file
+#### Edit authors file
 
 To edit the authors file, click the `authors.yml` file, which will show similar to below:
 
@@ -192,7 +192,7 @@ sburton:
 Once you have made the changes to this file, you can submit them as completed. This doesn't make them live yet so don't worry! In the `Commit changes` dialog, simply fill in the first box with a summary of the changes and then add a description. Leave the `Commit directly to the xxxxx branch.` option selected and click `Commit changes`!
 
 &nbsp; <!-- Adds a new line  -->
-## Write the blog
+### Write the blog
 
 Now you will create your actual blog. This is the easiest way to do this:
 
@@ -212,7 +212,7 @@ Now you will create your actual blog. This is the easiest way to do this:
 - Write your blog - see the section on [markdown and submitting changes](#write-your-contribution-and-submit-changes)
 
 &nbsp; <!-- Adds a new line  -->
-# Write your contribution and submit changes
+## Write your contribution and submit changes
 
 Documents are written in a language called "Markdown". Markdown is quite simply and not much different from writing in a wiki or similar. This guide doesn't deal with Markdown directly as there are many guides on the internet and [this](https://www.markdownguide.org/cheat-sheet/) is a handy cheat sheet I use a lot.
 
@@ -232,7 +232,7 @@ When you have finished your contribution and created and edited all the new docu
 
 
 &nbsp; <!-- Adds a new line  -->
-## Adding images
+### Adding images
 
 Often you will want to upload new images so you can reference them in your page or blog. Firstly, you should ensure your images are named all lowercase (except an initial captial letter) with hyphens for spaces and is of type `png`. For example `This-is-an-image.png`.
 
@@ -251,7 +251,7 @@ At this point there are two options, so ensure you select the right one:
 
 
 &nbsp; <!-- Adds a new line  -->
-### Images folder exists
+#### Images folder exists
 
 If the `images` folder exists, simply drag and drop the photos to the upload box on this screen, then enter a title in the text box where it says `Add files via upload` that says what you are doing i.e. `Upload images for new roles document` and then add a longer description in the bigger next text box if you feel it is needed. Then click `Commit changes`.
 
@@ -261,7 +261,7 @@ To reference the images in the document following the instructions [here](#use-t
 
 
 &nbsp; <!-- Adds a new line  -->
-### Images folder does not exist
+#### Images folder does not exist
 
 If the `images` folder does not exist, you need to **locally** create a folder called `images` (ensure the name is lowercase), then move all the images you wish to upload for this document in to that folder locally and then drag and drop the `images` folder itself to the upload box on this screen.
 
@@ -273,7 +273,7 @@ To reference the images in the document following the instructions [here](#use-t
 
 
 &nbsp; <!-- Adds a new line  -->
-### Use the images in a document
+#### Use the images in a document
 
 When the images have been [uploaded](#adding-images), you can reference using the syntax `![Alt text of image](images/Image-name.png)` i.e. for the image named `This-is-an-image.png`, you would add:
 
@@ -283,7 +283,7 @@ It's best to leave a new line before and after this text for readability and to 
 
 
 &nbsp; <!-- Adds a new line  -->
-# Finalise your contribution
+## Finalise your contribution
 
 Now that all your changes are done, you can submit them for review! To do this, go to the route folder - the easiest way is to click on `burendo-handbook-public` on the breadcrumbs which appear on all pages like this:
 
@@ -308,6 +308,6 @@ Now all you need to do is copy the URL to this page, go to the `#practice-engine
 Someone from the practice will pick up the pull request and review it. The review process is not covered here because the practice member who picks it up will work with you on this and have calls and screen shares where necessary. Often the review process needs no changes and your contribution is complete! When the review is complete, the practice member will merge your pull request and it will be live about 5 minutes later.
 
 &nbsp; <!-- Adds a new line  -->
-## After your contribution
+### After your contribution
 
 Now you can spread the word and encourage others to contribute! If this guide needs updating please either make another contribution to update it or contact the engineering practice and let them know which bit was wrong or the areas you found most difficult to use. Your feedback is important in making this Handbook as easy to contribute to as possible.
