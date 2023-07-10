@@ -238,7 +238,7 @@ Often you will want to upload new images so you can reference them in your page 
 
 Next, you need to navigate within the browser to your document where you will be referencing the image. **Within this folder**, click `Add file` from the top left drop down and click `Upload files`. For instance, if I was adding the images to the `roles-introduction.md` document, then I will add them as below:
 
-![Upload files menu example](images/Upload-images.png)
+![Upload files menu example](images/contribution/Upload-images.png)
 
 After clicking `Upload files` you will have a screen similar to the below:
 
