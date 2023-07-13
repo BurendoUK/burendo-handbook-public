@@ -29,7 +29,7 @@ Making good decisions is a crucial aspect of machine learning, and calculus, a b
 
 For example, self-driving cars rely on calculus to navigate the road and determine the best path to take. Just as we would find the fastest way to reach a destination by considering factors like distance, traffic, and speed limits, self-driving cars use calculus to analyse variables such as the car's current position, the surrounding environment, and real-time traffic data. By applying calculus-based optimisation techniques, self-driving cars can calculate the optimal route to reach their destination efficiently and safely.
 
-### Dealing with guesses: 
+### Dealing with guesses
 
 Dealing with guesses is an important aspect of artificial intelligence (AI), and probability and statistics play a critical role in helping computers make educated guesses. These mathematical concepts enable systems to estimate the likelihood of different outcomes based on past data and observations. This knowledge is particularly crucial in AI because it allows systems to quantify uncertainty and make informed decisions based on probabilities.
 
