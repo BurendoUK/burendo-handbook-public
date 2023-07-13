@@ -12,7 +12,6 @@ bbayes:
   email: brian.bayes@burendo.com
   image_url: https://handbook.burendo.com/img/bbayes.jpg
 
-
 cavery:
   name: Connor Avery
   title: Senior Consultant at Burendo
@@ -40,3 +39,10 @@ zzoheb:
   url: https://www.linkedin.com/in/zeshan-zoheb-5a838486/
   email: zeshan.zoheb@burendo.com
   image_url: https://handbook.burendo.com/img/zzoheb.jpg
+
+plemons:
+  name: Paddy Lemons
+  title: Principal Consultant at Burendo
+  url: https://www.linkedin.com/in/paddylemons/
+  email: patrick.lemons@burendo.com
+  image_url: https://handbook.burendo.com/img/plemons.png
