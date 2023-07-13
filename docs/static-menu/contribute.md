@@ -16,6 +16,9 @@ This guide is structured as below:
     - [Edit an existing document](#edit-an-existing-document) - edit a page that currently exists in the Handbook.
     - [Create a new blog](#create-a-new-blog) - create a new blog entry on the Handbook.
 1. [Write your contribution](#write-your-contribution-and-submit-changes) - add your contribution text using markdown syntax
+    - [Saving your work](#saving-your-work) - how to save your work for later or finalisation.
+    - [Making further changes](#making-further-changes) - coming back to previously saved work.
+    - [All changes committed](#all-changes-committed) - when all work is finished and saved.
     - [Adding images](#adding-images) - add an image and use it in your page or blog.
 1. [Finalise your contribution](#finalise-your-contribution) - the actions you need to do to get your contribution live
 
@@ -208,6 +211,7 @@ Now you will create your actual blog. This is the easiest way to do this:
 
 ![New blog file](images/contribution/New-blog.png)
 
+- Paste the text you copied from the other blog to the top of your new file and edit the data to match (i.e. description, tags etc)
 - Enter a file name with the following format: `YYYY-MM-DD-Name-of-blog.md`
 - Write your blog - see the section on [markdown and submitting changes](#write-your-contribution-and-submit-changes)
 
@@ -222,13 +226,27 @@ Click the "Preview" button on the edit page to view what your page will look lik
 
 ![Intro document preview](images/contribution/Intro-preview.png)
 
-Once you have made all the changes you wish to in your new or existing document, you can submit them as completed. This doesn't make them live yet so don't worry! In the "Commit changes" dialog, simply fill in the first box with a summary of the changes and then add a description. Leave the `Commit directly to the xxxxx branch.` option selected and click "Commit changes"! For instance here is my commit message for my changes to `intro.md`:
+
+&nbsp; <!-- Adds a new line  -->
+### Saving your work
+
+Once you have made all the changes you wish to in your new or existing blog or document, you can submit them as completed. This doesn't make them live yet so don't worry! In the `Commit changes` dialog at the bottom of the page, simply fill in the first box with a summary of the changes and then add a description. Leave the `Commit directly to the xxxxx branch.` option selected and click `Commit changes`! For instance here is my commit message for my changes to `intro.md`:
 
 ![Commit message filled in](images/contribution/Commit-message.png)
 
-You may create more pages and/or edit more existing pages as you wish to for this contribution. Just ensure that on each one, you commit changes when done! You may also go back to your pages you have already created and edited and update them again if needed. The process is exactly the same as above.
+You may create more pages and/or edit more existing pages as you wish to for this contribution. Just ensure that on each one, you commit changes when done!
 
-When you have finished your contribution and created and edited all the new documents and blogs you want to, you need to [finalise your contribution](#finalise-your-contribution).
+
+&nbsp; <!-- Adds a new line  -->
+### Making further changes
+
+All work that has been committed using the process [here](#saving-your-work) is saved and you can navigate away and go and sleep or do whatever you need to! In order to return to your work and make further changes [browse to the code again](#browse-to-code) and follow the [create a branch](#create-a-new-branch) instructions using the name of your _existing_ branch in order to select that one rather than creating a second one. Then browse to the files again to edit them further.
+
+
+&nbsp; <!-- Adds a new line  -->
+### All changes committed
+
+When you have finished your contribution and created and edited all the new documents and blogs you want to and all your changes have been committed, you need to [finalise your contribution](#finalise-your-contribution).
 
 
 &nbsp; <!-- Adds a new line  -->
