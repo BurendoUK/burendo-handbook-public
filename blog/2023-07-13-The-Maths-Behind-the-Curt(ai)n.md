@@ -35,7 +35,7 @@ Dealing with guesses is an important aspect of artificial intelligence (AI), and
 
 In the context of language generation, large language models (LLMs) like GPT rely on probability and statistical techniques. These models estimate the likelihood of different word sequences or grammatical structures occurring based on patterns they've learned from analysing vast amounts of data. By assessing the probabilities of different options, LLMs can make "best guesses" about the most suitable words to generate next in a given context. This probabilistic approach ensures that the generated text is coherent, contextually relevant, and aligns with the patterns observed in the training data.
 
-### Creating stories or making new music: 
+### Creating stories or making new music
 
 Creating stories or making new music involves leveraging mathematics techniques, such as Markov chains, in generative AI. Markov chains are mathematical models that help generate sequences of events based on probabilities. In the context of generative AI, Markov chains are utilised to create branching stories or compose new music.
 
