@@ -23,7 +23,7 @@ Finding patterns is an essential task in data science, and mathematics technique
 
 In addition to image recognition, linear regression is another widely used technique in data science to identify relationships between different data items and make predictions. It enables data scientists to explore how changes in one variable are associated with changes in another. By fitting a line that best represents the relationship between the variables, linear regression provides insights into the patterns and correlations within the data. This technique is commonly employed in various domains, such as finance, marketing, and social sciences, where understanding relationships and making predictions based on observed data are of great importance.
 
-### Making good decisions: 
+### Making good decisions
 
 Making good decisions is a crucial aspect of machine learning, and calculus, a branch of mathematics, plays a key role in enabling algorithms to make optimal choices. In machine learning, calculus helps algorithms figure out the best options by optimising and finding the most favourable solutions.
 
