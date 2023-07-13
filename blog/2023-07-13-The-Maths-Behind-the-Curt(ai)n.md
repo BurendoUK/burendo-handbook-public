@@ -17,7 +17,7 @@ There’s no such conundrum here :slight_smile: The Mathematics used in ML and A
 
 ## In practice
 
-### Finding patterns: 
+### Finding patterns
 
 Finding patterns is an essential task in data science, and mathematics techniques, such as linear algebra, play a crucial role in this process. Linear algebra helps us analyse and identify patterns in various types of data, including pictures. For instance, computers can use linear algebra techniques to recognise faces in photos by detecting patterns in the arrangement of pixels.
 
