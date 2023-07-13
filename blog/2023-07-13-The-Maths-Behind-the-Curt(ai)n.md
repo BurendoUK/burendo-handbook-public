@@ -52,7 +52,7 @@ Making Informed Decisions: Probability theory helps quantify and manage uncertai
 Enhancing User Experience: Understanding the mathematical techniques used in AI enables you to critically analyse and interpret results, identify biases or inconsistencies, and improve the fairness and inclusiveness of AI systems. This ensures a better user experience and avoids potential issues.
 Driving Business Value: Maths is essential for driving business value through AI. Understanding the maths behind AI algorithms and models helps align AI capabilities with business objectives, identify suitable applications, and make informed decisions on resource allocation and investment in AI technologies.
 
-## Conclusion:
+## Conclusion
 
 Understanding the maths behind AI is vital for delivering high-quality outputs, making informed decisions, enhancing user experiences, and driving business value. Maths equips you with the tools to assess the reliability of AI models, evaluate uncertainty and probability, ensure fairness and inclusiveness, and maximise the potential of AI technologies. By embracing the mathematical foundations of AI, you can steer your organisation towards success in the AI-driven landscape while delivering impactful and valuable AI products. 
 
