@@ -41,7 +41,7 @@ Creating stories or making new music involves leveraging mathematics techniques,
 
 When it comes to creating branching stories, the computer uses Markov chains to analyse the probabilities of different story paths based on user choices. The Markov chain model considers the current state of the story and the available choices, assigning probabilities to each possible next step. By using these probabilities, the computer can dynamically determine what happens next in the story, leading to a unique narrative experience for each user.
 
-## Why maths matters beyond the developers:
+## Why maths matters beyond the developer
 
 For everyone involved in developing an AI product, understanding maths is crucial for the following reasons:
 
