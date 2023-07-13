@@ -7,7 +7,7 @@ tags: [ai, machine-learning, data-science, mathematics]
 ---
 # The maths behind the curt(ai)n
 
-## Introduction:
+## Introduction
 
 Ever wondered how computers can learn and make smart decisions? Well, it's all thanks to maths! In this blog I'll explore the maths used in machine learning (ML) and artificial intelligence (AI) to solve problems and create amazing products, relating some key mathematical techniques to the most familiar AI use cases. The maths at play may seem to be the domain of the developers who actually build the solutions, but for product owners, business analysts, UI/UX and indeed users, it’s really important to understand how the maths influences and limits what AI products can really do.
 
