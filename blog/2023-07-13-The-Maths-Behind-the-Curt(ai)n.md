@@ -11,9 +11,11 @@ tags: [ai, machine-learning, data-science, mathematics]
 
 Ever wondered how computers can learn and make smart decisions? Well, it's all thanks to maths! In this blog I'll explore the maths used in machine learning (ML) and artificial intelligence (AI) to solve problems and create amazing products, relating some key mathematical techniques to the most familiar AI use cases. The maths at play may seem to be the domain of the developers who actually build the solutions, but for product owners, business analysts, UI/UX and indeed users, it’s really important to understand how the maths influences and limits what AI products can really do.
 
+<!--truncate-->
+
 ### Chicken or egg?
 
-There’s no such conundrum here :slight_smile: The Mathematics used in ML and AI predates and underpins the modern technological advances. The concepts and principles of mathematics have long been studied and developed by brilliant minds throughout history. From ancient civilisations to the modern era, mathematicians have laid the groundwork for all the algorithms, models, and techniques used in AI and machine learning today. 
+There’s no such conundrum here. The Mathematics used in ML and AI predates and underpins the modern technological advances. The concepts and principles of mathematics have long been studied and developed by brilliant minds throughout history. From ancient civilisations to the modern era, mathematicians have laid the groundwork for all the algorithms, models, and techniques used in AI and machine learning today. 
 
 ## In practice
 
