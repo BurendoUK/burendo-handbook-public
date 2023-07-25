@@ -198,6 +198,8 @@ sburton:
   image_url: https://handbook.burendo.com/img/sburton.jpg
 ```
 
+> **NOTE:** Ensure your block of text has similar indentation (using tabs as the other blocks in the file.
+
 Once you have made the changes to this file, you can submit them as completed. This doesn't make them live yet so don't worry! In the `Commit changes` dialog, simply fill in the first box with a summary of the changes and then add a description. Leave the `Commit directly to the xxxxx branch.` option selected and click `Commit changes`!
 
 &nbsp; <!-- Adds a new line  -->
