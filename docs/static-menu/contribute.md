@@ -85,6 +85,8 @@ Now you will need to select the type of contribution you wish to make and follow
 &nbsp; <!-- Adds a new line  -->
 ## Create a new document
 
+> **NOTE:** Have you performed the [common actions](#common-actions) yet? If so, you need to do these first.
+
 To create a new document, first enter the `docs` folder in the folder structure:
 
 ![Docs folder highlighted](images/contribution/Docs-highlighted.png)
@@ -144,6 +146,8 @@ You may now write your new document - see the section on [markdown and submittin
 &nbsp; <!-- Adds a new line  -->
 ## Edit an existing document
 
+> **NOTE:** Have you performed the [common actions](#common-actions) yet? If so, you need to do these first.
+
 To open a document for edit, again enter the `docs` folder in the folder structure, find the file you wish to edit (remember the file structure == the menu structure in the Handbook) and click on it to open it. You will see the file open to edit, like below when I have opened the `intro.md` file:
 
 ![Edit file](images/contribution/Edit-file.png)
@@ -152,6 +156,8 @@ You may now edit the document so click the pencil icon to edit the document and 
 
 &nbsp; <!-- Adds a new line  -->
 ## Create a new blog
+
+> **NOTE:** Have you performed the [common actions](#common-actions) yet? If so, you need to do these first.
 
 If your contribution is a blog, then the process is very similar to documents, but slightly different. To create a new blog, first enter the `blogs` folder in the folder structure:
 
