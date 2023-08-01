@@ -71,7 +71,7 @@ It's important to note that the Cloud providers don’t necessarily make this as
 and more.
  
  
-### People
+## People
  
 OK, we've got the tooling sorted now how about those people:
  
