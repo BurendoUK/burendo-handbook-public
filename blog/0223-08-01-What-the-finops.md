@@ -95,7 +95,7 @@ We introduced *regular catch ups* (only monthly so not too onerous) with someone
 * Started to collectively understand best practice. *Partners are important* here as we would always have questions that we may not be able to answer ourselves.
  
  
-### In summary (TL; DR)
+## In summary (TL; DR)
  
 To pull out some key learnings around FinOps:
  
