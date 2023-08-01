@@ -83,7 +83,7 @@ This did lead to my first interactions with some very senior individuals at the 
  
 * Lastly, we started to publish *League tables* of spend month-on-month. Human nature is great if pointed in the right direction and no one really wants to be top of the spend charts - at least without a good justification as to why that is. Which prompts a need for understanding, which starts to change the culture.
  
-### Process
+## Process
  
 *The final key change was building a collective understanding* of how to use cloud services responsibly.
  
