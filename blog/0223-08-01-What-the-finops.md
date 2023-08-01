@@ -55,7 +55,7 @@ So, for me with FinOps, whilst saving money is usually one of the outcomes, to m
  
 Culture change can be one of the hardest things for an organisation, and don’t mistake that often that’s what we’re talking about. Finance, development, IT Operations & Platform teams all need to be thinking in a different way from what worked for on-premise and data centres. For Finance teams in particular this can be quite the journey as the old 'annual budget & purchase order sign-off' approach really falls down completely in a 'coin-operated' world like public cloud where costs and spend change by the minute, let alone monthly and the purchasing is done by developers directly and instantly.
  
-### Tooling
+## Tooling
 
 So, for all I said it’s about people, tools are great! They’re great for tweaking people’s behaviours which in turn (in time) changes the culture.
  
