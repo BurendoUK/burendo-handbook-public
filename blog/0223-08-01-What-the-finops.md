@@ -56,8 +56,6 @@ So, for me with FinOps, whilst saving money is usually one of the outcomes, to m
 Culture change can be one of the hardest things for an organisation, and don’t mistake that often that’s what we’re talking about. Finance, development, IT Operations & Platform teams all need to be thinking in a different way from what worked for on-premise and data centres. For Finance teams in particular this can be quite the journey as the old 'annual budget & purchase order sign-off' approach really falls down completely in a 'coin-operated' world like public cloud where costs and spend change by the minute, let alone monthly and the purchasing is done by developers directly and instantly.
  
 ### Tooling
- 
-![technology](./images/2023-08-01-What-the-finops/wtfo1.png)  
 
 So, for all I said it’s about people, tools are great! They’re great for tweaking people’s behaviours which in turn (in time) changes the culture.
  
@@ -73,9 +71,7 @@ It's important to note that the Cloud providers don’t necessarily make this as
 and more.
  
  
-People
- 
-![people](./images/2023-08-01-What-the-finops/wtfo2.png)  
+### People
  
 OK, we've got the tooling sorted now how about those people:
  
@@ -87,9 +83,7 @@ This did lead to my first interactions with some very senior individuals at the 
  
 * Lastly, we started to publish *League tables* of spend month-on-month. Human nature is great if pointed in the right direction and no one really wants to be top of the spend charts - at least without a good justification as to why that is. Which prompts a need for understanding, which starts to change the culture.
  
-Process
- 
-![process](./images/2023-08-01-What-the-finops/wtfo3.png)  
+### Process
  
 *The final key change was building a collective understanding* of how to use cloud services responsibly.
  
