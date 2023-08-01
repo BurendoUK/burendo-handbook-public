@@ -51,7 +51,7 @@ Where we started it was simply *impossible to make sound business decisions* and
 So, for me with FinOps, whilst saving money is usually one of the outcomes, to me it’s more about *spending responsibly* and awareness. Awareness of how much we’re spending and awareness of how we can spend it in the most efficient way possible. Really it harks back to LEAN concepts of reducing waste.  
  
  
-### The Approach
+## The Approach
  
 Culture change can be one of the hardest things for an organisation, and don’t mistake that often that’s what we’re talking about. Finance, development, IT Operations & Platform teams all need to be thinking in a different way from what worked for on-premise and data centres. For Finance teams in particular this can be quite the journey as the old 'annual budget & purchase order sign-off' approach really falls down completely in a 'coin-operated' world like public cloud where costs and spend change by the minute, let alone monthly and the purchasing is done by developers directly and instantly.
  
