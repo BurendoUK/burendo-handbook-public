@@ -34,7 +34,7 @@ Such was the success that in no time at all more accounts were added and more te
  
 So - all good right? RIGHT??? Well, this wouldn't be much of a tale if it was all smooth sailing…
  
-### Key Challenges
+## Key Challenges
  
 * *First off, cognitive load*. It's something I’ve been thinking about a lot right now  and it’s this that’s at the core of the issue. As the cloud use rapidly scaled the small team that was once able to keep in it’s collective brain all the moving parts of what was and wasn’t running where and why very, quickly runs out of brain space. There’s no way of scaling this sensibly as the rate of cloud usage often grows exponentially.
  
