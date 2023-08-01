@@ -20,7 +20,7 @@ I suspect no one who’s ever met me will be surprised with where this is going,
 "So how did I come to this conclusion?" I hear you say… well I’m glad you asked. Please settle down for a short story time :)
 I’m sure there are some companies out there who have had a carefully planned strategy of how they’re wanting to move to the cloud. I’m sure for a small subset of these it went roughly to plan, but honestly, I’ve not seen it often due to the reality being full of 'exciting' surprises.
  
-### Scaling Issues
+## Scaling Issues
  
 For many of organisations the strategy often only went as far as “we should leverage the cloud” and then a few good people start doing many of the right things.  
 Or  
