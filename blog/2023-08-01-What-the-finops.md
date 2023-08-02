@@ -1,5 +1,5 @@
 ---
-title: That the FinOps?
+title: What the FinOps?
 description: Introduction to the Burendo Handbook and its purpose.
 slug: what-the-finops
 authors: iwatson
