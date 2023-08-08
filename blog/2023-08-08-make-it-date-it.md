@@ -1,8 +1,8 @@
 ---
 title: If you don't make it - you don't date it.
-description: Introduction to the Burendo Handbook and its purpose.
+description: Blog talking about having the right people estimating work.
 slug: make-it-date-it
-authors: iwatson
+authors: wmavrodaris
 tags: [agile, estimation, collaboration]
 ---
 
