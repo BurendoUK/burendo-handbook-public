@@ -8,7 +8,7 @@ tags: [agile, estimation, collaboration]
 
 # Estimating. If you don't make it - you don't date it.
 
-How long is a piece of string? The age-old way of explaining that no one knows the answer. Take for example measuring the coast line from Blackhead to Looe, depending about how you go about measuring, something will change the result. If you use a ruler you will get about 42cm, if you use a piece of string and trace the coast line and then measure that you get about 47cm. However, if you break out a map measuring wheel (Yes it does exist and is a real thing) you end up with 65cm!!!
+How long is a piece of string? The age-old way of explaining that no one knows the answer. Take for example measuring the coast line from Blackhead to Looe, depending about how you go about measuring something will change the result. If you use a ruler you will get about 42cm, if you use a piece of string and trace the coast line and then measure that you get about 47cm. However, if you break out a map measuring wheel (Yes it does exist and is a real thing) you end up with 65cm!!!
 <!--truncate-->
 Each measuring device used zoom ins on the coast line looking at it in greater detail. Each new cove and inlet increases the length of the coast line and the closer you zoom in, the longer that length will become. In fact, the more you zoom in the closer to infinite that length will become.
 
