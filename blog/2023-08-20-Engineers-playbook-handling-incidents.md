@@ -1,6 +1,6 @@
 ---
 title: The Engineers Playbook - Handling Incidents
-description: 
+description: How engineers deal with incident management
 slug: handling-incidents
 authors: cavery
 tags: [sre, engineering, incident, management]
