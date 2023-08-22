@@ -4,7 +4,7 @@ description: How engineers deal with incident management
 slug: handling-incidents
 authors: cavery
 tags: [sre, engineering, incident, management]
-image: images/2023-08-20-Engineers-playbook-handling-incidents/post-header.png
+image: https://handbook.burendo.com/img/blog_headers/handling_incidents.png
 ---
 
 Depending on your working environment, you may experience incidents differently from someone else. Every organisation has their way of dealing with incidents, how they triage them and what paperwork is required (hopefully not literally).
