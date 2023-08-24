@@ -2,6 +2,8 @@
 
 In this blog I will talk about how I, as a Scrum Master/ADL took the opportunity to learn some hands on, front-end engineering work such as HTML, JavaScript and CSS. 
 
+<!--truncate-->
+
 ## A bit about me
 
 I am very much a Scrum Master/Agile Delivery Lead by trade and a very non-technical one at that. I’ve never really dipped my toes into the world of engineering languages until now and I will share my discoveries throughout this blog. The reason I wanted to learn more about engineering is so I can become more effective in my role so having a good base knowledge of the space and the practicality of it, I believe will help. I also aspire to become a more well-rounded consultant capable of offering a wider range of disciplines. I believe that by continuing my development, I can achieve this goal. 
