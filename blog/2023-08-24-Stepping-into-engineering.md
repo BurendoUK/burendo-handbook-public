@@ -6,11 +6,13 @@ In this blog I will talk about how I, as a Scrum Master/ADL took the opportunity
 
 I am very much a Scrum Master/Agile Delivery Lead by trade and a very non-technical one at that. I’ve never really dipped my toes into the world of engineering languages until now and I will share my discoveries throughout this blog. The reason I wanted to learn more about engineering is so I can become more effective in my role so having a good base knowledge of the space and the practicality of it, I believe will help. I also aspire to become a more well-rounded consultant capable of offering a wider range of disciplines. I believe that by continuing my development, I can achieve this goal. 
 
-## The starting point.
+## The starting point
 
 I have been very fortunate to spend quite a bit of time pair programming alongside one of our other Senior Consultant Engineers (Brian) which was where we began to look at some HTML. We decided that to keep it fun and engaging, we would approach this doing a topic that we both share and enjoy…. Golf! We decided that we would build a golf scorecard from scratch using HTML, JavaScript, and some CSS…no cheating, just manual coding!
 
 As part of this, Brian sent me a list of things that he thought would be useful to look up before our initial meeting where we would get our hands mucky. This list included things like links to W3Schools on HTML forms and how to build a table in HTML, a link to CodePen so I could code and see the result instantly and finally a recommendation of downloading Visual Studio Code where we would actually, write the ‘proper’ code. I then watched a YouTube tutorial for VS Code. When writing the code for the actual score card, I had learnt that we needed to identify the document type and then used some of the tags I had learned from W3Schools such as <form> and <table>. 
+
+![html](images/2023-08-24-Stepping-into-engineering/html.png)
 
 ## Building the Scorecard
 
@@ -25,6 +27,6 @@ First of all, it is important to highlight just how fortunate I am to be in a po
 ## What’s next?
 
 As part of my continuous learning and genuine interest in the front-end development, I have recently started an online Udemy course in the basics of JavaScript that also touches on some (very) basics of HTML. I also did some 1 to 1 coaching with one of our Heads of Delivery, Ian, around CI/CD and have been pointed in the direction of a few things such as Trunk Based Development, source control, unit tests and many other modern software engineering practices. This gives me a very good starter for my continued journey into the whole world of engineering and will enhance my understanding and technical abilities when on client which is a win/win for everyone! As I move forward, my next action involves creating a pull request on GitHub as I finalise the composition of this blog. 
- 
 
-![image](https://github.com/BurendoUK/burendo-handbook-public/assets/142904943/5cb7905e-28ef-4656-8bd5-b20774d4de3a)
+![scorecard](images/2023-08-24-Stepping-into-engineering/scorecard.png)
+ 
