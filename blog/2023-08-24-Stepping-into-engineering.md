@@ -1,3 +1,11 @@
+---
+title: Stepping into Engineering
+description: A Scrum Masters introduction to Software Engineering
+slug: stepping-into-engineering
+authors: jscott
+tags: [software-engineering]
+---
+
 # Stepping into Engineering
 
 In this blog I will talk about how I, as a Scrum Master/ADL took the opportunity to learn some hands on, front-end engineering work such as HTML, JavaScript and CSS. 
