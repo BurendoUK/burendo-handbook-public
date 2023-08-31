@@ -23,6 +23,8 @@ People Advocates help one or more Burendoers facilitate their personal long term
 
 People Advocate is a hat people wear and we incentivise it by it helping Burendoers towards your career growth at Burendo by taking on extra responsibilities (along with the intrinsic motivation some people have for responsibilities like this).
 
+A people advocate can support someone in any area of the business, will be peer or senior to the person they advocate, and will have capacity to support up to 8 people either in an advocate or team champion position.
+
 ### Responsibilities
 
 The following things are examples of what a People Advocate does:
@@ -33,6 +35,3 @@ The following things are examples of what a People Advocate does:
 - Help identify gaps in knowledge and push for training opportunities
 - Provide support and expertise on jobs and tasks
 - Raise awareness of learning opportunities within Burendo
-- Max of 8 people to advocate or champion
-- Can be people advocate for someone in any tribe/team
-- Must be peer of or senior to people you advocate for

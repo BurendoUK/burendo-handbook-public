@@ -8,7 +8,7 @@ A Burendoer's account is the most regular support network they will have at Bure
 
 The whole account is a support network but there are also specific responsibilities within Burendo on the account side.
 
-## Account Lead
+## Account Lead
 
 An account lead has delivery accountability for the workstreams they lead.
 

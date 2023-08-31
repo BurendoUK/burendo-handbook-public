@@ -8,7 +8,7 @@ The wider Burendo community is an important part of the overall Burendoer suppor
 
 ## Practices
 
-Within Burendo, we have Practices who are there to build communities around shared skills and services. Each Practice has one or more Practice Leads who have the following responsibilities when it comes to People Support within their Practice:
+Within Burendo, we have [Practices](../../../Our%20Practices/practices-introduction.md) who are there to build communities around shared skills and services. Each Practice has one or more Practice Leads who have the following responsibilities when it comes to People Support within their Practice:
 
 - Advise on personal development and help guide on how to deliver great services
 - Support Burendoers where they need practitioner advice and help with difficult scenarios on client
