@@ -8,9 +8,6 @@ tags: [scrum, engineering, leadership]
 
 # The Myth of the Scrum Master: A Tech Lead's Perspective on Why We Don't Need 'Em
 
-![jafar](./images/2023-09-05-Scrum-Master-Myth/jafar.png)  
-_It really helps if you read this blog with your internal monologue voice set to Jafar._
-
 ## Introduction
 Ah, the Scrum Master... Shepherd of agile teams, keeper of ceremonies, the majestic servant leader. 
 
