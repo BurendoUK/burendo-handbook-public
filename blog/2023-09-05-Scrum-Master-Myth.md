@@ -21,25 +21,25 @@ First things first, let's talk Scrum. It's a framework that's part of the agile 
 As someone who's been in the trenches, the Scrum Master role often seems like an extra in my cast of players.
 
 ### Task Delegation
-Engineers are more than capable of picking up tasks and running with them, right? We don't need a Scrum Master to hold a ceremonial staff and delegate who does what. We've got GitHub, Jira, and good ol' common sense for that. A study by VersionOne found that 14% of agile practitioners saw no value in the role of a Scrum Master. That's not a majority, but it's not a negligible number either[^1^].
+_[Engineer]_: Engineers are more than capable of picking up tasks and running with them, right? We don't need a Scrum Master to hold a ceremonial staff and delegate who does what. We've got GitHub, Jira, and good ol' common sense for that. A study by VersionOne found that 14% of agile practitioners saw no value in the role of a Scrum Master. That's not a majority, but it's not a negligible number either[^1^].
 
-But let's not forget that a Scrum Master can act as a buffer between the team and external distractions, making room for engineers to focus on delivery. They can also help in prioritising tasks based on business value, something engineers might not always have full visibility into. A Scrum Alliance report suggests that Scrum Masters can improve team productivity by up to 40%[^2^].
+_[Scrum Master]_: But let's not forget that a Scrum Master can act as a buffer between the team and external distractions, making room for engineers to focus on delivery. They can also help in prioritising tasks based on business value, something engineers might not always have full visibility into. A Scrum Alliance report suggests that Scrum Masters can improve team productivity by up to 40%[^2^].
 
 ### Meetings, Meetings, and More Meetings
-Ah, the dreaded meetings. Daily stand-ups, sprint planning, sprint reviews—you name it. The Scrum Master often leads these, but let's be honest: how many times have you found yourself thinking, "This could've been an email"? A survey by Atlassian showed that 47% of employees consider meetings to be the number one time-waster at work[^3^].
+_[Engineer]_: Ah, the dreaded meetings. Daily stand-ups, sprint planning, sprint reviews—you name it. The Scrum Master often leads these, but let's be honest: how many times have you found yourself thinking, "This could've been an email"? A survey by Atlassian showed that 47% of employees consider meetings to be the number one time-waster at work[^3^].
 
-However, while meetings can be tedious, a skilled Scrum Master can make them efficient and focused. They ensure that everyone's voice is heard and that the team aligns on goals and blockers. They can also adapt the meeting formats to suit the team's needs, making them less of a time-waster and more of a time-investor.
+_[Scrum Master]_: However, while meetings can be tedious, a skilled Scrum Master can make them efficient and focused. They ensure that everyone's voice is heard and that the team aligns on goals and blockers. They can also adapt the meeting formats to suit the team's needs, making them less of a time-waster and more of a time-investor.
 
 ### Team Autonomy
-Teams can self-organise. We don't need a Scrum Master to tell us how to collaborate or resolve conflicts. We're adults; we can't we figure it out? A paper published in the Journal of Systems and Software found that team autonomy positively correlates with software quality[^4^].
+_[Engineer]_: Teams can self-organise. We don't need a Scrum Master to tell us how to collaborate or resolve conflicts. We're adults; we can't we figure it out? A paper published in the Journal of Systems and Software found that team autonomy positively correlates with software quality[^4^].
 
-_Mature_ teams can self-organise, but what about new or less experienced teams? A Scrum Master can act as a coach, helping teams to become self-sufficient. They can also provide a neutral perspective in conflicts, something that's hard to achieve when you're in the thick of it.
+_[Scrum Master]_: _Mature_ teams can self-organise, but what about new or less experienced teams? A Scrum Master can act as a coach, helping teams to become self-sufficient. They can also provide a neutral perspective in conflicts, something that's hard to achieve when you're in the thick of it.
 
 ## But Wait, There's More!
-Now, I can already hear "what about facilitation skills?" you ask. Sure, facilitation is important, but it's not rocket science. Most experienced engineers have been through enough projects to know how to keep a meeting on track, and if not a single engineer with that experience can often lift a team out of the mud.
+_[Engineer]_: Now, I can already hear "what about facilitation skills?" you ask. Sure, facilitation is important, but it's not rocket science. Most experienced engineers have been through enough projects to know how to keep a meeting on track, and if not a single engineer with that experience can often lift a team out of the mud.
 And then there's the "coaching" argument. Yes, coaching can be valuable, but it doesn't have to come from a Scrum Master. In fact, peer coaching among engineers can be just as effective, if not more so. A study in the International Journal of Human-Computer Studies found that peer coaching led to significant improvements in software quality[^5^].
 
-Facilitation is more than just keeping a meeting on track; it's about ensuring that the team is aligned, focused, and continuously improving. A Scrum Master brings a set of skills and techniques that can help facilitate more effective discussions and decision-making.
+_[Scrum Master]_: Facilitation is more than just keeping a meeting on track; it's about ensuring that the team is aligned, focused, and continuously improving. A Scrum Master brings a set of skills and techniques that can help facilitate more effective discussions and decision-making.
 While peer coaching is valuable, a Scrum Master can provide a broader perspective, helping the team to see the bigger picture. They can also facilitate coaching sessions, ensuring that they are structured and effective.
 
 ## The ScrumBan Twist: A Hybrid We Can Get Behind?
@@ -56,15 +56,13 @@ In ScrumBan, you still have sprints, but they're not as rigid. You can pull in n
 While ScrumBan sounds like the best of both worlds, it's not a one-size-fits-all solution. If your team is already self-organising and delivering like a well-oiled machine, adding ScrumBan into the mix might just complicate things. Remember, the best process is the one that helps your team deliver value, not the one that has the coolest name or the most buzzwords.
 
 ## Real Talk: Case Studies
-Let's get down to brass tacks. I've been on projects where we delivered high-quality software, on time, without a Scrum Master. And guess what? We're not alone. Spotify, a company known for its engineering culture, has famously eschewed the traditional Scrum Master role in favour of a more flexible agile approach[^7^].
+_[Engineer]_: Let's get down to brass tacks. I've been on projects where we delivered high-quality software, on time, without a Scrum Master. And guess what? We're not alone. Spotify, a company known for its engineering culture, has famously eschewed the traditional Scrum Master role in favour of a more flexible agile approach[^7^].
 
-While some companies like Spotify have found success without a traditional Scrum Master, others have thrived with one. Companies like Salesforce and IBM have reported increased team productivity and morale with the inclusion of a Scrum Master[^8^].
+_[Scrum Master]_: While some companies like Spotify have found success without a traditional Scrum Master, others have thrived with one. Companies like Salesforce and IBM have reported increased team productivity and morale with the inclusion of a Scrum Master[^8^].
 
 ## Wrapping It Up
 So, do we really need Scrum Masters? Teams can—and do—function perfectly well without them. That's not to say they don't have a place in the software engineering world; they do.  I should also caveat that the first Scrum Master experience I had, was my best.  He did everything he could to hand over as much autonomy to my team as possible, he advised from a distance, never tried to take a technical stance on anything and did an amazing job protecting the team from outside influences when required.  All of what he did, had a massive impact on how I lead a team, and of course has allowed me to take this stance today. Ironically, he was a Business Analyst by trade.
 It's also worth noting that not all Scrum Masters are created equal. A good Scrum Master adapts to the needs of the team, providing value where it's needed most, whether that's in facilitation, coaching, or shielding the team from distractions. So, while some teams may function well without one, others could benefit greatly from a skilled Scrum Master.
-
-What do you think? Am I onto something, or have I missed the mark? Let's get the conversation rolling.
 
 ## References
 [^1^]: VersionOne, "14th Annual State of agile Report," 2020. [Link](https://www.stateofagile.com/#ufh-i-521251909-14th-annual-state-of-agile-report/555091)  
