@@ -12,16 +12,16 @@ tags: [scrum, engineering, leadership]
 _It really helps if you read this blog with your internal monologue voice set to Jafar._
 
 ## Introduction
-Ah, the Scrum Master... Shepherd of agile teams, Keeper of Ceremonies, and the majestic Servant Leader. 
+Ah, the Scrum Master... Shepherd of agile teams, keeper of ceremonies, the majestic servant leader. 
 
 If you've been in the software engineering field for a while, you've undoubtedly heard about/come across/worked with someone in this role. But let me tell you a little secret: In all my time as a tech lead, and not once have I felt the need for a Scrum Master. Intrigued? Buckle up, because we're diving into this hot topic.
 
 <!--truncate-->
 
-## What's the Deal with Scrum, Anyway?
+## What's Scrum, anyway?
 First things first, let's talk Scrum. It's a framework that's part of the agile methodology, aimed at delivering high-quality software. The Scrum Master is the facilitator, the one who ensures that the team follows the Scrum rules and rituals. Sounds important, right? Well...
 
-At least from where I stand, as someone who's been in the trenches, the Scrum Master role often seems like an extra layer of bureaucracy. Let's break it down, shall we?
+As someone who's been in the trenches, the Scrum Master role often seems like an extra in my cast of players.
 
 ### Task Delegation
 In my experience, engineers are more than capable of picking up tasks and running with them. We don't need a Scrum Master to hold a ceremonial staff and delegate who does what. We've got GitHub, Jira, and good ol' common sense for that. A study by VersionOne found that 14% of agile practitioners saw no value in the role of a Scrum Master. That's not a majority, but it's not a negligible number either[^1^].
@@ -59,9 +59,9 @@ So, do we really need Scrum Masters? From my vantage point, the answer is a reso
 What do you think? Am I onto something, or have I missed the mark? Let's get the conversation rolling.
 
 ## References
-[^1^]: VersionOne, "14th Annual State of agile Report," 2020. [Link](https://www.stateofagile.com/#ufh-i-521251909-14th-annual-state-of-agile-report/555091)
-[^2^]: Atlassian, "You Waste A Lot of Time at Work," 2014. [Link](https://www.atlassian.com/time-wasting-at-work-infographic)
-[^3^]: Journal of Systems and Software, "The Impact of Team Autonomy on Software Quality," 2019. [Link](https://www.sciencedirect.com/science/article/pii/S0164121219301272)
-[^4^]: International Journal of Human-Computer Studies, "The Effectiveness of Peer Coaching on Software Quality," 2017. [Link](https://www.sciencedirect.com/science/article/pii/S1071581917300987)
-[^5^]: Journal of Software: Practice and Experience, "Evaluating the Impact of ScrumBan on Project Performance," 2021. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2900)
-[^6^]: Spotify Engineering, "agile à la Spotify," 2016. [Link](https://engineering.atspotify.com/2016/10/31/agile-a-la-spotify/)
+[^1^]: VersionOne, "14th Annual State of agile Report," 2020. [Link](https://www.stateofagile.com/#ufh-i-521251909-14th-annual-state-of-agile-report/555091)  
+[^2^]: Atlassian, "You Waste A Lot of Time at Work," 2014. [Link](https://www.atlassian.com/time-wasting-at-work-infographic)  
+[^3^]: Journal of Systems and Software, "The Impact of Team Autonomy on Software Quality," 2019. [Link](https://www.sciencedirect.com/science/article/pii/S0164121219301272)  
+[^4^]: International Journal of Human-Computer Studies, "The Effectiveness of Peer Coaching on Software Quality," 2017. [Link](https://www.sciencedirect.com/science/article/pii/S1071581917300987)  
+[^5^]: Journal of Software: Practice and Experience, "Evaluating the Impact of ScrumBan on Project Performance," 2021. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2900)  
+[^6^]: Spotify Engineering, "agile à la Spotify," 2016. [Link](https://engineering.atspotify.com/2016/10/31/agile-a-la-spotify/)  
