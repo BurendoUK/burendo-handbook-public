@@ -12,7 +12,7 @@ tags: [scrum, engineering, leadership]
 _It really helps if you read this blog with your internal monologue voice set to Jafar._
 
 ## Introduction
-Ah, the Scrum Master—the shepherd of agile teams, the keeper of the Scrum ceremonies, and the so-called "servant-leader." 
+Ah, the Scrum Master... Shepherd of agile teams, Keeper of Ceremonies, and the majestic Servant Leader. 
 
 If you've been in the software engineering field for a while, you've undoubtedly heard about/come across/worked with someone in this role. But let me tell you a little secret: In all my time as a tech lead, and not once have I felt the need for a Scrum Master. Intrigued? Buckle up, because we're diving into this hot topic.
 
