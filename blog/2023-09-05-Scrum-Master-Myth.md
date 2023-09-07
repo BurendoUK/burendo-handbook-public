@@ -11,7 +11,7 @@ tags: [scrum, engineering, leadership]
 ## Introduction
 Ah, the Scrum Master... Shepherd of agile teams, keeper of ceremonies, the majestic servant leader. 
 
-If you've been in the software engineering field for a while, you've undoubtedly heard about/come across/worked with someone in this role. But let me tell you a little secret: In all my time as a tech lead, and not once have I felt the need for a Scrum Master. Intrigued? Buckle up, because we're diving into this hot topic.
+If you've been in the software engineering field for a while, you've undoubtedly heard about/come across/worked with someone in this role. Indeed, I work with many strong scrum masters here at Burendo. But let me tell you a little secret: In my time as a tech lead, I've often questioned the need for a scrum master. Was I right? Buckle up, because we're diving into this hot topic.
 
 <!--truncate-->
 
