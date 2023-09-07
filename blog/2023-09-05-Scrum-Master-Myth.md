@@ -34,7 +34,7 @@ Ah, the dreaded meetings. Daily stand-ups, sprint planning, sprint reviews—you
 However, while meetings can be tedious, a skilled Scrum Master can make them efficient and focused. A Scrum Master facilitates the event to ensure it stays on point and is efficient. They ensure that everyone's voice is heard and that the team aligns on goals and blockers. They can also adapt the meeting formats to suit the team's needs, making them less of a time-waster and more of a time-investor.
 
 ### Team Autonomy
-Teams can self-organise. We don't need a Scrum Master to tell us how to collaborate or resolve conflicts. We're adults; we can't we figure it out? A paper published in the Journal of Systems and Software found that team autonomy positively correlates with software quality[^4^].
+Teams can self-organise. We don't need a Scrum Master to tell us how to collaborate or resolve conflicts. We're adults; we can figure it out right? A paper published in the Journal of Systems and Software found that team autonomy positively correlates with software quality[^4^].
 
 _Mature_ teams can self-organise, but what about new or less experienced teams? A Scrum Master can act as a coach, helping teams to become self-sufficient. They can also provide a neutral perspective in conflicts, something that's hard to achieve when you're in the thick of it. A Scrum Masters ultimate goal is to no longer be needed, this is achieved when a team matures to a state where they are autonomous and are constantly performing.
 
