@@ -1,7 +1,7 @@
 ---
-title: The Myth of the Scrum Master
-description: A Tech Lead's perspective on why we don't need scrum masters
-slug: scrum-master-myth
+title: Do I need a Scrum Master?
+description: A Tech Lead's perspective on Scrum Masters
+slug: need-scrum-master
 authors: cscottthomas
 tags: [scrum, engineering, leadership]
 ---
