@@ -55,7 +55,8 @@ It's also worth noting that not all Scrum Masters are created equal. A good Scru
 I've been on projects where we delivered, on time, without a Scrum Master. But _*I*_ was there.  That role still needed to be filled.  While some companies like Spotify have found success without a traditional Scrum Master, others have thrived with one. Companies like Salesforce and IBM have reported increased team productivity and morale with the inclusion of a Scrum Master[^7^].
 
 So, do we really need Scrum Masters? _*Yes!*_  
-Teams can—and do—function perfectly well without them, but those teams are often experienced functioning as a team or helmed by someone experienced _(Like me!)_.  Even the most experienced and battle hardened agile engineers will have blind spots. Things they either don't even know about (unknown unknowns) or things they are just to busy to observe (known unknowns). Liken it to a football or rugby coach. Even an experienced player is too caught up in the battle in their corner of the pitch to see the whole picture.
+Teams can—and do—function perfectly well without them, but those teams are often experienced functioning as a team or helmed by someone experienced _(Like me!)_.  
+For balance, I spoke to some of my colleagues here at Burendo who are experienced Scrum Masters. They pointed out  that even the most experienced and battle hardened agile engineers will have blind spots. Things they either don't even know about (unknown unknowns) or things they are just to busy to observe (known unknowns). Liken it to a football or rugby coach. Even an experienced player is too caught up in the battle in their corner of the pitch to see the whole picture.  
 
 So, while some teams may function well without one, others could benefit greatly from a skilled Scrum Master.  
 
