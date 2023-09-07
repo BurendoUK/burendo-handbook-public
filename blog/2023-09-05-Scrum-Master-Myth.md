@@ -43,22 +43,8 @@ Now, I can already hear "what about facilitation skills?" you ask. Sure, facilit
 And then there's the "coaching" argument. Yes, coaching can be valuable, but it doesn't have to come from a Scrum Master. In fact, peer coaching among engineers can be just as effective, if not more so. A study in the International Journal of Human-Computer Studies found that peer coaching led to significant improvements in software quality[^5^].
 
 Facilitation is more than just keeping a meeting on track; it's about ensuring that the team is aligned, focused, and continuously improving. A Scrum Master brings a set of skills and techniques that can help facilitate more effective discussions and decision-making.
-While peer coaching is valuable, a Scrum Master can provide a broader perspective, helping the team to see the bigger picture. They can also facilitate coaching sessions, ensuring that they are structured and effective.
-
-There is a fundamental difference between Facilitation and Coaching as well as peer coaching. A scrum master facilitates events as you state, but a scrum master can also coach the team in proper facilitation techniques so they can learn how to facilitate their own events (part of a maturing team) Peer coaching is encouraged by scrum masters ( unless I am mistaken is this not peer programming?) Your message above conflates facilitation with coaching which are different things. Each have their own skill set and a good scrum master can encourage the strengths within the team to be shared.
-
-## The ScrumBan Twist: A Hybrid We Can Get Behind?
-Just when you thought we were done dissecting the world of agile, let me throw a curveball your way: ScrumBan. No, it's not a new brand of deodorant or a forbidden dance move. It's a hybrid of Scrum and Kanban, and it's got some folks in the software community buzzing.
-
-So, what's the deal with ScrumBan? Imagine taking the structure of Scrum—sprints, roles, ceremonies—and mixing it with the flow-based approach of Kanban. You get a more flexible framework that allows you to adapt to changes more quickly. It's like the mullet of agile methodologies: business in the front, party in the back.
-
-### Why ScrumBan Makes Sense (Sorta)
-Now, I know what you're thinking: "Didn't you just spend the last few paragraphs bashing Scrum?" Well, yes, but hear me out. ScrumBan takes some of the rigidity out of Scrum and replaces it with Kanban's focus on continuous improvement and flow. It's like Scrum went to a yoga retreat and came back all limber and chill.
-
-In ScrumBan, you still have sprints, but they're not as rigid. You can pull in new tasks as you complete old ones, just like in Kanban. This is a godsend for teams that have to deal with a lot of unplanned work. A study published in the Journal of Software: Practice and Experience found that ScrumBan can significantly improve lead time and reduce the number of blocked items[^6^].
-
-### But Don't Get Too Excited
-While ScrumBan sounds like the best of both worlds, it's not a one-size-fits-all solution. If your team is already self-organising and delivering like a well-oiled machine, adding ScrumBan into the mix might just complicate things. Remember, the best process is the one that helps your team deliver value, not the one that has the coolest name or the most buzzwords.
+While peer coaching is valuable, a Scrum Master can provide a broader perspective, helping the team to see the bigger picture. They can also facilitate coaching sessions, ensuring that they are structured and effective. They also coach the team in proper facilitation techniques so they can learn how to facilitate their own events (part of a maturing team).  
+Facilitation and coaching each have their own skill set and a good scrum master can encourage the strengths within the team to be shared.
 
 ## Wrapping It Up
 I've been on projects where we delivered, on time, without a Scrum Master. But _*I*_ was there.  That role still needed to be filled.  While some companies like Spotify have found success without a traditional Scrum Master, others have thrived with one. Companies like Salesforce and IBM have reported increased team productivity and morale with the inclusion of a Scrum Master[^7^].
