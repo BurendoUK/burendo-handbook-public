@@ -6,7 +6,7 @@ authors: cscottthomas
 tags: [scrum, engineering, leadership]
 ---
 
-# The Myth of the Scrum Master: A Tech Lead's Perspective on Why We Don't Need 'Em
+# Do I need a Scrum Master?: A Tech Lead's perspective on Scrum Masters
 
 ## Introduction
 Ah, the Scrum Master... Shepherd of agile teams, keeper of ceremonies, the majestic servant leader. 
