@@ -46,16 +46,20 @@ Facilitation is more than just keeping a meeting on track; it's about ensuring t
 While peer coaching is valuable, a Scrum Master can provide a broader perspective, helping the team to see the bigger picture. They can also facilitate coaching sessions, ensuring that they are structured and effective. They also coach the team in proper facilitation techniques so they can learn how to facilitate their own events (part of a maturing team).  
 Facilitation and coaching each have their own skill set and a good scrum master can encourage the strengths within the team to be shared.
 
-## Wrapping It Up
-I've been on projects where we delivered, on time, without a Scrum Master. But _*I*_ was there.  That role still needed to be filled.  While some companies like Spotify have found success without a traditional Scrum Master, others have thrived with one. Companies like Salesforce and IBM have reported increased team productivity and morale with the inclusion of a Scrum Master[^7^].
-
-So, do we really need Scrum Masters? _*Yes!*_  
-Teams can—and do—function perfectly well without them, but those teams are often experienced functioning as a team or helmed by someone experienced _(Like me!)_.  
+## My Bias
 
 The first Scrum Master experience I had, was my best.  He did everything he could to hand over as much autonomy to my team as possible, he advised from a distance, never tried to take a technical stance on anything and did an amazing job protecting the team from outside influences when required.  All of what he did, had a massive impact on how I lead a team, and of course has allowed me to take this stance today. Ironically, he was a Business Analyst by trade.
 It's also worth noting that not all Scrum Masters are created equal. A good Scrum Master adapts to the needs of the team, providing value where it's needed most, whether that's in facilitation, coaching, or shielding the team from distractions. This gave me a huge leg up and made room for me to take on this role, as I truly understood what was required and how it should be done, first hand.  
 
-So, while some teams may function well without one, others could benefit greatly from a skilled Scrum Master.  You will not be surprised to hear, that Burendo has a fantastic community of Scrum Masters that can help your teams on their journey, and help your business reach its goals.  Please reach out to me or to Burendo directly if you want to learn more!
+## Wrapping It Up
+I've been on projects where we delivered, on time, without a Scrum Master. But _*I*_ was there.  That role still needed to be filled.  While some companies like Spotify have found success without a traditional Scrum Master, others have thrived with one. Companies like Salesforce and IBM have reported increased team productivity and morale with the inclusion of a Scrum Master[^7^].
+
+So, do we really need Scrum Masters? _*Yes!*_  
+Teams can—and do—function perfectly well without them, but those teams are often experienced functioning as a team or helmed by someone experienced _(Like me!)_.  Even the most experienced and battle hardened agile engineers will have blind spots. Things they either don't even know about (unknown unknowns) or things they are just to busy to observe (known unknowns). Liken it to a football or rugby coach. Even an experienced player is too caught up in the battle in their corner of the pitch to see the whole picture.
+
+So, while some teams may function well without one, others could benefit greatly from a skilled Scrum Master.  Every team is different, in terms of knowledge (eg Scrum and Agile practices), capability (eg to retrospect, to collaborate etc) and behaviours (eg to use non violent communication, to listen actively, to learn how to foster a feedback culture). My perspective comes from a mature end of the spectrum, where a Scrum Master is needed less. _*Newer*_ teams need much heavier support in learning these things.  
+
+You will not be surprised to hear, that Burendo has a fantastic community of Scrum Masters that can help your teams on their journey, and help your business reach its goals.  They haven't just passed a certification and _do the job_, but invest time and effort acquiring a deep skill and knowledge of Scrum Mastery.  Please reach out to me or to Burendo directly if you want to learn more!
 
 ## References
 [^1^]: VersionOne, "14th Annual State of agile Report," 2020. [Link](https://www.stateofagile.com/#ufh-i-521251909-14th-annual-state-of-agile-report/555091)  
