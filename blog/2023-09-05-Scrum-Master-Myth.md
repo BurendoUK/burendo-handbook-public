@@ -60,14 +60,16 @@ In ScrumBan, you still have sprints, but they're not as rigid. You can pull in n
 ### But Don't Get Too Excited
 While ScrumBan sounds like the best of both worlds, it's not a one-size-fits-all solution. If your team is already self-organising and delivering like a well-oiled machine, adding ScrumBan into the mix might just complicate things. Remember, the best process is the one that helps your team deliver value, not the one that has the coolest name or the most buzzwords.
 
-## Real Talk: Case Studies
-Let's get down to brass tacks. I've been on projects where we delivered high-quality software, on time, without a Scrum Master. And guess what? We're not alone. Spotify, a company known for its engineering culture, has famously eschewed the traditional Scrum Master role in favour of a more flexible agile approach[^7^].
-
-While some companies like Spotify have found success without a traditional Scrum Master, others have thrived with one. Companies like Salesforce and IBM have reported increased team productivity and morale with the inclusion of a Scrum Master[^8^].
-
 ## Wrapping It Up
-So, do we really need Scrum Masters? Teams can—and do—function perfectly well without them. That's not to say they don't have a place in the software engineering world; they do.  I should also caveat that the first Scrum Master experience I had, was my best.  He did everything he could to hand over as much autonomy to my team as possible, he advised from a distance, never tried to take a technical stance on anything and did an amazing job protecting the team from outside influences when required.  All of what he did, had a massive impact on how I lead a team, and of course has allowed me to take this stance today. Ironically, he was a Business Analyst by trade.
-It's also worth noting that not all Scrum Masters are created equal. A good Scrum Master adapts to the needs of the team, providing value where it's needed most, whether that's in facilitation, coaching, or shielding the team from distractions. So, while some teams may function well without one, others could benefit greatly from a skilled Scrum Master.
+I've been on projects where we delivered, on time, without a Scrum Master. But _*I*_ was there.  That role still needed to be filled.  While some companies like Spotify have found success without a traditional Scrum Master, others have thrived with one. Companies like Salesforce and IBM have reported increased team productivity and morale with the inclusion of a Scrum Master[^7^].
+
+So, do we really need Scrum Masters? _*Yes!*_  
+Teams can—and do—function perfectly well without them, but those teams are often experienced functioning as a team or helmed by someone experienced _(Like me!)_.  
+
+The first Scrum Master experience I had, was my best.  He did everything he could to hand over as much autonomy to my team as possible, he advised from a distance, never tried to take a technical stance on anything and did an amazing job protecting the team from outside influences when required.  All of what he did, had a massive impact on how I lead a team, and of course has allowed me to take this stance today. Ironically, he was a Business Analyst by trade.
+It's also worth noting that not all Scrum Masters are created equal. A good Scrum Master adapts to the needs of the team, providing value where it's needed most, whether that's in facilitation, coaching, or shielding the team from distractions. This gave me a huge leg up and made room for me to take on this role, as I truly understood what was required and how it should be done, first hand.  
+
+So, while some teams may function well without one, others could benefit greatly from a skilled Scrum Master.  You will not be surprised to hear, that Burendo has a fantastic community of Scrum Masters that can help your teams on their journey, and help your business reach its goals.  Please reach out to me or to Burendo directly if you want to learn more!
 
 ## References
 [^1^]: VersionOne, "14th Annual State of agile Report," 2020. [Link](https://www.stateofagile.com/#ufh-i-521251909-14th-annual-state-of-agile-report/555091)  
@@ -76,5 +78,4 @@ It's also worth noting that not all Scrum Masters are created equal. A good Scru
 [^4^]: Journal of Systems and Software, "The Impact of Team Autonomy on Software Quality," 2019. [Link](https://www.sciencedirect.com/science/article/pii/S0164121219301272)  
 [^5^]: International Journal of Human-Computer Studies, "The Effectiveness of Peer Coaching on Software Quality," 2017. [Link](https://www.sciencedirect.com/science/article/pii/S1071581917300987)  
 [^6^]: Journal of Software: Practice and Experience, "Evaluating the Impact of ScrumBan on Project Performance," 2021. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/spe.2900)  
-[^7^]: Spotify Engineering, "agile à la Spotify," 2016. [Link](https://engineering.atspotify.com/2016/10/31/agile-a-la-spotify/)  
-[^8^]: Salesforce Engineering, "The Role of the Scrum Master: An Interview," 2019. [Link](https://engineering.salesforce.com/the-role-of-the-scrum-master-an-interview-5c3c37391367)  
+[^7^]: Salesforce Engineering, "The Role of the Scrum Master: An Interview," 2019. [Link](https://engineering.salesforce.com/the-role-of-the-scrum-master-an-interview-5c3c37391367)  
