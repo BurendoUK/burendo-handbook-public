@@ -57,7 +57,7 @@ I've been on projects where we delivered, on time, without a Scrum Master. But _
 So, do we really need Scrum Masters? _*Yes!*_  
 Teams can—and do—function perfectly well without them, but those teams are often experienced functioning as a team or helmed by someone experienced _(Like me!)_.  Even the most experienced and battle hardened agile engineers will have blind spots. Things they either don't even know about (unknown unknowns) or things they are just to busy to observe (known unknowns). Liken it to a football or rugby coach. Even an experienced player is too caught up in the battle in their corner of the pitch to see the whole picture.
 
-So, while some teams may function well without one, others could benefit greatly from a skilled Scrum Master.  Every team is different, in terms of knowledge (eg Scrum and Agile practices), capability (eg to retrospect, to collaborate etc) and behaviours (eg to use non violent communication, to listen actively, to learn how to foster a feedback culture). My perspective comes from a mature end of the spectrum, where a Scrum Master is needed less. _*Newer*_ teams need much heavier support in learning these things.  
+So, while some teams may function well without one, others could benefit greatly from a skilled Scrum Master.  
 
 You will not be surprised to hear, that Burendo has a fantastic community of Scrum Masters that can help your teams on their journey, and help your business reach its goals.  They haven't just passed a certification and _do the job_, but invest time and effort acquiring a deep skill and knowledge of Scrum Mastery.  Please reach out to me or to Burendo directly if you want to learn more!
 
