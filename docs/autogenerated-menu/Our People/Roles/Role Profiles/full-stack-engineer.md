@@ -20,11 +20,13 @@ These are the things we value most at Burendo, we can teach skills, but our beha
 
 ## Essential skills
 
-We believe every engineer should have a fundamental understanding of development, infrastructure and testing and therefore you’ll need at least some of these skills to help you pick the role up quickly. It’s not a long list, in no particular order, and like Meatloaf said _"Two out of three ain't bad."_  Burendo are invested in the growth of our consultants, and provide a healthy self development budget you can use to grow in the areas mentioned below, or any other of your choosing!
+We believe every engineer should have a fundamental understanding of development, infrastructure, and testing and therefore you’ll need at least some of these skills to help you pick the role up quickly. It’s not a long list, in no particular order, and like Meatloaf said _"Two out of three ain't bad."_  Burendo are invested in the growth of our consultants and provide a healthy self-development budget you can use to grow in the areas mentioned below, or any other of your choosing!
+
+Must have:
+- Experience working within cloud environments, specifically AWS or Azure.
 
 At least one of:
-- Experience working within cloud environments, such as AWS, Azure or Google Cloud Platform.
-- Fundamental coding experience in Python, Java, C#, JavaScript, TypeScript or another widely used language.
+- Fundamental coding experience in Python, Java, C#, JavaScript, TypeScript, or another widely used language.
 - Experience in front end development frameworks such as ReactJS, AngularJS or Vue.
 - Fundamental understanding of infrastructure-as-code with Terraform or an equivalent technology
 
@@ -42,5 +44,5 @@ These are the little bit extra, cherry-on-top skills that will help you stand ou
 - Experience of building CI/CD pipelines with tools such as GitHub Actions, GitLabCI, Jenkins or Azure DevOps
 - Experience working in the public sector and healthcare industry
 - Experience working in a technology or consulting company
-- Involvement in community building via blogs, online sites, meetups or other means
+- Involvement in community building via blogs, online sites, meetups, or other means
 - Experience working with design professionals in the UX/UI space
