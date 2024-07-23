@@ -2,18 +2,16 @@
 sidebar_position: 1
 ---
 
-# The OC
+# The OC (Off-Client) Team
 
-Burendo colleagues who are off or between client engagements are encouraged to take the lead with achieving our Missions; from improving how and where we work, to identifying and implementing value-add opportunities, and everything in between. The OC aims to provide the structure and support to do this in a collaborative community setting.
+From time to time colleagues will find that they are between client engagements and not working directly on a brief.  As a result we have processes in place to ensure that people keep engaged, have colleagues to work with, have meaningful work, and have a range of opportunities between those assignments. 
 
-## The OC Champion
+As a consultancy we absolutely need to have a pool of people ready for the new work that comes in, so we can respond to new opportunities, but also we have a continual stream of activity that colleagues can help with when they’re off client which can contribute to upskilling and making use of their varied experience. 
 
-In order to help the OC work well together, we have a role called OC Champion of which their is one. 
+Colleagues on OC have contributed to new pitches, bid work, corporate outputs, Leeds Digifest, process improvements, CSR Activity, ISO Audit work (supporting bids and frameworks) and business growth activities to name but a few. 
 
-The OC Champion is a hat people wear and we incentivise it by it helping Burendoers towards your career growth at Burendo by taking on extra responsibilities (along with the intrinsic motivation some people have for responsibilities like this).
+# The Structure
 
-### Responsibilities
+The OC is sponsored by a Senior Leadership Team member to ensure visibility of the efforts at SLT level, overseen by a Client Delivery Lead, and on a week-to-week basis the team choose a co-ordinator/facilitator for their ceremonies as part of being a representative Agile self-organising team. 
 
-The OC role champion profile can be seen below:
-
-![oc-champion-profile](images/oc-champion.png)
+OC Team members can also identify their own initiatives, complete training plans (funded by their training budget) and consolidate activities towards their Career Growth Reviews. 
