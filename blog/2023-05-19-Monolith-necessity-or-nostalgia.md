@@ -39,11 +39,11 @@ Monolithic API applications have, and will always exist. However, they also make
 Now that we are working with a common understanding of the historical thought of what a monolith is. Over my years in the industry, what people class as a monolith is everything from 0 to it being a micro-service.
 I disagree that everything up-to full fledged micro-service applications, are monoliths. There is a middle ground.
 
-Think of Monolith <-> Micro-service as a linear scale of application depth and complexity. You can say that, additional names or stages are missing from that linear scale.
+Think of Monolith {'<->'} Micro-service as a linear scale of application depth and complexity. You can say that, additional names or stages are missing from that linear scale.
 However naming anything on a scale would require it to have defined conditions as to when it is 'something' - not something I want to do right now.
 For the sake of this blog, let's imagine that the linear scale looks like this (no definition supplied - your warranty may vary):
 
-Monolith <-> Macro-service <-> Micro-service
+Monolith {'<->'} Macro-service {'<->'} Micro-service
 
 ## What are the differences?
 
@@ -128,7 +128,7 @@ Ultimately you must consider the pros vs. cons of the infrastructure and what it
 ## Monoliths are here to stay
 
 Hopefully the points highlighted here, which were covered (some briefly) in the panel discussion on Wednesday, offer food for thought when you think about the architectural structure of both your application and infrastructure.
-Additional, you should be able to form an opinion, based on my opinion that there is a linear scale between monolith <-> micro-service and we should stop thinking of them being so clean cut.
+Additional, you should be able to form an opinion, based on my opinion that there is a linear scale between monolith {'<->'} micro-service and we should stop thinking of them being so clean cut.
 
 My opinion, monoliths are a necessity, or a necessary evil. Their shape may be much different from that of the early '90s applications but we've all still got work to do. They require modernisation as much as possible in the form of modularisation, separation of concerns and shrinking the overall scope and size. These efforts will move the applications more towards the centre line of the linear scale and begin to reduce the impact of the cons and even gain some pros usually enjoyed by micro-services.
 
