@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 ---
+
 # Practices Introduction
 
 Our company has various core Practices, which are groups of people sharing common interests or knowledge domain. They meet regularly to learn from one another, share good practices, and collaborate on projects. Practices shape our Products and Services by defining and refining our Service Catalogue and the skills needed to deliver them, ensuring they meet customer requirements whilst fostering innovation and growth as new tools & techniques emerge.
