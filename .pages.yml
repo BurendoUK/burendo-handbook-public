@@ -1,0 +1,106 @@
+content:
+  - name: blog
+    label: Blog
+    type: collection
+    path: 'blog'
+    view:
+      fields: [ title, description, date, authors, image, slug, tags, body ]
+    fields:
+      - type: string
+        name: title
+        label: Title
+        required: true
+      
+      - type: string
+        name: description
+        label: Description
+        required: true
+      
+      - type: string
+        name: date
+        label: Date
+        required: false
+      
+      - name: authors
+        label: Authors
+        type: string
+        list: false
+      
+      - type: image
+        name: cover_image
+        label: Cover Image
+        required: false
+        options:
+          path: img
+          extensions: [ jpg, jpeg, png ]
+      
+      - type: string
+        name: slug
+        label: Slug
+        required: false
+      
+      - type: string
+        name: tags
+        label: Tags
+        list: true
+        required: false
+      
+      - type: rich-text
+        name: body
+        label: Body
+        
+  - name: docs
+    label: Docs
+    type: collection
+    path: 'docs'
+    view:
+      fields: [ title, description, sidebar_position, slug, pagination_next, pagination_prev, tags, image, body ]
+    fields:
+      - type: string
+        name: title
+        label: Title
+        required: false
+      
+      - type: string
+        name: description
+        label: Description
+        required: false
+      
+      - type: number
+        name: sidebar_position
+        label: Sidebar Position
+        required: true
+      
+      - type: string
+        name: slug
+        label: Slug
+        required: false
+      
+      - type: string
+        name: pagination_next
+        label: Next Page
+        required: false
+      
+      - type: string
+        name: pagination_prev
+        label: Previous Page
+        required: false
+      
+      - type: string
+        name: tags
+        label: Tags
+        list: true
+        required: false
+
+      - type: image
+        name: image
+        label: Image
+        required: false
+        options:
+          path: img
+          extensions: [ jpg, jpeg, png ]
+      
+      - type: rich-text
+        name: body
+        label: Body
+        isBody: true
