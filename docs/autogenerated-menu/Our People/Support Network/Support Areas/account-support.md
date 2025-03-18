@@ -1,5 +1,5 @@
 ---
-Title: Account Support
+title: Account Support
 sidebar_position: 4
 ---
 

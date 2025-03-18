@@ -1,5 +1,5 @@
 ---
-Title: Reading List
+title: Reading List
 sidebar_position: 1
 ---
 

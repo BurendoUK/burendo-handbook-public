@@ -1,5 +1,5 @@
 ---
-Title: AWS Beginners Labs
+title: AWS Beginners Labs
 sidebar_position: 1
 ---
 

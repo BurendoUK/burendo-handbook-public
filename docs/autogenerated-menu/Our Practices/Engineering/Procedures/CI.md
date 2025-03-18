@@ -1,5 +1,5 @@
 ---
-Title: Continuous Integration
+title: Continuous Integration
 sidebar_position: 5
 ---
 

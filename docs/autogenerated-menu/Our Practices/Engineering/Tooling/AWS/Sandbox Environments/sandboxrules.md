@@ -1,5 +1,5 @@
 ---
-Title: AWS Sandbox Environments
+title: AWS Sandbox Environments
 sidebar_position: 1
 ---
 

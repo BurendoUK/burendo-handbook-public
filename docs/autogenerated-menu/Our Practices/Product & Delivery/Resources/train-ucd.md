@@ -1,5 +1,5 @@
 ---
-Title: Training
+title: Training
 sidebar_position: 2
 ---
 # Training

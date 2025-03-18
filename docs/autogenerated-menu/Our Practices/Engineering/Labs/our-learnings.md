@@ -1,5 +1,5 @@
 ---
-Title: Our Learnings
+title: Our Learnings
 sidebar_position: 2
 ---
 

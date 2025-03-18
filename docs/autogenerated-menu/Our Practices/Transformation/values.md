@@ -1,5 +1,5 @@
 ---
-Title: Our Values
+title: Our Values
 sidebar_position: 2
 ---
 

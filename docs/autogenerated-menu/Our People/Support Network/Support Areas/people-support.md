@@ -1,5 +1,5 @@
 ---
-Title: People Support
+title: People Support
 sidebar_position: 1
 ---
 

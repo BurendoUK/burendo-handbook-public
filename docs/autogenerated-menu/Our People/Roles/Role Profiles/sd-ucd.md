@@ -1,5 +1,5 @@
 ---
-Title: Service Designer
+title: Service Designer
 sidebar_position: 7
 ---
 # Service Designer

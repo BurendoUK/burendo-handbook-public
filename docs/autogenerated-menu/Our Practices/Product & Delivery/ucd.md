@@ -1,5 +1,5 @@
 ---
-Title: User Centred Design
+title: User Centred Design
 sidebar_position: 4
 ---
 # User Centred Design

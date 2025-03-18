@@ -1,5 +1,5 @@
 ---
-Title: The Burendo Software Development Life Cycle (SDLC)
+title: The Burendo Software Development Life Cycle (SDLC)
 sidebar_position: 3
 ---
 

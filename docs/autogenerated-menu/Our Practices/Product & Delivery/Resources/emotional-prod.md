@@ -1,5 +1,5 @@
 ---
-Title: Emotional Quotient
+title: Emotional Quotient
 sidebar_position: 1
 ---
 

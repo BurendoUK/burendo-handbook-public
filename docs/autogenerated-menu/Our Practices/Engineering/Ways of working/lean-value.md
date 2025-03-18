@@ -1,5 +1,5 @@
 ---
-Title: Lean Value
+title: Lean Value
 sidebar_position: 2
 ---
 

@@ -1,5 +1,5 @@
 ---
-Title: Templates Home
+title: Templates Home
 sidebar_position: 1
 ---
 

@@ -1,5 +1,5 @@
 ---
-Title: Procedures
+title: Procedures
 sidebar_position: 1
 ---
 

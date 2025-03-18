@@ -1,5 +1,5 @@
 ---
-Title: Tribe Support
+title: Tribe Support
 sidebar_position: 3
 ---
 

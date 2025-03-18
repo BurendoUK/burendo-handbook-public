@@ -1,5 +1,5 @@
 ---
-Title: Recently Asked Questions
+title: Recently Asked Questions
 sidebar_position: 2
 ---
 

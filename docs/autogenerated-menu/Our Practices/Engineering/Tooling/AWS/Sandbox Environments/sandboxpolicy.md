@@ -1,5 +1,5 @@
 ---
-Title: AWS Sandbox Policy & Best Practices
+title: AWS Sandbox Policy & Best Practices
 sidebar_position: 1
 ---
 

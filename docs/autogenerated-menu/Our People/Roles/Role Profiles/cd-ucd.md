@@ -1,5 +1,5 @@
 ---
-Title: Content Designer
+title: Content Designer
 sidebar_position: 5
 ---
 # Content Designer

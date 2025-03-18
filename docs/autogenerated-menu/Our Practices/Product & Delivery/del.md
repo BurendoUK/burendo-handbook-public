@@ -1,5 +1,5 @@
 ---
-Title: Delivery Foundations
+title: Delivery Foundations
 sidebar_position: 3
 ---
 # Delivery Foundations

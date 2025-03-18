@@ -1,5 +1,5 @@
 ---
-Title: Practices Introduction
+title: Practices Introduction
 sidebar_position: 1
 ---
 # Practices Introduction

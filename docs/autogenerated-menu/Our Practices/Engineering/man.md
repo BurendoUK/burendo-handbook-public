@@ -1,5 +1,5 @@
 ---
-Title: Engineering Manifesto
+title: Engineering Manifesto
 sidebar_position: 2
 ---
 
