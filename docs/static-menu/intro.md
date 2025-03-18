@@ -1,17 +1,15 @@
 ---
+title: Intro
 sidebar_position: 1
 slug: /
-pagination_next: null
-pagination_prev: null
 ---
-
 # The Burendo Handbook
 
-Welcome to the  **Burendo Handbook**.  
+Welcome to the **Burendo Handbook**.
 
 The Burendo Handbook is designed to be the voice of the Burendoer and it is created, maintained and written by Burendoers. We want to give the outside world a flavour of what it is like working for Burendo and hearing it straight from Burendoers.
 
-We intend to give an overview of how we look after our people, what matters to us, what it's like working on a client and what it's like when you are not working on a client.  Please use the search functionality to help find what you're looking for, or feel free to browse the pages by category on the left.
+We intend to give an overview of how we look after our people, what matters to us, what it's like working on a client and what it's like when you are not working on a client. Please use the search functionality to help find what you're looking for, or feel free to browse the pages by category on the left.
 
 ## How does the Handbook fit in?
 
@@ -33,14 +31,15 @@ We also have an internal document store to store all our documentation. We do no
 
 We can use our Practices as an example of what information we put in each place:
 
-* **Handbook** -> A high level overview of our Practices, what they do and how they contribute positively to Burendo and daily life as a Burendoer.
-
-* **Website** -> A note on the Practices and how they fit in with our service offerings and work for/with our clients.
-
-* **Internal Wiki** -> Detailed information on the Practices, including who runs them, when they meet, recordings of sessions, who's who and more.
-
-* **Document Store** -> Outputs from the Practices, which might be various types of documents.
+*   **Handbook** -> A high level overview of our Practices, what they do and how they contribute positively to Burendo and daily life as a Burendoer.
+    
+*   **Website** -> A note on the Practices and how they fit in with our service offerings and work for/with our clients.
+    
+*   **Internal Wiki** -> Detailed information on the Practices, including who runs them, when they meet, recordings of sessions, who's who and more.
+    
+*   **Document Store** -> Outputs from the Practices, which might be various types of documents.
+    
 
 ## Is this the staff handbook?
 
-Nope, this is not the staff handbook - the one referred to in your employee contracts.  Please use our internal People tool, contact your line manager or the People team for assistance.
+Nope, this is not the staff handbook - the one referred to in your employee contracts. Please use our internal People tool, contact your line manager or the People team for assistance.
