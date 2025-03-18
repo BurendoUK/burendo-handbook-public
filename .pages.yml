@@ -4,38 +4,93 @@ content:
     type: collection
     path: 'blog'
     view:
-      fields: [ title, published, date ]
+      fields: [ title, description, date, authors, image, slug, tags, body ]
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
-      - name: date
-        label: Date
-        type: date
-      - name: title
+      - type: string
+        name: title
         label: Title
+        required: true
+      
+      - type: string
+        name: description
+        label: Description
+        required: true
+      
+      - type: string
+        name: date
+        label: Date
+        required: false
+      
+      - name: authors
+        label: Authors
         type: string
-      - name: body
+        list: false
+      
+      - type: image
+        name: cover_image
+        label: Cover Image
+        required: false
+      
+      - type: string
+        name: slug
+        label: Slug
+        required: false
+      
+      - type: string
+        name: tags
+        label: Tags
+        list: true
+        required: false
+      
+      - type: rich-text
+        name: body
         label: Body
-        type: rich-text
   - name: docs
     label: Docs
     type: collection
     path: 'docs'
     view:
-      fields: [ title, published, date ]
+      fields: [ title, description, sidebar_position, slug, pagination_next, pagination_prev, tags, body ]
     fields:
-      - name: published
-        label: Published
-        type: boolean
-        default: true
-      - name: date
-        label: Date
-        type: date
-      - name: title
+      - type: string
+        name: title
         label: Title
-        type: string
-      - name: body
+        required: false
+      
+      - type: string
+        name: description
+        label: Description
+        required: false
+      
+      - type: number
+        name: sidebar_position
+        label: Sidebar Position
+        required: true
+      
+      - type: string
+        name: slug
+        label: Slug
+        required: false
+      
+      - type: string
+        name: pagination_next
+        label: Next Page
+        required: false
+      
+      - type: string
+        name: pagination_prev
+        label: Previous Page
+        required: false
+      
+      - type: string
+        name: tags
+        label: Tags
+        list: true
+        required: false
+        ui:
+          component: tags
+      
+      - type: rich-text
+        name: body
         label: Body
-        type: rich-text
+        isBody: true
