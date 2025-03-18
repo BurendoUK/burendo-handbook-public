@@ -1,3 +1,6 @@
+---
+title: CI/CD Security Best Practices
+---
 # CI/CD Security Best Practices  
 
 ## Introduction  

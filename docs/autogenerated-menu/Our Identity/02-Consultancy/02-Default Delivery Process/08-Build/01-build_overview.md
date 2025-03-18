@@ -1,3 +1,6 @@
+---
+title: Build Phase: Refinement, Implementation, and Deployment
+---
 # **Build Phase: Refinement, Implementation, and Deployment**
 
 ## **Overview**
@@ -113,4 +116,3 @@ Regardless of the chosen approach, agile teams:
 * **Implementation follows high-quality engineering practices**, ensuring **robust, scalable, and maintainable software**.  
 * **Deployment is fast, safe, and reliable**, ensuring that users get value as soon as possible.  
 * **Reviews and retrospectives** help teams adapt, improve, and remain aligned to business goals.  
-

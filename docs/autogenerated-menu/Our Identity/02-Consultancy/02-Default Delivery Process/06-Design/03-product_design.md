@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+title: Product Design
 ---
 # Product Design
 ## Introduction

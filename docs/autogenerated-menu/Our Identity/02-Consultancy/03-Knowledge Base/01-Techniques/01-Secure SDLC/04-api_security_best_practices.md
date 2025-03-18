@@ -1,3 +1,6 @@
+---
+title: API Security Best Practices
+---
 # API Security Best Practices  
 
 ## Introduction  
@@ -132,4 +135,3 @@ API security is not a one-time effort but an ongoing commitment. By integrating 
 * Detect and respond to threats with robust monitoring and alerting.
 
 By making security a fundamental part of API development, organizations can reduce vulnerabilities, safeguard data, and provide a reliable, secure experience for users and partners.
-

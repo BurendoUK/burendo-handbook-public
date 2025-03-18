@@ -1,3 +1,6 @@
+---
+title: Operations
+---
 # Operations: Running and Managing Production Systems
 ## Introduction
 This section covers operating the software produced during the build phase, ensuring that it runs reliably, securely, and cost-effectively in production.

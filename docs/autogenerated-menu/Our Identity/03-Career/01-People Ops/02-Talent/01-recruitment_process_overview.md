@@ -1,3 +1,6 @@
+---
+title: Recruitment Process at Burendo
+---
 # Recruitment Process at Burendo
 
 ## How We Hire Great People
@@ -153,4 +156,3 @@ Once a candidate has passed all stages, the **Talent Team and Board** handle the
 ## Conclusion
 
 Recruitment at Burendo isn’t just about hiring **skilled professionals**—it’s about finding **great people** who will help us grow and succeed. Our structured, fair, and transparent process ensures that we bring in individuals who are not just capable but also the right fit for our culture and future.
-

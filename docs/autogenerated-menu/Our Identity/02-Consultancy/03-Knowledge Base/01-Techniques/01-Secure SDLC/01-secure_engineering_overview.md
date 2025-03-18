@@ -1,3 +1,6 @@
+---
+title: Secure Engineering Best Practices
+---
 # Secure Engineering Best Practices
 ## Introduction
 Security is not an afterthought—it is a foundational principle that must be embedded at every stage of software delivery. Secure engineering ensures that systems are resilient to attacks, protect sensitive data, and maintain business continuity while enabling teams to deliver at pace without compromising security.

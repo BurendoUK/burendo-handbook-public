@@ -1,3 +1,6 @@
+---
+title: Account Owner
+---
 # Account Owner
 ## Role Summary
 As an Account Owner at Burendo, you will take ownership of a portfolio of client engagements, balancing strategic oversight with hands-on leadership when needed. You will lead by example, ensuring client satisfaction, team development, and operational excellence, while driving account growth. Reporting to the Managing Director, you will embody Burendo’s values of professionalism, candour, and empathy in your interactions with clients, colleagues, and the wider market.
@@ -47,4 +50,3 @@ Working closely with people in the Account Lead role, you will support, train, a
 * Insight into client challenges and emerging trends.
   
 At Burendo, we value professionalism, candour, and empathy in everything we do. Authority comes with responsibility, and we expect our leaders to lead by example, fostering accountability and continuous growth. Collaboration, consistency, and a shared commitment to outstanding results define our approach to client engagements and team development. As an Account Owner, you will embody these principles, ensuring Burendo’s values are reflected in every aspect of your work.
-

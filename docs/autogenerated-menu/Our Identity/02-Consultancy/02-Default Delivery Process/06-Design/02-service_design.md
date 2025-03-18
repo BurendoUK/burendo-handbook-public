@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+title: Service Design
 ---
 # Service Design
 ## Introduction

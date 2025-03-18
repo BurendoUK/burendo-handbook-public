@@ -1,3 +1,6 @@
+---
+title: Validate
+---
 # Validate
 ## Introduction
 Validation is the process of ensuring that we are solving the right problem in the right way before committing to full-scale implementation. It provides confidence that our understanding, assumptions, and proposed solutions are viable, desirable, and feasible.

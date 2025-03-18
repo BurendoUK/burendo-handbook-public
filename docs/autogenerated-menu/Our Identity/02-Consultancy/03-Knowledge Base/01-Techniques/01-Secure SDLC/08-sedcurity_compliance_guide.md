@@ -1,3 +1,6 @@
+---
+title: Security Compliance Guide
+---
 # Security Compliance Guide
 ## Introduction
 Security compliance is a critical aspect of modern software and infrastructure development. It ensures that organisations meet legal, regulatory, and industry-specific security requirements while maintaining a strong security posture. However, compliance should not be seen as an administrative burden or a separate process. It should be embedded into engineering and operational practices from the outset.

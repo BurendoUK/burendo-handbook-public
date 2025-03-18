@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+title: Design Structure
 ---
 # Refined Design Structure & Content Outline
 

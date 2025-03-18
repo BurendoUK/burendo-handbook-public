@@ -1,3 +1,6 @@
+---
+title: The Discovery Workshop
+---
 # The Discovery Workshop
 
 ## Introduction
@@ -275,16 +278,3 @@ Hopefully this workshop outline has given you an idea of how you might go from "
 Remember, there are lots of different ways of doing this. This is just an approach that has worked for us in the past. If you want some more inspiration for different techniques you can add to your service design toolbox, check out:
 
 https://www.luma-institute.com/about-luma/luma-system-explore-methods/
-
-
-
-
-
-
-
-
-
-
-
-
-

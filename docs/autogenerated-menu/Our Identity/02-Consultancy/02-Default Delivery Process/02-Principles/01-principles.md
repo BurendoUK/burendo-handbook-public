@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+title: Culture, Principles, Practices and Values
 ---
 # Culture, Principles, Practices and Values
 

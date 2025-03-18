@@ -1,3 +1,6 @@
+---
+title: Planning
+---
 # Planning
 ## Introduction
 Planning is about setting direction, aligning teams, and ensuring successful execution. It provides a shared understanding of what needs to be done, why, and when, while maintaining the flexibility to adapt as new insights emerge.

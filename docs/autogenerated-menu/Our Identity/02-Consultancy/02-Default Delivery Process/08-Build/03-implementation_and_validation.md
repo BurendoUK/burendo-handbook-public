@@ -1,3 +1,6 @@
+---
+title: Implementation and Validation
+---
 # **Implementation and Validation**
 ## **Overview**
 The **Implementation and Validation** phase is where teams transform **refined backlog items into production-ready software**. This is the phase where the majority of a team's time is spent, writing code, testing, validating, and deploying software. 
@@ -136,4 +139,3 @@ Technical debt should be managed proactively, not left to accumulate. Teams shou
 - **Automation and CI/CD** reduce friction, allowing for frequent, reliable releases.
 - **Testing** should be integrated into development, ensuring quality at every step.
 - **Continuous improvement** is essential, balancing feature delivery with managing technical debt.
-

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+title: Technology Design
 ---
 # Technology Design
 ## Introduction

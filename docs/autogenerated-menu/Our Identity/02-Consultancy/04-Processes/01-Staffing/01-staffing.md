@@ -1,3 +1,6 @@
+---
+title: Staffing at Burendo
+---
 # Staffing at Burendo
 
 ## Getting the Right People in the Right Place
@@ -125,4 +128,3 @@ Effective staffing at Burendo is about:
 - **Avoiding short-term gains at the cost of long-term stability.**
 
 By following these principles, Burendo ensures sustainable growth, satisfied staff, and successful customer engagements.
-

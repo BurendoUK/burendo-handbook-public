@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+title: Design
 ---
 # Design: Shaping Effective Solutions and Organisations
 Design is how we **explore, refine, and define** solutions before committing to delivery. It helps reduce uncertainty, align teams, and ensure that what we build meets real user and business needs.

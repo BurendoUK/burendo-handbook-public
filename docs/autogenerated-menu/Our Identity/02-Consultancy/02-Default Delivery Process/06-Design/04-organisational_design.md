@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+title: Organisation Design
 ---
 # Organisation Design
 ## Introduction

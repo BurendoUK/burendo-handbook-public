@@ -1,3 +1,6 @@
+---
+title: Continuous Improvement
+---
 # Continuous Improvement
 ## Introduction
 Continuous improvement is a fundamental principle of high-performing teams. It involves regularly reflecting on ways of working, identifying inefficiencies or impediments, and making incremental, measurable changes to enhance productivity, quality, and team well-being.
