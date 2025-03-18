@@ -1,4 +1,5 @@
 ---
+Title: Agile
 sidebar_position: 1
 ---
 

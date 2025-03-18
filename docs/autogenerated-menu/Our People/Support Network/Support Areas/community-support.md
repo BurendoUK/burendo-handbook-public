@@ -1,4 +1,5 @@
 ---
+Title: Community Support
 sidebar_position: 2
 ---
 

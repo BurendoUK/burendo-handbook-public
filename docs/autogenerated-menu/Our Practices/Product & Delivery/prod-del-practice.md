@@ -1,4 +1,5 @@
 ---
+Title: The Product & Delivery Practice
 sidebar_position: 1
 ---
 # The Product & Delivery Practice

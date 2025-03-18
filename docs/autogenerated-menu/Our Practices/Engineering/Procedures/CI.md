@@ -1,4 +1,5 @@
 ---
+Title: Continuous Integration
 sidebar_position: 5
 ---
 
@@ -20,4 +21,3 @@ sidebar_position: 5
 
 * Build should be done automatically on an integration machine. This avoids issues with environmental differences on developers machines
 * It’s not a bad thing for the mainline build to break, however, it’s vital it’s fixed fast as everyone else is blocked until it’s returned to a stable state. Gated check-ins can be a useful aid to this
-

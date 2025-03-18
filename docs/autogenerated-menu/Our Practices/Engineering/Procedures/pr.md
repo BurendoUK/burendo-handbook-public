@@ -1,4 +1,5 @@
 ---
+Title: Internal PR Process
 sidebar_position: 2
 ---
 

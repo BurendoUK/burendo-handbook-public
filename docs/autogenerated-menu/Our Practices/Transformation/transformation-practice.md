@@ -1,4 +1,5 @@
 ---
+Title: The Transformation Practice
 sidebar_position: 1
 ---
 # The Transformation Practice

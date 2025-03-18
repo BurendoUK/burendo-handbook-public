@@ -1,4 +1,5 @@
 ---
+Title: User Researcher
 sidebar_position: 8
 ---
 # User Researcher
