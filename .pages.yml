@@ -30,6 +30,9 @@ content:
         name: cover_image
         label: Cover Image
         required: false
+        options:
+          path: img
+          extensions: [ jpg, jpeg, png ]
       
       - type: string
         name: slug
@@ -50,7 +53,7 @@ content:
     type: collection
     path: 'docs'
     view:
-      fields: [ title, description, sidebar_position, slug, pagination_next, pagination_prev, tags, body ]
+      fields: [ title, description, sidebar_position, slug, pagination_next, pagination_prev, tags, image, body ]
     fields:
       - type: string
         name: title
@@ -87,8 +90,14 @@ content:
         label: Tags
         list: true
         required: false
-        ui:
-          component: tags
+
+      - type: image
+        name: image
+        label: Image
+        required: false
+        options:
+          path: img
+          extensions: [ jpg, jpeg, png ]
       
       - type: rich-text
         name: body
