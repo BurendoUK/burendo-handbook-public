@@ -1,3 +1,8 @@
+---
+title: Reading List
+sidebar_position: 1
+---
+
 # Our reads
 
 A Practice curated list of resources and recommended reading we at Burendo really like and which are aligned with our philosophy and vision.

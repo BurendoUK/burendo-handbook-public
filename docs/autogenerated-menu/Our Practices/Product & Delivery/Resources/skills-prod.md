@@ -1,4 +1,5 @@
 ---
+title: Skills for the Product Profession
 sidebar_position: 1
 ---
 
