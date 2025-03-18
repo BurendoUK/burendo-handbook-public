@@ -31,7 +31,7 @@ content:
         label: Cover Image
         required: false
         options:
-          path: img
+          path: blog/images
           extensions: [ jpg, jpeg, png ]
       
       - type: string
@@ -97,7 +97,7 @@ content:
         label: Image
         required: false
         options:
-          path: img
+          path: docs/static-menu/images
           extensions: [ jpg, jpeg, png ]
       
       - type: rich-text
