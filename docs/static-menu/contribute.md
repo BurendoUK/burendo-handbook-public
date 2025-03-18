@@ -1,7 +1,6 @@
 ---
+title: Contributor guide
 sidebar_position: 4
-pagination_next: null
-pagination_prev: null
 ---
 
 # Contributor guide

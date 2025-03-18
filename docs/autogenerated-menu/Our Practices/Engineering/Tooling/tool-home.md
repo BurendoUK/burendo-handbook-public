@@ -1,4 +1,5 @@
 ---
+title: Tooling Home
 sidebar_position: 1
 ---
 

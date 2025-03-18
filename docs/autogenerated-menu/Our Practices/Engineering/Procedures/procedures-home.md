@@ -1,4 +1,5 @@
 ---
+title: Procedures
 sidebar_position: 1
 ---
 
@@ -52,4 +53,3 @@ We automate coding standards wherever possible to ensure the least hassle for en
 ### Further Reading
 
 * [Importance of Code Quality and Coding Standard in Software](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/)
-

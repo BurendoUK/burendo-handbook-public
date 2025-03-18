@@ -1,4 +1,5 @@
 ---
+title: Interaction Designer
 sidebar_position: 6
 ---
 # Interaction Designer

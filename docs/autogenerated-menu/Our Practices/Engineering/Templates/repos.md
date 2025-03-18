@@ -1,4 +1,5 @@
 ---
+title: Repository templates
 sidebar_position: 2
 ---
 

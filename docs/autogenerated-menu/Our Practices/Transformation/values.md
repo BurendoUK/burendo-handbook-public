@@ -1,4 +1,5 @@
 ---
+title: Our Values
 sidebar_position: 2
 ---
 

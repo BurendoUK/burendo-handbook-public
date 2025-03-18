@@ -1,4 +1,5 @@
 ---
+title: Lean Value
 sidebar_position: 2
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Internal PR Process
 sidebar_position: 2
 ---
 
@@ -12,7 +13,7 @@ The general format is, if they exist, tests will run when a PR is raised.  Once 
 
 When working on ticketed items, please include the ticket name in your PR and each commit message when possible, e.g.
 
-Title: `[EP-32] Add Peer Review process to Handbook`
+title: `[EP-32] Add Peer Review process to Handbook`
 
 Commit message: `git commit -m "[EP-32] Adding Peer Review process to Handbook"`
 
