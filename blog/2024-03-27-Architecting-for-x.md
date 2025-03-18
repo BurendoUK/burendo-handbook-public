@@ -1,11 +1,19 @@
 ---
 title: Architecting for 'X'
 description: x = (Performance | Cost | Success | ...)
-slug: architecting-for-x
 authors: cavery
-tags: [engineering, cloud, aws, solution design, microservices, monolith, architecture, software design]
+slug: architecting-for-x
+tags:
+  - engineering
+  - cloud
+  - aws
+  - solution design
+  - microservices
+  - monolith
+  - architecture
+  - software design
+  - scaling
 ---
-
 ## Background
 
 In recent years, I've worked across many varying architectures on AWS.
@@ -14,7 +22,6 @@ These architectures and the applications which ran on them were built to do diff
 
 What you are building for is your "X" and architecting for that will inevitably come with trade-offs. Without knowing your "X", your architecture won't satisfy your requirements. Allow me to take you through the understanding of building good architecture for your "X".
 
-<!--truncate-->
 What I'd like you to keep in mind when continuing to read this blog is that there is unfortunately no hard or fast set of rules you can apply to your architectural design: everything you decide has a cost in some regard and it's not always monetary.
 
 This blog is inspired by a series of talks I've recently given at AWS Events in the UK. In these talks, I revisited concepts that, while familiar to some, are crucial for all engineers—whether they're just starting out, mid-career, or highly experienced. My aim is to encourage learning, provide a grounding in fundamentals, and offer deeper insights into the field.
@@ -33,11 +40,11 @@ Your architecture governs quite a lot without you realising, from simple things 
 
 Whether you are starting from scratch, looking to implement new features or re-evaluating current architecture to better fit your "X", these three elements should cement (excuse the pun) the reason your architecture is important to you.
 
-* Defines the 'work' ahead - Whether building from scratch or refactoring, any changes to architecture require work to achieve them.
+*   Defines the 'work' ahead - Whether building from scratch or refactoring, any changes to architecture require work to achieve them.
     
-* Defines your domain boundaries - Not everyone cares about or needs access to every part of your system. Equally, neither does any one particular part of your system.
+*   Defines your domain boundaries - Not everyone cares about or needs access to every part of your system. Equally, neither does any one particular part of your system.
     
-* Defines the balance of your "X" - Whether that be performance, cost, success (fault tolerance) or other.
+*   Defines the balance of your "X" - Whether that be performance, cost, success (fault tolerance) or other.
     
 
 ### Architecture  🤝 Software
@@ -52,11 +59,11 @@ How the data is stored, its access patterns and availability requirements may wa
 
 Other examples of this interconnected nature include:
 
-* Highly available application - Data must be ephemeral in case of failure. Web 2.0 websites relied on local server storage a lot of the time and therefore weren't compatible with horizontal scaling: where the same data wasn't present on the server of other servers behind the loadbalancer.
+*   Highly available application - Data must be ephemeral in case of failure. Web 2.0 websites relied on local server storage a lot of the time and therefore weren't compatible with horizontal scaling: where the same data wasn't present on the server of other servers behind the loadbalancer.
     
-* Fault-tolerant application - Any individual part of the architecture could fail and the system still functions or "fails gracefully" as retry functionality, dead letter queues or other failure scenarios are handled by the architecture and software.
+*   Fault-tolerant application - Any individual part of the architecture could fail and the system still functions or "fails gracefully" as retry functionality, dead letter queues or other failure scenarios are handled by the architecture and software.
     
-* Whether actions are synchronous or asynchronous - You wouldn't want an API call (service A) waiting on an application that only runs on a schedule (service B). In this example, you might want to architect service B to not run on a schedule and in fact, be available 24/7. Or better yet, question why service A is synchronous - does it need to be?
+*   Whether actions are synchronous or asynchronous - You wouldn't want an API call (service A) waiting on an application that only runs on a schedule (service B). In this example, you might want to architect service B to not run on a schedule and in fact, be available 24/7. Or better yet, question why service A is synchronous - does it need to be?
     
 
 I won't touch into too much detail here, but the architecture & the software that resides upon it, both influence each other when deciding many aspects, such as Server vs. Serverless or Monolith vs Micro-service. Your "X" plays a part in this decision.
@@ -67,7 +74,7 @@ I've written a blog on exactly those trade-offs recently, take a read (later of 
 
 Architecture is often visualised to make it easier to understand and follow the flow of actions through the system as a whole. You'll have likely seen a diagram like the one below before \[created on Diagrams.net\]:
 
-![A hypothetical ecommerce website systems architectural design using AWS services.](https://cdn.hashnode.com/res/hashnode/image/upload/v1689098611688/4875a635-a0ad-4e41-96c8-76db79efea19.png align="center")
+!\[A hypothetical ecommerce website systems architectural design using AWS services.\]([https://cdn.hashnode.com/res/hashnode/image/upload/v1689098611688/4875a635-a0ad-4e41-96c8-76db79efea19.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1689098611688/4875a635-a0ad-4e41-96c8-76db79efea19.png) align="center")
 
 A lot could be desired from the diagram I've created for a hypothetical e-commerce website, however, the quality of the diagram and what it must include is like linting - everyone has an opinion and nothing will ever satisfy everyone.
 
@@ -85,7 +92,7 @@ You might be working within a heavily regulated industry, where considerations s
 
 Your organisation may wish to impose mandatory requirements and restrictions, for instance, in this blog post I've referenced Amazon Web Services, your organisation may make it mandatory to use Microsoft Azure as the cloud solution of choice. The difference mightn't same great but there are pros and cons to consider on all sides. For instance, in a hypothetical situation, AWS offers more 'free' usage of managed services such as Lambda functions vs. Azure where Azure Functions offer no free invocations (this difference immediately affects your financial cost). This is the business decision impact.
 
-Knowledge, previous experience and skills of yourself, your team and your organisation as a whole will also need to be understood. If you are designing or extending existing architecture, you're also restricted *slightly* by the existing infrastructure and applications if you can't re-design or refactor OR it mightn't be 'owned' by you and therefore can't be influenced. This is the restriction impact.
+Knowledge, previous experience and skills of yourself, your team and your organisation as a whole will also need to be understood. If you are designing or extending existing architecture, you're also restricted _slightly_ by the existing infrastructure and applications if you can't re-design or refactor OR it mightn't be 'owned' by you and therefore can't be influenced. This is the restriction impact.
 
 ### What's your X?
 
@@ -99,13 +106,13 @@ You might find similarities between this pyramid of architecture with something 
 
 How you architect your system will continuously bring forward the questioning and reasoning against your X.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1701965544379/652a9209-3ed1-431a-b6f4-0484fb3e7406.png align="center")
+!\[\]([https://cdn.hashnode.com/res/hashnode/image/upload/v1701965544379/652a9209-3ed1-431a-b6f4-0484fb3e7406.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1701965544379/652a9209-3ed1-431a-b6f4-0484fb3e7406.png) align="center")
 
 For example, a fully serverless application with relatively stable traffic may be the cheapest cost to run monthly, but due to the knowledge and skills required may cost more to develop vs. a conventional server (serverful) design.
 
 In conjuction you don't need to be fully embedded in any particular 'camp', ie micro-service vs. monolithic, serverless vs. serverful. You can and should use each tool appropriately for how it best serves you and fits your X. Use the right tool for the job.
 
-![Credit: Yan Cui, LinkedIn.](https://cdn.hashnode.com/res/hashnode/image/upload/v1701965782097/f86e0832-3e4a-4dca-a066-a239b69a0683.png align="center")
+!\[Credit: Yan Cui, LinkedIn.\]([https://cdn.hashnode.com/res/hashnode/image/upload/v1701965782097/f86e0832-3e4a-4dca-a066-a239b69a0683.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1701965782097/f86e0832-3e4a-4dca-a066-a239b69a0683.png) align="center")
 
 Credit: [Yan Cui on LinkedIn.](https://www.linkedin.com/in/theburningmonk/)
 
@@ -125,13 +132,13 @@ What you build today may be perfectly suitable for now but the future has a vote
 
 Don't get stuck in analysis paralysis, real usage will provide enough insight to confirm suspicions.
 
-* What skills and knowledge do you have right now?
+*   What skills and knowledge do you have right now?
     
-* Do you know your real service level agreements?
+*   Do you know your real service level agreements?
     
-* What is your backup policy? Do you need one?
+*   What is your backup policy? Do you need one?
     
-* Are you repeating yourself?
+*   Are you repeating yourself?
     
 
 ### Explainable and justifiable
@@ -142,11 +149,11 @@ Having resources such as documentation or diagrams for the design of your archit
 
 Don't underestimate the wildcard questions when designing architecture, which can be overlooked without thought-provoking questions.
 
-* Are you re-inventing something that already exists? It could be that a SaaS product already does as you require.
+*   Are you re-inventing something that already exists? It could be that a SaaS product already does as you require.
     
-* Is it worth refactoring OR build new?
+*   Is it worth refactoring OR build new?
     
-* What could your future use cases be? How are you ensuring you aren't 'trapping' yourself?
+*   What could your future use cases be? How are you ensuring you aren't 'trapping' yourself?
     
 
 ### Causes reflection
@@ -155,15 +162,14 @@ Great architecture design, the aspect of designing and the final product will ho
 
 Reflection happens at all stages of the design.
 
-* Is what we're building achieving the original requirements?
+*   Is what we're building achieving the original requirements?
     
-    * Are the requirements fixing the problem or masking it?
-        
-* Is it maintainable?
+    *   Are the requirements fixing the problem or masking it?
+*   Is it maintainable?
     
-* Is it testable?
+*   Is it testable?
     
-* Are you using the correct thing at the correct time?
+*   Are you using the correct thing at the correct time?
     
 
 ## What's to come?
