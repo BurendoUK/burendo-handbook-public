@@ -59,7 +59,7 @@ content:
       - type: string
         name: title
         label: Title
-        required: true
+        required: false
       
       - type: string
         name: description
