@@ -52,6 +52,7 @@ Every engagement is different. Some give us the freedom to shape delivery from t
 By continuously refining our skills, sharing what we learn, and evolving our approach, we strengthen our ability to deliver successfully, every time.
 
 ## Principles
+
 We follow a core set of five principles that guide how we work, solve problems, prioritise, and get things done. These principles ensure we stay focused on delivering meaningful impact while maintaining a flexible and pragmatic approach.
 
 ### 1. Deliver value early and effectively
@@ -115,4 +116,5 @@ To improve delivery, we first need to understand how things work today. When joi
 * Gather meaningful data to inform process improvements.
 * Recognise that change takes time—be patient but persistent in driving improvement.
 These practices ensure we remain focused, adaptive, and always improving, helping teams deliver in the most effective way possible.
+
 <!-- I don't think any of the above is not true, but may want to rework it to being it inline with "Burendo Values" and wotnot.  Also tone of voice/POV -->

@@ -2,6 +2,7 @@
 title: Default Delivery Process Overview
 ---
 # Default Delivery Process Overview
+
 <!-- Scrap 'Default' - Default implies lack of thought.  I think we can use a better word, or drop it -->
 
 ## Introduction
@@ -41,6 +42,7 @@ Autonomy has always been central to how we work, and that remains the case. Team
 This guide provides that foundation. It is not something to follow blindly, but a starting point that helps teams get up and running quickly. It allows them to build on proven ways of working, applying their own judgement to adapt where needed, rather than spending time solving problems that have already been solved.
 
 Across our engagements, we see a lot of variety in how teams work. Some of that is healthy. Delivery should be tailored to the needs of the customer and the situation. But not all variation is valuable. Sometimes, teams deviate from best practices without good reason, leading to inefficiencies or avoidable problems. Our aim is to encourage well-informed decisions, helping teams focus on where customisation adds real value while sticking to established approaches that are known to work well.
+
 <!-- We should pick a tone of voice, and POV and stick to it throughout. This is all externally facing content. -->
 
 This guide is also for teams who want to refine how they work. By comparing their current approach with these shared defaults, they can assess what is working well and where improvements could be made. In doing so, we can continue to strengthen our delivery, helping teams move faster and more reliably without compromising on quality.

@@ -1,5 +1,5 @@
 ---
-title: Build Phase: Refinement, Implementation, and Deployment
+title: Build Phase - Refinement, Implementation, and Deployment
 ---
 # **Build Phase: Refinement, Implementation, and Deployment**
 
