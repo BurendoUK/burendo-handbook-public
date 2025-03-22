@@ -100,3 +100,5 @@ Validation is not a one-time checkpoint—it is an ongoing process that helps re
 * **Uses lightweight, fast feedback loops** – Avoiding waste while gaining confidence in decisions.
 
 At Burendo, we embed validation into everything we do, ensuring that our services, products, technologies, and organisational changes deliver real, measurable impact.
+<!-- I agree with all of this.  What remains to be defines is how we do it, consistently and with an appropriate TTV -->
+<!-- How do we train our people? -->

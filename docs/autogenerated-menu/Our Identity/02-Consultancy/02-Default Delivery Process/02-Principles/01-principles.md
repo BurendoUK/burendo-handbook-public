@@ -3,7 +3,7 @@ title: Culture, Principles, Practices and Values
 ---
 # Culture, Principles, Practices and Values
 
-Our ways of working are shaped by a set of core principles, practices, and values that guide how we approach work, solve problems, and collaborate with each other. These are not just abstract ideas—they influence everything we do and help us make better decisions.
+<!-- Our ways of working are shaped by a set of core principles, practices, and values that guide how we approach work, solve problems, and collaborate with each other. These are not just abstract ideas—they influence everything we do and help us make better decisions.
 
 We have drawn inspiration from a wide range of movements, organisations, and individuals to define what matters most to us. While there are many influences, three stand out as fundamental to our thinking: The Agile Manifesto, Extreme Programming, and User Centred Design Principles.
 
@@ -39,10 +39,11 @@ User-Centred Design (UCD) ensures we build solutions that truly work for the peo
 * **A continuous feedback loop:** We gather and analyse user feedback regularly, using it to refine and improve the product.
 * **An iterative approach to design:** The user experience is always evolving. We introduce improvements incrementally, learning from real usage and adapting as we go.
 
-By embedding these principles into our work, we ensure that our solutions are not just functional, but genuinely valuable and usable.
+By embedding these principles into our work, we ensure that our solutions are not just functional, but genuinely valuable and usable. -->
+<!-- I don't think any of the above is necessary. THe below focuses on our values and experience learned on the job.  Applying what has made us successful, will make you successful.  The above is other peoples stuff, which moves us away from experience gained doing, to experience gained reading. -->
 
 ## Crafting Great Delivery
-Delivery is more than just getting work over the line. It is about ensuring the right outcomes are achieved in the best possible way. At Burendo, **Customer Delivery First** means focusing on what truly matters—solving real problems, delivering meaningful value, and making a tangible impact for our customers.
+Delivery is more than just getting work over the line. It is about ensuring the right outcomes are achieved in the best possible way. At Burendo, **Customer Delivery First** means focusing on what truly matters; Solving real problems. Delivering meaningful value. Making a tangible impact for our customers.
 
 We see delivery as a craft. It is not just about following processes but knowing how and when to apply the right tools and techniques to get the best results. The ability to adapt, make informed decisions, and navigate challenges is what sets great delivery apart.
 
@@ -50,7 +51,8 @@ Every engagement is different. Some give us the freedom to shape delivery from t
 
 By continuously refining our skills, sharing what we learn, and evolving our approach, we strengthen our ability to deliver successfully, every time.
 
-Principles
+## Principles
+
 We follow a core set of five principles that guide how we work, solve problems, prioritise, and get things done. These principles ensure we stay focused on delivering meaningful impact while maintaining a flexible and pragmatic approach.
 
 ### 1. Deliver value early and effectively
@@ -114,3 +116,6 @@ To improve delivery, we first need to understand how things work today. When joi
 * Gather meaningful data to inform process improvements.
 * Recognise that change takes time—be patient but persistent in driving improvement.
 These practices ensure we remain focused, adaptive, and always improving, helping teams deliver in the most effective way possible.
+
+<!-- I don't think any of the above is not true, but may want to rework it to being it inline with "Burendo Values" and wotnot.  Also tone of voice/POV -->
+<!-- How do we internalise this.  One thing we currently lack is consistency across all our staff that this is how we operate -->

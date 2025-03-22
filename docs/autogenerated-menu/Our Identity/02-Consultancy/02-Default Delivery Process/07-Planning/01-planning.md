@@ -119,3 +119,4 @@ Planning ensures that teams have clarity, alignment, and adaptability in deliver
 * **Prioritises value and risk management** – Helping teams focus on what matters most.
 
 At Burendo, planning is a continuous activity, evolving as we learn and adapt. The best plans are collaborative, lightweight, and driven by outcomes, not just process.
+<!-- Similar to Design.  How do we apply SCALE?  How do we set expectations? -->
