@@ -19,7 +19,7 @@ We always align with our customers' ways of working while offering our best prof
 The process outlined here covers everything needed to take an idea from initial exploration through to design, validation, implementation, and live operation. Ensuring ongoing value and continuous improvement.
 
 To make it easy to follow, we have broken the process into key areas. These are not rigid phases. Everything is iterative, concurrent, and collaborative. Everyone in the team plays a role in each stage, and work moves fluidly through them as needed to get the job done well.
-<!-- Blend this into the Four D's  -->
+<!-- Blend this into the Four D's (Define, Design, Develop, Deliver) -->
 
 ![default delivery process overview](default_delivery_process_overview.png) 
 <!-- replace this image with an updated version of the Burendo SDLC, with more detail. -->
