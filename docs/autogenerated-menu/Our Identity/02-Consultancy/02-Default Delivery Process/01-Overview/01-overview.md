@@ -26,7 +26,7 @@ To make it easy to follow, we have broken the process into key areas. These are 
 
 ## What This Guide Is (and What It Is Not)
 *Spoiler* it's not a guide.  It is not a rigid process that must be followed to the letter.  There is no cheat sheet, or IFTTT flow to follow.  It's a collection of hard-won experience, industry knowledge, and practical insight. It gives teams a solid foundation to establish effective ways of working quickly, saving time and helping them get productive faster.
-<!-- It's not a guide.  Guides imply you ca follow it. It's curated information.  Pieces of a jigsaw that the reader may require multiple or only one piece etc. -->
+<!-- It's not a guide.  Guides imply you can follow it. It's curated information.  Pieces of a jigsaw that the reader may require multiple or only one piece etc. -->
 
 Consistency matters, but that does not mean strict conformity. Teams are encouraged to adapt and refine these practices to fit their situation. If you are unsure where to start, following this guide will give you a great head start in delivering high quality solutions.
 <!-- Again anchoring against value here is important. Certainty - Up.  TTV & Cost - Down -->
@@ -47,3 +47,8 @@ Across our engagements, we see a lot of variety in how teams work. Some of that 
 
 This guide is also for teams who want to refine how they work. By comparing their current approach with these shared defaults, they can assess what is working well and where improvements could be made. In doing so, we can continue to strengthen our delivery, helping teams move faster and more reliably without compromising on quality.
 <!-- It's also for our clients. -->
+<!-- We should include how we deliver at scale.  If we want bigger clients, worth more money, we need to project that outwards. -->
+<!-- How do we apply the SCALE framework to Delivery? -->
+<!-- I think there is also potential reorganise all these documents to follow the SDLC as described.  It helps make more sense.  Allows us to keep driving our unique message. -->
+<!-- It's also worth asking how deep and detailed do we go?  No plan survives first contact with the enemy. Keeping things more loosely defined allows us to be more flexible.  However, that requires a lot of trust and skill in delivery by our people.  Where's our sweet spot? -->
+<!-- I think we're also missing a "What happens at the end?" We should openly acknowledge we want to exit and how we do that.  How we hand over (3 D's [Document, Demonstrate, Duplicate]) is something we should standardise and socialise.  It's a big confidence builder externally and internally. -->

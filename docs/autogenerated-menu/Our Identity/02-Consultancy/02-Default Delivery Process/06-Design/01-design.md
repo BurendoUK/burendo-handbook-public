@@ -14,3 +14,5 @@ Design is not just about aesthetics or documentation, it is a problem-solving pr
 Effective design means solving the right problems—not just creating a great product or service, but ensuring it can be successfully adopted. When new technologies, products, or services are introduced, they often require **new ways of working, new team structures, and new operational models.** We work with our customers to define and implement these changes, helping their organisations adapt and thrive.
 
 Design should be collaborative and iterative. It is not a one-time phase but an ongoing activity that helps teams make informed decisions, adapt to new insights, and create solutions that truly work—not just in theory, but in practice.
+
+<!-- It's hard to disagree with anything in this section.  I believe where we need to focus is on SCALE and expectations.  SCALE - How do we guarantee this all the time, eveytime from everyone?  Expectations - who do we expect to do this? SME? Role defined? Seniority? Everyone? -->

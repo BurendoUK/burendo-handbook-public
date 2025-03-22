@@ -118,3 +118,4 @@ To improve delivery, we first need to understand how things work today. When joi
 These practices ensure we remain focused, adaptive, and always improving, helping teams deliver in the most effective way possible.
 
 <!-- I don't think any of the above is not true, but may want to rework it to being it inline with "Burendo Values" and wotnot.  Also tone of voice/POV -->
+<!-- How do we internalise this.  One thing we currently lack is consistency across all our staff that this is how we operate -->

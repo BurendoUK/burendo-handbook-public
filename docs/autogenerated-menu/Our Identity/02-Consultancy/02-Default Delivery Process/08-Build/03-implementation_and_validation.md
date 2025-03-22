@@ -15,6 +15,9 @@ The **effectiveness of a team is defined more by its culture than by rigid proce
 ### **Defining a Team Culture**
 A high-performing team is greater than the sum of its parts. A strong culture ensures alignment, encourages open discussion, and promotes shared ownership of both successes and challenges. To reinforce this, teams should define and document their **Working Agreement**; a set of ground rules that articulate how they will work together.  
 
+<!-- There's an important definition missing here.  How this is done is a combination of leadership and operator skill/experience.  You can not run a team of junior operators like a team of highly experienced ones.  Also a combination of personalities and leadership skills can have a huge impact.  Good leaders are aware of these and create the right culture for the right team. -->
+<!-- Calling out leadership as a core skill is important.  None of these things are achievable with weak or poor leadership.  How do we ensure this? -->
+
 ➡️ *[See "How to Define an Effective Team Working Agreement"]*
 
 ### **Core Principles for Effective Teams**
