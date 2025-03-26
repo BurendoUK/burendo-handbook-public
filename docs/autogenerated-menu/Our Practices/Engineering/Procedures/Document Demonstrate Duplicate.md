@@ -31,7 +31,7 @@ There is a difference between competence and performance. In other words, they c
 
 Focus on your trainee’s ability to follow directions more than whether they get the right result. This is super important because if you train your trainees to follow directions then… they will follow directions. And, if they follow directions and get the wrong result… then you know it’s the directions. That’s good. You have a lot more control over that.
 
-Every time they do a step successfully–let them know they did it right. And if they respond to praise, praise them! And if they goof, that’s OK too. That’s what training is for. Don’t take over for them when they mess up–simply pause, refocus, and let them try it again. Fast feedback cycles to get people to learn faster.
+Every time they do a step successfully, let them know they did it right. And if they respond to praise, praise them more! And if they get it wrong, that’s OK too. That’s what training is for. Don’t take over for them when they mess up. Simply pause, refocus, and let them try it again. Fast feedback cycles to get people to learn faster.
 
 If they follow your directions exactly and get the wrong result–still praise them for following the directions. Praise them, then make the corrections to your guide on the spot.
 
