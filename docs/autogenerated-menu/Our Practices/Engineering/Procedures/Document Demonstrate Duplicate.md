@@ -1,6 +1,6 @@
 # Document Demonstrate Duplicate
 
-Whether you’re bringing in a new starter, handing over to support, sharing knowledge across teams, or passing things back to the client.  Consistent documentation and training is the cornerstone to make sure the important stuff actually lands.
+Consistent documentation and training are the cornerstones of ensuring important stuff actually lands. Whether you’re bringing in a new starter, handing over to support, sharing knowledge across teams, or passing things back to the client, documentation and training are key.  
 
 It’s about getting what’s in your head out into the world in a way someone else can follow. And not just kind of follow — actually do the thing well, without needing you standing over their shoulder.
 
