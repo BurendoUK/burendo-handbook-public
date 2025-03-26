@@ -16,7 +16,7 @@ You do it in front of the person you are training/handing over to. You sit down 
 Now you have the second draft ready for them to try. 
 
 ## Duplicate: 
-They do it in front of you. Now it's their turn. They follow the same guide you followed. Except this time, they're the one doing, and you're the one observing. We just want them to duplicate what we did. So if the guide is right, the outcome will be the same. And if the guide is off, you'll find out fast! Fix your guide until it's right. Then, have them follow it until they get it right. And once they nail it, high fives all round! _(High fives are non-negotiable.)_
+They do it in front of you. Now it's their turn. They follow the same guide you followed. Except this time, they're the one doing, and you're the one observing. You just want them to duplicate what you did. So if the guide is right, the outcome will be the same. And if the guide is off, you'll find out fast! Fix your guide until it's right. Then, have them follow it until they get it right. And once they nail it, high fives all round! _(High fives are non-negotiable.)_
 
 After you train or handover a few times this way, you’ll have worked out the kinks for that job and it’s pretty smooth sailing from there. 
 _Think about it this way, if you vanished tomorrow, could a new person get the results you get if they only followed your guide? That’s the level of clarity to shoot for._
