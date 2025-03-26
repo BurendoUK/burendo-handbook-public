@@ -14,7 +14,6 @@ Where possible record doing the thing multiple ways and in multiple scenarios. T
 ## Demonstrate: 
 You do it in front of the person you are training/handing over to. You sit down and walk them through the guide step by step. This may take a while depending on how many steps it takes to complete the thing. _If they stop you, or slow you down to understand something, adjust your guide for that._
 Now you have the second draft ready for them to try. 
- 
 
 ## Duplicate: 
 They do it in front of you. Now it's their turn. They follow the same guide you followed. Except this time, they're the one doing, and you're the one observing. We just want them to duplicate what we did. So if the guide is right, the outcome will be the same. And if the guide is off, you'll find out fast! Fix your guide until it's right. Then, have them follow it until they get it right. And once they nail it, high fives all round! _(High fives are non-negotiable.)_
