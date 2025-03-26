@@ -27,7 +27,7 @@ A helpful way to look at this training style is: _if they get it wrong or get co
 
 If they only appear to “get it” after a longish explanation or multiple demonstrations then, again, we’ve got some work to do. Anyone that ignores this will run into chronic training problems. And, word to the wise, you can probably force an inferior guide to work, but this turns into a nightmare when somebody else takes over your training for you.   
 
-There is a difference between competence and performance. In other words, they can know exactly what to do and not be that good at it yet. If that’s the case, then your instructions are fine and they just need practice. You don’t need to change anything, they just need more reps.
+There is a difference between competence and performance. In other words, they can know exactly what to do and not be that good at it yet. If that’s the case, then your instructions are fine and they just need practice. You don’t need to change anything, they just need more practice.
 
 Focus on your trainee’s ability to follow directions more than whether they get the right result. This is super important because if you train your trainees to follow directions then… they will follow directions. And, if they follow directions and get the wrong result… then you know it’s the directions. That’s good. You have a lot more control over that.
 
