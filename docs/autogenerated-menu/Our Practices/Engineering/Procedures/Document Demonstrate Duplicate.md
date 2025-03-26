@@ -25,7 +25,7 @@ _Think about it this way, if you vanished tomorrow, could a new person get the r
 
 A helpful way to look at this training style is: _if they get it wrong or get confused then we got it wrong or made it confusing_. Similarly, if we have to explain what a step means then the step is too complicated. Or, more likely, we tried to put multiple steps into one.
 
-If they only appear to “get it” after a longish explanation or multiple demonstrations then, again, we’ve got some work to do. Anyone that ignore this run into chronic training problems. And, word to the wise, you can probably force an inferior guide to work, but this turns into a nightmare when somebody else takes over your training for you.   
+If they only appear to “get it” after a longish explanation or multiple demonstrations then, again, we’ve got some work to do. Anyone that ignores this will run into chronic training problems. And, word to the wise, you can probably force an inferior guide to work, but this turns into a nightmare when somebody else takes over your training for you.   
 
 There is a difference between competence and performance. In other words, they can know exactly what to do and not be that good at it yet. If that’s the case, then your instructions are fine and they just need practice. You don’t need to change anything, they just need more reps.
 
