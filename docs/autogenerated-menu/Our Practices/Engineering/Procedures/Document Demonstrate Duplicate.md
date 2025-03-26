@@ -33,7 +33,7 @@ Focus on your trainee’s ability to follow directions more than whether they ge
 
 Every time they do a step successfully, let them know they did it right. And if they respond to praise, praise them more! And if they get it wrong, that’s OK too. That’s what training is for. Don’t take over for them when they mess up. Simply pause, refocus, and let them try it again. Fast feedback cycles to get people to learn faster.
 
-If they follow your directions exactly and get the wrong result–still praise them for following the directions. Praise them, then make the corrections to your guide on the spot.
+If they follow your directions exactly and get the wrong result, still praise them for following the directions. Praise them, then make the corrections to your guide on the spot.
 
 Avoid punishment or penalties of any type for doing stuff wrong during training. As a rule of thumb–reward the good stuff you want them to do more of and they'll do more of it. Learning a new skill is punishing enough, we don't need to add to it.
 
