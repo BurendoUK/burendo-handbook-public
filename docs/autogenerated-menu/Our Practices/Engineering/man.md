@@ -18,7 +18,7 @@ While these tenets are not written in stone, or lend themselves to any specific 
 
 ## Open
 
-_Openness removes specific barriers to access, and provides permissions to participate._
+_Openness removes specific barriers to access, and provides permissions to participate, and clearly defines how we secure our work._
 
 ### Why
 
@@ -26,18 +26,19 @@ _Openness removes specific barriers to access, and provides permissions to parti
   * Clear goals/targets that everyone can understand and deliver.
   * Inclusive direction where everyone has influence..
   * Empower choice through collaboration.
+  * Ensure trust and safety how we operate.
 
 ### How
 
   * Encourage challenging closed and distant decision making.
   * Providing access to information, and permission to participate.
-  * Open source as much as possible.
-  * Visualise all goals and work items.
-  * Hold regular forums to engage people.
+  * Open source as much as responsibly possible.
+  * Visualise all goals and work items, and necessary constraints.
+  * Hold regular forums to engage everyone.
 
 ## Transparent
 
-_Transparency promotes open and honest communication in as close to real-time as possible. It ensures an open forum where everyone is given total access, and the ability to influence decisions at any time._
+_Transparency promotes open and honest communication in as close to real-time as possible. It ensures an open forum where everyone has visibility and the ability to influence decisions._
 
 ### Why
 
@@ -49,15 +50,15 @@ _Transparency promotes open and honest communication in as close to real-time as
 
 ### How
 
-  * All things are developed, discussed and tracked.
-  * Peer reviewed code.
-  * Clear definition of done.
-  * Feedback to the business with stories of success and failure.
+  * All things are developed, discussed, tracked and documented openly.
+  * Peer reviewed code with clear standards and guidelines.
+  * Clear definition of done, including considerations for quality and security.
+  * Openly share feedback, successes and lessons learned.
   
 
 ## Repeatable
 
-_Repeatable processes make efficient use of components that have proved to be successful in the past and reduce unnecessary variations that can tie up time, effort and budget._
+_Repeatable processes make efficient use of components that have proved to be successful in the past and reduce unnecessary variations that can tie up time, effort, budget or introduce unintended risks._
 
 ### Why
 
@@ -68,25 +69,25 @@ _Repeatable processes make efficient use of components that have proved to be su
 
 ### How
 
-  * Everything As Code.
-  * Our way.
-  * Small transferable components.
-  * CI/CD.
+  * Everything As Code, using sensible, proven defaults.
+  * Small transferable components that are trusted and verified.
+  * Automation in processes, testing and validation using CI/CD.
+  * Clear documentation and consistent ways of working.
 
 ## Observable
 
-_Use data and tooling to observe the state and behaviour of a system before, during and after development to learn more about its patterns of weakness._
+_Use data and tooling to observe the state and behaviour of a system before, during and after development to learn more about its patterns of strengths and weakness._
 
 ### Why
 
-  * To understand any system as much as possible at all times.
-  * Monitoring only after release only works when something fails.
-  * Discover patterns of weakness/strength.
-  * Establish ownership.
+  * Fully understand any system at all times.
+  * Monitoring only after release is reactive and limits understanding.
+  * Proactively discover patterns of weakness and strength.
+  * Establish clear ownership and response patterns.
 
 ### How
-  * High value event driven metrics.
-  * Quality Logging that means something when read back.
-  * Many actionable active checks and alerts.
-  * High quality, fast feedback loops.
-  * Maintaining a run book for stability and predictability in production systems.
+  * High value event driven metrics and meaningful logging.
+  * Actionable  checks and alerts.
+  * Clear and fast feedback loops.
+  * Maintain practical runbooks for predictable management of systems, including handling unexpected events.
+  
