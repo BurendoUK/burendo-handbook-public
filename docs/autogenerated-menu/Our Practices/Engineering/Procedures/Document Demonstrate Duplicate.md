@@ -35,6 +35,6 @@ Every time they do a step successfully, let them know they did it right. And if 
 
 If they follow your directions exactly and get the wrong result, still praise them for following the directions. Praise them, then make the corrections to your guide on the spot.
 
-Avoid punishment or penalties of any type for doing stuff wrong during training. As a rule of thumb–reward the good stuff you want them to do more of and they'll do more of it. Learning a new skill is punishing enough, we don't need to add to it.
+Avoid punishment or penalties of any type for doing stuff wrong during training. As a rule of thumb; reward the good stuff you want them to do more of and they'll do more of it. Learning a new skill is punishing enough, you don't need to add to it.
 
 It’s hard to fix multiple things when you've never done something before. Give feedback one step at a time. Give one piece of feedback at a time. Practice until they get it right. Then, move to the next step.   Whenever there is a major dip from normal performance, retrain the team. They stopped doing an important step in the process (often because they didn’t know it was important). Once you figure out the step, reward people for following it going forward.
