@@ -1,3 +1,5 @@
+media: blog/images
+  
 content:
   - name: blog
     label: Blog
