@@ -1,5 +1,11 @@
-media: blog/images
-  
+media: 
+  - name: blog media
+    input: blog/images
+    output: blog/images
+  - name: docs media
+    input: docs/static-menu/images
+    output: docs/static-menu/images
+    
 content:
   - name: blog
     label: Blog
