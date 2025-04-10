@@ -100,7 +100,7 @@ content:
           path: docs/static-menu/images
           extensions: [ jpg, jpeg, png ]
       
-      - type: rich-text
+      - type: text
         name: body
         label: Body
         isBody: true
