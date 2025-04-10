@@ -39,7 +39,7 @@ content:
         label: Cover Image
         required: false
         options:
-          media: Blog Images
+          media: Blog Media
           extensions: [ jpg, jpeg, png ]
       
       - type: string
@@ -105,7 +105,7 @@ content:
         label: Image
         required: false
         options:
-          media: Docs Images
+          media: Docs Media
           extensions: [ jpg, jpeg, png ]
       
       - name: body
