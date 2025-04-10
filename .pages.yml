@@ -1,8 +1,10 @@
 media: 
-  - name: Blog Media
+  - name: blog_media
+    label: Blog Media
     input: blog/images
     output: /blog/images
-  - name: Docs Media
+  - name: docs_media
+    label: Docs Media
     input: docs/static-menu/images
     output: /docs/static-menu/images
     
