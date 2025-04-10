@@ -1,10 +1,10 @@
 media: 
   - name: Blog Media
     input: blog/images
-    output: blog/images
+    output: /blog/images
   - name: Docs Media
     input: docs/static-menu/images
-    output: docs/static-menu/images
+    output: /docs/static-menu/images
     
 content:
   - name: blog
