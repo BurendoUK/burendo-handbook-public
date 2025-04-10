@@ -45,7 +45,7 @@ content:
         list: true
         required: false
       
-      - type: rich-text
+      - type: text
         name: body
         label: Body
         
