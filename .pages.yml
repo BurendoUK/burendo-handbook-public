@@ -103,4 +103,3 @@ content:
       - type: text
         name: body
         label: Body
-        isBody: true
