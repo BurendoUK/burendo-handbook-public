@@ -1,3 +1,8 @@
+---
+title: Document Demonstrate Duplicate
+sidebar_position: 1
+---
+
 # Document Demonstrate Duplicate
 
 Consistent documentation and training are the cornerstones of ensuring important stuff actually lands. Whether you’re bringing in a new starter, handing over to support, sharing knowledge across teams, or passing things back to the client, documentation and training are key.  
