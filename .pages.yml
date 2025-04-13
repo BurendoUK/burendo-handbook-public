@@ -3,12 +3,24 @@ media:
     label: Blog Media
     input: blog/images
     output: /blog/images
+
   - name: docs_media
     label: Docs Media
     input: docs/static-menu/images
     output: /docs/static-menu/images
+
+  - name: authors_media
+    label: Authors Pictures
+    input: blog/images/authors
+    output: /blog/images/authors
     
 content:
+  - name: authors
+    label: Authors
+    type: file
+    path: blog/authors.yml
+    format: yaml
+
   - name: blog
     label: Blog
     type: collection
@@ -42,6 +54,14 @@ content:
         required: false
         options:
           media: Blog Media
+          extensions: [ jpg, jpeg, png ]
+
+      - type: image
+        name: authors_image
+        label: Authors Picture
+        required: false
+        options:
+          media: Authors Pictures
           extensions: [ jpg, jpeg, png ]
       
       - type: string
