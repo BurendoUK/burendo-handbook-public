@@ -309,3 +309,5 @@ content:
       - name: body
         label: Body
         type: rich-text
+        options:
+          media: static_menu_media
