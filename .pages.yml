@@ -85,6 +85,8 @@ content:
       - type: rich-text
         name: body
         label: Body
+        options:
+          media: blog_media
         
   - name: identity
     label: Our Identity
@@ -139,6 +141,8 @@ content:
       - name: body
         label: Body
         type: rich-text
+        options:
+          media: our_identity_media
 
   - name: people
     label: Our People
@@ -193,6 +197,8 @@ content:
       - name: body
         label: Body
         type: rich-text
+        options:
+          media: our_people_media
 
   - name: practices
     label: Our Practices
@@ -247,6 +253,8 @@ content:
       - name: body
         label: Body
         type: rich-text
+        options:
+          media: our_practices_media
 
   - name: static-menu
     label: Static Menu
