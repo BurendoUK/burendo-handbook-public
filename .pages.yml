@@ -11,17 +11,17 @@ media:
     
   - name: our_identity_media
     label: Our Identity Media
-    input: img/Our Identity
+    input: static/img/Our Identity
     output: /img/Our Identity
     
   - name: our_people_media
     label: Our People Media
-    input: img/Our People
+    input: static/img/Our People
     output: /img/Our People
     
   - name: our_practices_media
     label: Our Practices Media
-    input: img/Our Practices
+    input: static/img/Our Practices
     output: /img/Our Practices
 
   - name: authors_media
