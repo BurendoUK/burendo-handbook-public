@@ -3,11 +3,6 @@ media:
     label: Blog Media
     input: blog/images
     output: /blog/images
-
-  - name: static_menu_media
-    label: Static Menu Media
-    input: docs/static-menu/images
-    output: /docs/static-menu/images
     
   - name: our_identity_media
     label: Our Identity Media
@@ -41,7 +36,7 @@ content:
     type: collection
     path: 'blog'
     view:
-      fields: [ title, description, date, authors, image, slug, tags, body ]
+      fields: [ title, description, date, authors, image, cover_image, author_image, slug, tags, body ]
     fields:
       - type: string
         name: title
@@ -69,6 +64,13 @@ content:
         required: false
         options:
           media: blog_media
+
+      - type: image
+        name: author_image
+        label: Author Image
+        required: false
+        options:
+          media: authors_media
       
       - type: image
         name: image
@@ -76,6 +78,7 @@ content:
         required: false
         options:
           media: blog_media
+          multiple: true
       
       - type: string
         name: slug
@@ -143,6 +146,7 @@ content:
         required: false
         options:
           media: our_identity_media
+          multiple: true
       
       - name: body
         label: Body
@@ -199,6 +203,7 @@ content:
         required: false
         options:
           media: our_people_media
+          multiple: true
       
       - name: body
         label: Body
@@ -255,65 +260,10 @@ content:
         required: false
         options:
           media: our_practices_media
+          multiple: true
       
       - name: body
         label: Body
         type: rich-text
         options:
           media: our_practices_media
-
-  - name: static-menu
-    label: Static Menu
-    type: collection
-    path: 'docs/static-menu'
-    view:
-      fields: [ title, description, sidebar_position, slug, pagination_next, pagination_prev, tags, image, body ]
-    fields:
-      - type: string
-        name: title
-        label: Title
-        required: false
-      
-      - type: string
-        name: description
-        label: Description
-        required: false
-      
-      - type: number
-        name: sidebar_position
-        label: Sidebar Position
-        required: true
-      
-      - type: string
-        name: slug
-        label: Slug
-        required: false
-      
-      - type: string
-        name: pagination_next
-        label: Next Page
-        required: false
-      
-      - type: string
-        name: pagination_prev
-        label: Previous Page
-        required: false
-      
-      - type: string
-        name: tags
-        label: Tags
-        list: true
-        required: false
-
-      - type: image
-        name: image
-        label: Image
-        required: false
-        options:
-          media: static_menu_media
-      
-      - name: body
-        label: Body
-        type: rich-text
-        options:
-          media: static_menu_media
