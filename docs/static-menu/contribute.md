@@ -45,8 +45,9 @@ In order to get access to add or edit content:
 
 &nbsp; <!-- Adds a new line  -->
 ### GitHub Contributor invite
-You will get an email invitation to join as an external collaborator to the BurendoUK organisation.
-![Email invite](images/contribution/email-invitation.png)
+You will get an email invitation to join as an external collaborator to the BurendoUK organisation.  
+![Email invite](images/contribution/email-invitation.png)  
+
 Press View invitation, then accept then invitation in GitHub.
 
 > *Note*: Once you have access to contribute to the public content, it stays with you while at Burendo, you do **not** need to request public contributor access every time
@@ -63,12 +64,14 @@ Now you will need to select the type of contribution you wish to make and follow
 ### The CMS
 We've set up PagesCMS to make editing the handbook easier.  You can find the CMS [here](https://app.pagescms.org/).  
 Choose to login with GitHub.
-You should see the following page:
+You should see the following page:  
+
 ![CMS Front page](images/contribution/cms-front.png)
 
 > *Note*: There seems to be an issue with GitHub invites.  If you don't see the option for `burendo-handbook-public`, you can accept the invite again via the following link: https://github.com/BurendoUK/burendo-handbook-public/invitations
 
-You'll be prompted to authorise PagesCMS as a GitHub application.  Be sure to Authorise Pages CMS.
+You'll be prompted to authorise PagesCMS as a GitHub application.  Be sure to Authorise Pages CMS.  
+
 ![Authorise Pages CMS](images/contribution/pages-cms-auth.png)
 
 Once you've authorised Pages CMS, you should be able to click `open` on the `burendo-handbook-public` option.
@@ -77,10 +80,12 @@ Once you've authorised Pages CMS, you should be able to click `open` on the `bur
 ### Create a new branch
 
 By default you will be on the `main` branch. This branch is considered to be the definitive branch, and its contents are what is displayed when visiting the Handbook proper.
-You need to create a new branch to make your changes in. To do this, click the Burendo logo in the top left corner and choose `manage branches`.
+You need to create a new branch to make your changes in. To do this, click the Burendo logo in the top left corner and choose `manage branches`.  
+
 ![Manage branches option](images/contribution/manage-branches.png)
 
-In the search bar provided you can type in the name of you new branch and click `Create`.
+In the search bar provided you can type in the name of you new branch and click `Create`.  
+
 ![Create branch option](images/contribution/create-branches.png)
 
 It's best to use the format `YYYY-MM-DD-Name-of-contribution` - i.e. `2025-01-01-my-awesome-guide`.  Once you've clicked create, you will swap to that branch and can make your content changes.
