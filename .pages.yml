@@ -36,7 +36,7 @@ content:
     type: collection
     path: 'blog'
     view:
-      fields: [ title, description, date, authors, image, slug, tags, body ]
+      fields: [ title, description, date, authors, image, cover_image, author_image, slug, tags, body ]
     fields:
       - type: string
         name: title
