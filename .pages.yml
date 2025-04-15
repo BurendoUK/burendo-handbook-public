@@ -26,10 +26,16 @@ media:
 
   - name: authors_media
     label: Authors Pictures
-    input: blog/images/authors
-    output: /blog/images/authors
+    input: static/img/authors
+    output: /img/authors
     
 content:
+  - name: authors
+    label: Authors
+    type: file
+    path: blog/authors.yml
+    format: yaml
+
   - name: blog
     label: Blog
     type: collection
