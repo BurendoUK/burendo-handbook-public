@@ -174,7 +174,7 @@ Within the document your editing is an Image field.  You can click the `Upload f
 
 To use the image in your document, on a new line type `/` and choose the image option.  Choose the image you wish to use.
 
-![image option menu](iamges/contribution/image-option-menu.png)
+![image option menu](images/contribution/image-option-menu.png)
 
 It's best to leave a new line before and after this text for readability and to ensure the image doesn't get muddled up within the text itself.
 
