@@ -163,48 +163,13 @@ Now you will create your actual blog.
 
 Often you will want to upload new images so you can reference them in your page or blog. Firstly, you should ensure your images are named all lowercase (except an initial captial letter) with hyphens for spaces and is of type `png`. For example `This-is-an-image.png`.
 
-Next, you need to navigate within the browser to your document where you will be referencing the image. **Within this folder**, click `Add file` from the top left drop down and click `Upload files`. For instance, if I was adding the images to the `roles-introduction.md` document, then I will add them as below:
+Within the document your editing is an Image field.  You can click the `Upload files` button to upload your images, or click the folder icon to browse for an existing image.
 
 ![Upload files menu example](images/contribution/Upload-images.png)
 
-After clicking `Upload files` you will have a screen similar to the below:
+To use the image in your document, on a new line type `/` and choose the image option.  Choose the image you wish to use.
 
-![Upload files screen](images/contribution/Upload-files-screen.png)
-
-At this point there are two options, so ensure you select the right one:
-
-1. [Images folder exists](#images-folder-exists) - when the folder your doc is in **already has** a sub-folder called `images`
-1. [Images folder does not exist](#images-folder-does-not-exist) - when the folder your doc is in **does not have** a sub-folder called `images`
-
-
-&nbsp; <!-- Adds a new line  -->
-#### Images folder exists
-
-If the `images` folder exists, simply drag and drop the photos to the upload box on this screen, then enter a title in the text box where it says `Add files via upload` that says what you are doing i.e. `Upload images for new roles document` and then add a longer description in the bigger next text box if you feel it is needed. Then click `Commit changes`.
-
-You will now be back at the top level folder like this and will need to browse back to your document to edit it, following instructions at [editing documents](#edit-an-existing-document) to find the document.
-
-To reference the images in the document following the instructions [here](#use-the-images-in-a-document).
-
-
-&nbsp; <!-- Adds a new line  -->
-#### Images folder does not exist
-
-If the `images` folder does not exist, you need to **locally** create a folder called `images` (ensure the name is lowercase), then move all the images you wish to upload for this document in to that folder locally and then drag and drop the `images` folder itself to the upload box on this screen.
-
-Then enter a title in the text box where it says `Add files via upload` that says what you are doing i.e. `Upload images for new roles document` and then add a longer description in the bigger next text box if you feel it is needed. Then click `Commit changes`.
-
-You will now be back at the top level folder like this and will need to browse back to your document to edit it, following instructions at [editing documents](#edit-an-existing-document) to find the document.
-
-To reference the images in the document following the instructions [here](#use-the-images-in-a-document).
-
-
-&nbsp; <!-- Adds a new line  -->
-#### Use the images in a document
-
-When the images have been [uploaded](#adding-images), you can reference using the syntax `![Alt text of image](images/Image-name.png)` i.e. for the image named `This-is-an-image.png`, you would add:
-
-> `![An image showing how to add new images](images/This-is-an-image.png)`
+![image option menu](iamges/contribution/image-option-menu.png)
 
 It's best to leave a new line before and after this text for readability and to ensure the image doesn't get muddled up within the text itself.
 
