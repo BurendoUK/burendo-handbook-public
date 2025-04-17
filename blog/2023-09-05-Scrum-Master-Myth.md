@@ -17,7 +17,7 @@ If you've been in the software engineering field for a while, you've undoubtedly
 
 ## What is Scrum?
 
-![baby don't hurt me](./images/2023-09-05-Scrum-Master-Myth/whatisscrum.gif)
+![baby don't hurt me](/img/blogs/2023-09-05-Scrum-Master-Myth/whatisscrum.gif)
 
 First things first, let's talk Scrum. It's a framework that's part of the agile methodology, aimed at delivering high-quality software. The Scrum Master is the facilitator, the one who ensures that the team follows the Scrum rules and rituals. Sounds important, right? Well...
 
