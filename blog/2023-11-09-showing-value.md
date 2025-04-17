@@ -10,6 +10,8 @@ As Product Delivery consultants, we want to ensure that our teams continue to wo
 
 In this blog post, we are going to cover how we can ensure best practices stick from the stance of a Scrum Master/Agile Delivery Lead and how these best practices help to deliver value to the customer more efficiently.
 
+<!--truncate-->
+
 # The Issue We Saw
 We joined a product delivery team for an already established product and found something that we see quite often: that the Show and Tells (aka Sprint Reviews) were only getting attendees that were very close to the development team (in this case the same tribe). We didn’t have the right audience for the squad. For example, we had no real users of the service/tool; we had no one from legal or IG; or our key stakeholders/sponsors. We were missing their representation in these critical fortnightly meetings, where we demonstrated the value that we had delivered in the previous sprint and looked for valuable feedback.
 
