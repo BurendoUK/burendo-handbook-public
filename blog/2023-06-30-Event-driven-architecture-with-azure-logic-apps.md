@@ -44,7 +44,7 @@ The following steps will show you how to set up the relevant pieces in Azure to 
 
 An [Azure Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview) instance will be needed so we can create a message queue to store the messages that will be used as the event; to create this, from the Azure Portal, search for Azure Service Bus:
 
-![search-service-bus](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/search-service-bus.png)
+![search-service-bus](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/search-service-bus.png)
 
 Next, go ahead and create a Service Bus with a logical name, you don't need to worry about the advanced options for this example.
 
@@ -56,17 +56,17 @@ For the pricing tier, ensure you select Basic to make sure you're not incurring 
 
 Finally, we will need to create something known as a Shared Access Policy. We need this so that the Logic App has permission to talk to the Service Bus. From the Service Bus screen, go to the Shared access policies section and click Add; we want to follow the [least privilege principle](https://learn.microsoft.com/en-us/azure/active-directory/develop/secure-least-privileged-access) here, so let's only give it Listen as part of the SAS Policy:
 
-![sas-policy](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/sas-policy.png)
+![sas-policy](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/sas-policy.png)
 
 Once this is created, copy the Primary Connection String as we will need this later:
 
-![primary-connection-string](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/primary-connection-string.png)
+![primary-connection-string](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/primary-connection-string.png)
 
 ### Creating the Message Queue
 
 Now that we have a Service Bus setup, we can now go ahead and create a queue. From the Service Bus screen, create a queue with a name that's related to the consumer i.e.
 
-![create-queue](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/create-queue.png)
+![create-queue](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/create-queue.png)
 
 Okay, we now have the pieces in place that will create an event for the Logic App to consume.
 
@@ -80,11 +80,11 @@ As we're only using a Basic setup, we don't have the option to create a Topic, w
 
 Now for the fun part, from the Azure Portal, search for Logic Apps:
 
-![search-logic-apps](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/search-logic-apps.png)
+![search-logic-apps](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/search-logic-apps.png)
 
 Create a Logic App, again with a logical name that reflects what it will be doing. Azure will give you a list of predefined starter options, which is useful, as we will use the first one 'When a message is received in a Service Bus queue'
 
-![common-trigger-list](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/common-trigger-list.png)
+![common-trigger-list](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/common-trigger-list.png)
 
 :::info
 
@@ -94,15 +94,15 @@ Ensure you create the Logic App in the same region as the Azure Service Bus abov
 
 In the Logic Apps Designer, the first part we will configure is connecting to the Service Bus, you need the connection string we copied as part of setting up the SAS Policy, paste that in and hit Create (as a side note, this will create an API Connection in Azure, which you can view/edit by searching API Connections in the Azure Portal).
 
-![logic-app-sb-connection](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/logic-app-sb-connection.png)
+![logic-app-sb-connection](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/logic-app-sb-connection.png)
 
 Once this has been created, you will be prompted with setting up which queue you want to connect to, enter the name of the queue and configure a cadence for how often you want the Logic App to check the queue for new messages, once you've done that, click Next Step:
 
-![when-a-message-is-received-config](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/when-a-message-is-received-config.png)
+![when-a-message-is-received-config](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/when-a-message-is-received-config.png)
 
 For the next step, we want to tell the Logic App to parse the body of the message, so search for JSON and select the 'Parse JSON' action:
 
-![select-parse-json-action](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/select-parse-json-action.png)
+![select-parse-json-action](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/select-parse-json-action.png)
 
 We're expecting the message to contain a JSON message payload, an example of this being:
 
@@ -116,9 +116,9 @@ We're expecting the message to contain a JSON message payload, an example of thi
 
 The Parse JSON action wil let us create a [JSON Schema](https://json-schema.org/) so that we don't have to manually come up with one.
 
-![parse-json-generate-schema](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/parse-json-generate-schema.png)
+![parse-json-generate-schema](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/parse-json-generate-schema.png)
 
-![enter-sample-json-payload](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/enter-sample-json-payload.png)
+![enter-sample-json-payload](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/enter-sample-json-payload.png)
 
 This will then generate a nice schema for us to use in future steps:
 
@@ -141,23 +141,23 @@ This will then generate a nice schema for us to use in future steps:
 
 For the Content, we will need to do a little bit of code for this, which looks like`json(base64ToString(triggerBody()?['ContentData']))`, the reason for this is that the message lands on the queue as a base64 encoded string:
 
-![json-expression](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/json-expression.png)
+![json-expression](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/json-expression.png)
 
 We can now add the Twilio integration, this is a built in Action so as before, just search for Twilio and select it:
 
-![select-twilio-action](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/select-twilio-action.png)
+![select-twilio-action](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/select-twilio-action.png)
 
 As we want to send a message, select Send Text Message:
 
-![select-send-text-message](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/select-send-text-message.png)
+![select-send-text-message](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/select-send-text-message.png)
 
 As part of the [pre-requisites](#pre-requisites) for this, you should have set up a trial Twilio account, which you'll need for the next step of configuration, you can find the information you need for this in your Twilio account:
 
-![twilio-connection-config](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/twilio-connection-config.png)
+![twilio-connection-config](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/twilio-connection-config.png)
 
 Here's the great thing about setting up the JSON schema earlier, the Logic App will let you add dynamic content based on data that has been set in prior actions to this one, so we can set the 'To Phone Number' with the `customerPhoneNumber`and create the body of the text message using other information
 
-![send-text-message-config](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/send-text-message-config.png)
+![send-text-message-config](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/send-text-message-config.png)
 
 That's it! We have created a notification service with very little code, in the next step, we will test the notification.
 
@@ -165,11 +165,11 @@ That's it! We have created a notification service with very little code, in the 
 
 In order to test the service, we need to add a message on to the service bus queue. From Azure, go to the queue we set up [earlier](#creating-the-message-queue) and then navigate to the Service Bus Explorer. We can add a message to the queue from inside Azure by just using 'Send Message':
 
-![send-message-to-queue](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/send-message-to-queue.png)
+![send-message-to-queue](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/send-message-to-queue.png)
 
 Depending on how long you set your Logic App to monitor the queue for, you should receive a message to your phone:
 
-![sms-message](images/2023-06-30-Event-driven-architecture-with-azure-logic-apps/sms-message.jpeg)
+![sms-message](/img/blogs/2023-06-30-Event-driven-architecture-with-azure-logic-apps/sms-message.jpeg)
 
 Obviously if you pay for a Twilio service you will not have the trial account information in the text message, but, other than that, our service is working!
 

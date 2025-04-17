@@ -22,7 +22,7 @@ I have been very fortunate to spend quite a bit of time pair programming alongsi
 
 As part of this, Brian sent me a list of things that he thought would be useful to look up before our initial meeting where we would get our hands mucky. This list included things like links to W3Schools on HTML forms and how to build a table in HTML, a link to CodePen so I could code and see the result instantly and finally a recommendation of downloading Visual Studio Code where we would actually, write the ‘proper’ code. I then watched a YouTube tutorial for VS Code. When writing the code for the actual score card, I had learnt that we needed to identify the document type and then used some of the tags I had learned from W3Schools such as `<form>` and `<table>`. 
 
-![html](images/2023-08-24-Stepping-into-engineering/html.png)
+![html](/img/blogs/2023-08-24-Stepping-into-engineering/html.png)
 
 ## Building the Scorecard
 
@@ -38,5 +38,5 @@ First of all, it is important to highlight just how fortunate I am to be in a po
 
 As part of my continuous learning and genuine interest in the front-end development, I have recently started an online Udemy course in the basics of JavaScript that also touches on some (very) basics of HTML. I also did some 1 to 1 coaching with one of our Heads of Delivery, Ian, around CI/CD and have been pointed in the direction of a few things such as Trunk Based Development, source control, unit tests and many other modern software engineering practices. This gives me a very good starter for my continued journey into the whole world of engineering and will enhance my understanding and technical abilities when on client which is a win/win for everyone! As I move forward, my next action involves creating a pull request on GitHub as I finalise the composition of this blog. 
 
-![scorecard](images/2023-08-24-Stepping-into-engineering/scorecard.png)
+![scorecard](/img/blogs/2023-08-24-Stepping-into-engineering/scorecard.png)
  

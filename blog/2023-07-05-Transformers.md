@@ -10,7 +10,7 @@ tags: [ai, llm, large-language-models, transformers, engineering]
 
 If you're finding it hard to wrap your head around how Transformer models in natural language processing work, allow me to simplify it for you. Let's use an analogy we can all relate to—ordering food at McDonald's!
 
-![An example Transformer](images/2023-07-05-Transformers/transformer.png)
+![An example Transformer](/img/blogs/2023-07-05-Transformers/transformer.png)
 
 <!--truncate-->
 

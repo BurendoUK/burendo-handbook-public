@@ -1,0 +1,10 @@
+{
+    "position": 4,
+    "label": "Our Practices",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "title": "Our Practices Overview"
+    }
+}
